@@ -1,0 +1,460 @@
+Start,Speed,Distance,Parcour_Type,Profile_Score,Vertical_Meters,Departure,Arrival,List_Quality,Won_How,stage,day,Month,year
+,49.42,12.3,p1,2,95,Salamanca ,Salamanca,927,Time Trial,1,8,September,2001
+,41.181,147.2,p1,12,673,Salamanca ,Valladolid,927,Sprint of large group,2,9,September,2001
+,46.108,140.5,p1,3,567,Valladolid ,León,927,Sprint of large group,3,10,September,2001
+,42.039,175.0,p2,50,1942,León ,Gijón,927,Sprint of small group,4,11,September,2001
+,37.306,160.8,p5,282,2946,Gijón ,Lagos de Covadonga,927,? km solo,5,12,September,2001
+,44.666,180.6,p2,107,2382,Cangas de Onís ,Torrelavega,927,Sprint a deux,6,13,September,2001
+,48.087,44.2,p2,33,516,Torrelavega ,Torrelavega,927,Time Trial,7,14,September,2001
+,41.338,195.0,p5,163,2472,Reinosa ,Alto de la Cruz de la Demanda (Ezcaray) ,927,? km solo,8,15,September,2001
+,55.176,179.2,p1,2,650,Logroño ,Zaragoza,927,Sprint of large group,9,16,September,2001
+,38.804,168.4,p5,208,3669,Sabadell ,La Molina,927,35 km solo,10,18,September,2001
+,37.236,154.2,p5,252,3728,Alp ,Estación de Pal (Andorra) ,927,40 km solo,11,19,September,2001
+,28.007,17.1,p5,142,943,Ordino ,Estación de Esquí de Ordino (Andorra) ,927,Time Trial,12,20,September,2001
+,46.099,206.0,p2,53,2050,Andorra ,Universal Studios Port Aventura,927,Sprint of small group,13,21,September,2001
+,43.323,170.5,p1,20,1376,Tarragona ,Vinaròs,927,Sprint a deux,14,22,September,2001
+,36.108,207.2,p5,257,3575,Valencia ,Alto de Aitana,927,10 km solo,15,23,September,2001
+,48.019,153.3,p2,51,1118,Alcoy ,Murcia,927,Sprint of small group,16,25,September,2001
+,48.147,159.5,p1,9,1387,Murcia ,Albacete,927,Sprint of small group,17,26,September,2001
+,49.348,154.2,p1,42,1197,Albacete ,Cuenca,927,? km solo,18,27,September,2001
+,43.909,168.0,p1,72,1874,Cuenca ,Guadalajara,927,Sprint of small group,19,28,September,2001
+,39.894,176.3,p5,218,2991,Guadalajara ,Alto de Abantos,927,2 km solo,20,29,September,2001
+,50.05,38.0,p1,16,414,Madrid,Madrid,927,Time Trial,21,30,September,2001
+,55.79,24.5,p1,0,44,Valencia,Valencia,1073,Time Trial,1,7,September,2002
+,36.24,144.7,p2,87,1892,Valencia,Alcoy,1073,Sprint of large group,2,8,September,2002
+,42.92,134.2,p1,4,721,San Vicente del Raspeig,Murcia,1073,Sprint of large group,3,9,September,2002
+,42.01,149.5,p1,23,1254,Águilas,Roquetas de Mar,1073,Sprint of large group,4,10,September,2002
+,34.34,198.0,p5,295,4874,El Ejido , Sierra Nevada ,1073,0.8 km solo,5,11,September,2002
+,38.77,153.1,p5,247,2817,Granada,Sierra de la Pandera,1073,4 km solo,6,12,September,2002
+,43.13,196.8,p1,45,2014,Jaén,Málaga,1073,Sprint of large group,7,13,September,2002
+,40.26,173.5,p4,147,3155,Málaga,Ubrique,1073,Sprint of small group,8,14,September,2002
+,46.26,130.2,p2,83,1330,Córdoba,Córdoba,1073,4 km solo,9,15,September,2002
+,48.1,36.5,p1,9,355,Córdoba,Córdoba,1073,Time Trial,10,16,September,2002
+,42.25,166.1,p4,103,2609,Alcobendas,Collado Villalba,1073,Sprint of small group,11,18,September,2002
+,49.23,210.5,p1,20,1204,Segovia,Burgos,1073,Sprint of large group,12,19,September,2002
+,45.307,189.8,p2,72,2208,Burgos,Santander,1073,Sprint of small group,13,20,September,2002
+,44.34,190.2,p2,54,2003,Santander,Gijón,1073,25 km solo,14,21,September,2002
+,35.22,176.7,p5,463,4541,Gijón,Alto l'Angliru ,1073,5 km solo,15,22,September,2002
+,43.76,154.7,p2,94,2373,Avilés,León,1073,Sprint a deux,16,23,September,2002
+,49.08,145.6,p1,17,833,Benavente,Salamanca,1073,Sprint of large group,17,24,September,2002
+,38.19,193.7,p5,282,3989,Salamanca,Estación de La Covatilla,1073,44 km solo,18,25,September,2002
+,40.34,177.8,p2,117,3005,Béjar,Ávila,1073,51 km solo,19,26,September,2002
+,47.032,141.2,p1,16,1059,Ávila,Warner Bros. Park (San Martín de la Vega),1073,Sprint of large group,20,27,September,2002
+,51.61,41.2,p1,6,373,Warner Bros. Park (San Martín de la Vega),Madrid,1073,Time Trial,21,28,September,2002
+,56.22,30.0,p1,8,217,Gijón , Gijón,906,Time Trial,1,6,September,2003
+,42.79,148.0,p4,122,2045,Gijón , Cangas de Onís,906,Sprint a deux,2,7,September,2003
+,45.33,154.3,p1,45,1786,Cangas de Onís,Santander,906,Sprint of large group,3,8,September,2003
+,43.8,151.0,p2,69,2287,Santander , Burgos,906,15 km solo,4,9,September,2003
+,50.15,166.7,p1,8,835,Soria,Zaragoza,906,Sprint of large group,5,10,September,2003
+,49.06,43.8,p1,3,305,Zaragoza , Zaragoza,906,Time Trial,6,11,September,2003
+,37.84,190.0,p5,285,4432,Huesca,Cauterets. Cam Basque,906,12 km solo,7,12,September,2003
+,34.87,166.0,p5,238,4060,Cauterets,Pla de Beret ,906,Sprint a deux,8,13,September,2003
+,36.34,174.8,p5,266,4201,Viella,Port d'Envalira ,906,Sprint of small group,9,14,September,2003
+,46.4,194.0,p1,76,2237,Andorra,Sabadell,906,Sprint of large group,10,15,September,2003
+,49.85,162.0,p1,48,1468,Utiel , Cuenca,906,Sprint of small group,11,16,September,2003
+,45.66,168.8,p1,9,743,Cuenca,Albacete,906,Sprint of small group,12,17,September,2003
+,51.54,53.3,p1,5,155,Albacete , Albacete,906,Time Trial,13,18,September,2003
+,45.01,167.4,p1,8,910,Albacete,Valdepeñas,906,Sprint of large group,14,19,September,2003
+,39.62,172.1,p5,225,2505,Valdepeñas ,La Pandera,906,Sprint of small group,15,20,September,2003
+,38.94,162.0,p5,249,3368,Jaén, Sierra Nevada,906,1 km solo,16,21,September,2003
+,47.49,188.4,p2,94,1857,Granada, Córdoba,906,20 km solo,17,22,September,2003
+,45.95,143.8,p1,55,1818,Las Rozas , Las Rozas,906,16 km solo,18,23,September,2003
+,42.54,164.0,p4,107,2579,Alcobendas , Collado Villalba ,906,Sprint a deux,19,24,September,2003
+,26.74,11.2,p5,99,617,San Lorenzo de El Escorial , Alto de Abantos,906,Time Trial,20,25,September,2003
+,37.82,145.8,p1,12,898,Madrid , Madrid,906,Sprint of large group,21,26,September,2003
+,46.71,28.0,p1,6,186,León ,León,1049,Time Trial,1,4,September,2004
+,41.11,207.0,p1,15,1070,León , Burgos,1049,Sprint of large group,2,5,September,2004
+,42.19,157.0,p3,26,1332,Burgos , Soria,1049,Sprint of small group,3,6,September,2004
+,38.1,167.0,p1,7,797,Soria,Zaragoza,1049,Sprint of large group,4,7,September,2004
+,36.36,186.5,p3,121,2240,Zaragoza,Morella,1049,0.5 km solo,5,8,September,2004
+,41.25,157.0,p2,65,1931,Benicarló,Castellón de la Plana,1049,Sprint of small group,6,9,September,2004
+,42.48,165.0,p1,23,1513,Castellón de la Plana,Valencia,1049,Sprint of large group,7,10,September,2004
+,50.9,40.1,p1,0,72,Almusafes,Almusafes,1049,Time Trial,8,11,September,2004
+,37.83,162.0,p5,279,3954,Játiva,Alto de Aitana,1049,0.4 km solo,9,12,September,2004
+,38.5,174.5,p4,184,2573,Alcoy,Xorret de Catí ,1049,4.3 km solo,10,13,September,2004
+,40.32,165.0,p1,8,1170,San Vicente del Raspeig,Caravaca de la Cruz,1049,162 km solo,11,14,September,2004
+,33.53,145.0,p5,301,4254,Almería,Observatorio de Calar Alto ,1049,7 km solo,12,16,September,2004
+,42.66,172.0,p1,48,1804,El Ejido,Málaga,1049,Sprint of large group,13,17,September,2004
+,40.64,167.0,p4,159,2835,Málaga,Granada ,1049,24.5 km solo,14,18,September,2004
+,28.42,29.6,p5,214,1487,Granada,Sierra Nevada ,1049,Time Trial,15,19,September,2004
+,43.95,190.0,p1,9,732,Olivenza,Cáceres,1049,2.5 km solo,16,21,September,2004
+,34.92,170.0,p5,305,4216,Plasencia,La Covatilla ,1049,7.5 km solo,17,22,September,2004
+,38.81,196.0,p4,143,3614,Béjar,Ávila,1049,Sprint a deux,18,23,September,2004
+,39.9,142.0,p2,119,2608,Ávila,Collado Villalba,1049,105 km solo,19,24,September,2004
+,36.53,178.0,p5,183,3628,Alcobendas,Puerto de Navacerrada ,1049,7 km solo,20,25,September,2004
+,48.23,28.2,p1,14,318,Madrid,Madrid ,1049,Time Trial,21,26,September,2004
+,43.08,7.0,p1,28,162,Granada,Granada,928,Time Trial,1,27,August,2005
+,38.98,189.3,p2,100,2065,Granada,Córdoba,928,Sprint of small group,2,28,August,2005
+,40.22,153.3,p1,60,2029,Cordoba,Puertollano,928,Sprint of large group,3,29,August,2005
+,40.82,232.3,p1,9,1119,Ciudad Real,Argamasilla de Alba,928,Sprint of large group,4,30,August,2005
+,47.6,176.0,p1,40,1470,Alcazar de San Juan,Cuenca,928,Sprint of small group,5,31,August,2005
+,39.78,217.0,p5,217,3559,Cuenca,Valdelinares,928,0.8 km solo,6,1,September,2005
+,39.68,212.5,p1,63,2754,Teruel,Vinaros,928,Sprint of large group,7,2,September,2005
+,43.74,189.0,p1,21,1671,Tarragona,Lloret de Mar,928,Sprint of large group,8,3,September,2005
+,47.29,48.0,p1,34,606,Lloret de Mar,Lloret de Mar,928,Time Trial,9,4,September,2005
+,37.08,206.3,p5,287,4570,La Vall d'En Bas (Girona),Ordino Arcalis (Andorra),928,Sprint of small group,10,5,September,2005
+,37.32,192.6,p5,331,4757,Andorra,Cerler,928,8 km solo,11,6,September,2005
+,41.22,133.0,p1,45,1680,Logroño,Burgos,928,Sprint of large group,12,8,September,2005
+,48.26,196.0,p5,118,2334,Burgos,La Bien Aparecida,928,Sprint a deux,13,9,September,2005
+,38.92,172.3,p5,298,3655,Nestlé La Penilla,Lagos de Covadonga,928,11 km solo,14,10,September,2005
+,39.0,191.0,p5,228,3940,Cangas de Onis,Valgrande Pajares,928,5 km solo,15,11,September,2005
+,44.13,162.5,p1,16,732,Leon,Valladolid,928,Sprint of small group,16,13,September,2005
+,43.01,165.6,p4,149,2973,El Espinar,La Granja de San Ildefonso,928,26 km solo,17,14,September,2005
+,38.78,197.5,p4,134,3625,Avila,Avila,928,Sprint a deux,18,15,September,2005
+,42.78,142.9,p2,67,2287,San Martin de Valdeiglesias,Alcobendas,928,Sprint of small group,19,16,September,2005
+,56.22,38.9,p1,7,201,Guadalajara,Alcala de Henares,928,Time Trial,20,17,September,2005
+,38.15,136.5,p1,28,1349,Madrid,Madrid,928,Sprint of large group,21,18,September,2005
+,57.632,7.3,p1,0,9,Málaga,Málaga,1059,Time Trial,1,24,August,2006
+,38.61,167.0,p1,42,2099,Málaga,Córdoba,1059,Sprint of large group,2,27,August,2006
+,38.4,220.0,p1,46,2570,Córdoba,Almendralejo,1059,Sprint of large group,3,28,August,2006
+,41.608,142.0,p1,17,1005,Almendralejo,Cáceres,1059,Sprint of large group,4,29,August,2006
+,35.316,178.0,p5,324,4451,Plasencia,Estación de Esquí La Covatilla (Béjar),1059,Sprint a deux,5,30,August,2006
+,42.622,177.0,p1,1,732,Zamora,León,1059,Sprint of large group,6,31,August,2006
+,38.327,154.0,p5,246,2583,León,Alto de El Morredero (Ponferrada),1059,Sprint of small group,7,1,September,2006
+,44.99,181.6,p3,77,2290,Ponferrada,Lugo,1059,0.5 km solo,8,2,September,2006
+,35.482,207.4,p5,414,5856,A Fonsagrada,Alto de La Cobertoria,1059,1 km solo,9,3,September,2006
+,43.68,199.3,p3,78,2355,Avilés,Museo de Altamira (Santillana del Mar),1059,1 km solo,10,5,September,2006
+,39.98,173.6,p2,94,3158,Torrelavega (Oscar Freire Velodrome),Burgos,1059,10 km solo,11,6,September,2006
+,47.221,169.3,p1,44,1866,Aranda de Duero,Guadalajara,1059,4 km solo,12,7,September,2006
+,44.314,180.0,p2,72,2541,Guadalajara,Cuenca,1059,7 km solo,13,8,September,2006
+,48.411,33.0,p1,29,429,Cuenca,Cuenca,1059,Time Trial,14,9,September,2006
+,41.221,182.0,p1,34,1571,Motilla del Palancar,Ford factory (Almussafes),1059,Sprint of large group,15,10,September,2006
+,32.258,145.0,p5,355,4567,Almería,Astronomical Observatory of Calar Alto,1059,4 km solo,16,12,September,2006
+,40.093,167.0,p4,195,3598,Adra,Granada,1059,Sprint a deux,17,13,September,2006
+,38.628,153.0,p5,63,2987,Granada,Sierra de la Pandera,1059,Sprint a deux,18,14,September,2006
+,37.301,205.3,p1,255,2998,Jaén,Ciudad Real,1059,Sprint of small group,19,15,September,2006
+,49.034,27.5,p1,19,356,Rivas Vaciamadrid,Rivas Vaciamadrid,1059,Time Trial,20,16,September,2006
+,38.644,142.2,p1,12,1173,Madrid,Madrid,1059,Sprint of large group,21,17,September,2006
+,39.36,146.4,p2,72,2160,Vigo,Vigo,956,Sprint of large group,1,1,September,2007
+,42.27,148.7,p2,79,2334,Allariz,Santiago de Compostela,956,Sprint of large group,2,2,September,2007
+,36.91,153.0,p3,133,2789,Viveiro,Luarca,956,Sprint of large group,3,3,September,2007
+,39.67,185.1,p5,262,3119,Langreo,Lagos de Covadonga,956,10 km solo,4,4,September,2007
+,38.1,157.4,p4,162,3374,Cangas de Onís,Reinosa,956,Sprint of large group,5,5,September,2007
+,41.86,184.3,p1,31,1570,Reinosa,Logroño,956,Sprint of large group,6,6,September,2007
+,45.58,176.3,p1,30,1792,Calahorra,Zaragoza,956,Sprint of large group,7,7,September,2007
+,51.5,49.0,p1,3,97,D. O. Cariñena,Zaragoza,956,Time Trial,8,8,September,2007
+,37.47,167.6,p5,289,3893,Huesca,Estación de esquí Cerler,956,Sprint a deux,9,9,September,2007
+,36.99,214.0,p5,266,4578,Benasque,Estación de esquí de Ordino Arcalís,956,Sprint of small group,10,10,September,2007
+,40.19,191.3,p1,30,1755,Castellón,Algemesí,956,Sprint of large group,11,12,September,2007
+,47.78,176.0,p1,27,1750,Algemesí,Hellín,956,Sprint of large group,12,13,September,2007
+,43.76,176.4,p1,19,1240,Hellin,Torre-Pacheco,956,Sprint a deux,13,14,September,2007
+,38.65,207.0,p2,119,3664,Puerto Lumbreras,Villacarrillo,956,9 km solo,14,15,September,2007
+,42.25,201.4,p4,170,3301,Villacarrillo,Granada,956,Sprint a deux,15,16,September,2007
+,40.27,161.5,p2,120,2827,Jaen,Puertollano,956,Sprint of small group,16,18,September,2007
+,44.31,175.0,p1,13,1116,Ciudad Real,Talavera de la Reina,956,Sprint of large group,17,19,September,2007
+,41.16,153.5,p2,102,2895,Talavera de la Reina,Ávila,956,12 km solo,18,20,September,2007
+,36.77,133.0,p5,256,3294,Ávila,Alto de Abantos,956,Sprint a deux,19,21,September,2007
+,54.09,20.0,p1,10,199,Villalba,Villalba,956,Time Trial,20,22,September,2007
+,39.71,104.2,p1,17,952,Rivas Vaciamadrid,Madrid,956,Sprint a deux,21,23,September,2007
+,55.33,7.7,p1,0,53,Granada,Granada,1035,Time Trial,1,30,August,2008
+,38.17,167.3,p3,74,2224,Granada,Jaén,1035,Sprint of large group,2,31,August,2008
+,38.05,168.3,p2,89,2142,Jaén,Córdoba,1035,Sprint of large group,3,1,September,2008
+,38.14,170.3,p1,78,2760,Córdoba,Puertollano,1035,Sprint of large group,4,2,September,2008
+,50.05,42.5,p1,2,215,Ciudad Real,Ciudad Real,1035,Time Trial,5,3,September,2008
+,45.15,150.1,p3,52,1142,Ciudad Real,Toledo,1035,Sprint of large group,6,4,September,2008
+,35.631,223.2,p5,303,4842,Barbastro,Andorra (Naturlandia-La Rabassa),1035,11 km solo,7,6,September,2008
+,34.193,151.0,p4,228,3571,Andorra,Pla de Beret,1035,22 km solo,8,7,September,2008
+,40.516,200.8,p2,100,3319,Vielha e Mijaran,Sabiñánigo,1035,Sprint of small group,9,8,September,2008
+,44.863,151.3,p1,32,1225,Sabiñánigo,Zaragoza,1035,Sprint of large group,10,9,September,2008
+,41.161,178.0,p2,41,2019,Calahorra,Burgos,1035,Sprint of large group,11,10,September,2008
+,39.557,186.4,p2,134,2900,Burgos,Suances,1035,Sprint of small group,12,11,September,2008
+,35.651,209.5,p5,445,4413,San Vicente de la Barquera,Alto de l'Angliru,1035,3.5 km solo,13,13,September,2008
+,37.123,158.4,p5,228,3589,Oviedo,Fuentes de Invierno,1035,1 km solo,14,14,September,2008
+,40.073,202.0,p2,126,3130,Cudillero,Ponferrada,1035,3 km solo,15,15,September,2008
+,34.812,186.4,p1,35,1481,Ponferrada,Zamora,1035,Sprint of large group,16,16,September,2008
+,44.728,148.2,p1,21,915,Zamora,Valladolid,1035,Sprint of large group,17,17,September,2008
+,43.05,167.4,p2,41,1448,Valladolid,Las Rozas,1035,Sprint of small group,18,18,September,2008
+,42.164,145.5,p2,91,2446,Las Rozas,Segovia,1035,Sprint a deux,19,19,September,2008
+,30.997,17.1,p5,102,724,La Granja de San Ildefonso,Alto de Navacerrada,1035,Time Trial,20,20,September,2008
+,37.243,102.2,p1,3,609,San Sebastián de los Reyes,Madrid,1035,Sprint of large group,21,21,September,2008
+,54.0,4.8,p1,0,13,Assen,Assen,1253,Time Trial,1,29,August,2009
+,43.16,203.7,p1,0,355,Assen,Emmen,1253,Sprint of large group,2,30,August,2009
+,40.5,189.7,p1,4,601,Zutphen,Venlo,1253,Sprint of large group,3,31,August,2009
+,39.436,225.5,p1,51,1888,Venlo,Liège,1253,Sprint of small group,4,1,September,2009
+,38.97,174.0,p1,31,1802,Tarragona,Vinaròs,1253,Sprint of large group,5,3,September,2009
+,39.675,185.7,p1,83,2308,Xàtiva,Xàtiva,1253,Sprint of large group,6,4,September,2009
+,49.56,30.3,p1,0,40,Valencia,Valencia,1253,Time Trial,7,5,September,2009
+,33.66,204.7,p5,320,5017,Alzira,Alto de Aitana,1253,0.7 km solo,8,6,September,2009
+,35.28,188.8,p4,231,3873,Alcoi,Xorret de Catí,1253,5.5 km solo,9,7,September,2009
+,41.131,162.0,p2,52,1529,Alicante,Murcia,1253,Sprint of small group,10,8,September,2009
+,36.829,191.0,p2,108,3226,Murcia,Caravaca de la Cruz,1253,Sprint of large group,11,9,September,2009
+,32.16,179.3,p5,333,5234,Almería,Alto de Velefique,1253,Sprint a deux,12,11,September,2009
+,33.44,172.4,p5,347,4763,Bejar,Alto de Sierra Nevada,1253,28 km solo,13,12,September,2009
+,38.546,157.0,p5,279,3197,Granada,La Pandera,1253,15 km solo,14,13,September,2009
+,39.78,167.7,p2,109,2048,Jaén,Córdoba,1253,22.3 km solo,15,14,September,2009
+,35.146,170.3,p2,78,2760,Córdoba,Puertollano,1253,Sprint of large group,16,15,September,2009
+,39.145,175.0,p1,22,1337,Ciudad Real,Talavera de la Reina,1253,0.6 km solo,17,16,September,2009
+,38.19,165.0,p4,161,3363,Talavera de la Reina,Ávila,1253,Sprint a deux,18,17,September,2009
+,40.636,179.8,p4,174,3363,Ávila,Segovia,1253,3 km solo,19,18,September,2009
+,46.48,27.8,p1,28,310,Toledo,Toledo,1253,Time Trial,20,19,September,2009
+,34.45,110.2,p1,7,903,Rivas,Madrid,1253,Sprint of large group,21,20,September,2009
+,55.32,13.0,p1,0,33,Sevilla,Sevilla,1075,Time Trial,1,28,August,2010
+,37.652,173.0,p1,80,2506,Alcalá de Guadaíra,Marbella,1075,Sprint of large group,2,29,August,2010
+,38.018,156.0,p3,178,2868,Marbella,Málaga,1075,0.6 km solo,3,30,August,2010
+,35.343,177.0,p3,171,3442,Málaga,Valdepeñas de Jaén,1075,Sprint of small group,4,31,August,2010
+,38.34,194.0,p1,23,1763,Guadix,Lorca,1075,Sprint of large group,5,1,September,2010
+,39.938,144.0,p2,56,1243,Caravaca de Cruz,Murcia,1075,Sprint of small group,6,2,September,2010
+,40.644,187.1,p1,36,1161,Murcia,Orihuela,1075,Sprint of large group,7,3,September,2010
+,36.02,188.8,p4,230,3870,Villena,Xorret del Catí,1075,4.8 km solo,8,4,September,2010
+,34.97,187.0,p2,238,4329,Calpe,Alcoi,1075,5 km solo,9,5,September,2010
+,41.11,173.7,p2,126,2459,Tarragona,Vilanova i la Geltrú,1075,20 km solo,10,7,September,2010
+,38.314,208.0,p5,234,4199,Vilanova i la Geltrú,Andorra. Vallnord Sector Pal,1075,1.1 km solo,11,8,September,2010
+,48.898,196.0,p1,67,2133,Andorra la Vella,Lleida,1075,Sprint of large group,12,9,September,2010
+,40.034,193.7,p1,53,2305,Rincón de Soto,Burgos,1075,Sprint of large group,13,10,September,2010
+,40.222,178.8,p5,236,3248,Burgos,Peña Cabarga,1075,0.8 km solo,14,11,September,2010
+,37.19,170.0,p5,230,2673,Solares,Lagos de Covadonga,1075,11 km solo,15,12,September,2010
+,37.276,181.4,p5,340,4431,Gijón,Alto de Cotobello,1075,6 km solo,16,13,September,2010
+,52.36,46.0,p1,0,101,Peñafiel,Peñafiel,1075,Time Trial,17,15,September,2010
+,43.121,148.9,p1,4,964,Valladolid,Salamanca,1075,Sprint of large group,18,16,September,2010
+,34.916,200.0,p1,57,2554,Piedrahíta,Toledo,1075,Sprint of small group,19,17,September,2010
+,35.479,168.8,p5,323,4189,San Martín de Valdeiglesias,Bola del Mundo,1075,Sprint a deux,20,18,September,2010
+,41.667,85.0,p1,8,750,San Sebastián de los Reyes,Madrid,1075,Sprint of large group,21,19,September,2010
+,49.09,13.5,p1,12,154,Benidorm,Benidorm,1136,Time Trial,1,20,August,2011
+,40.885,171.5,p1,27,1305,La Nucía,Playas de Orihuela,1136,Sprint of large group,2,21,August,2011
+,41.34,164.0,p2,82,1956,Petrer,Totana,1136,13 km solo,3,22,August,2011
+,34.99,170.2,p5,250,3687,Baza,Sierra Nevada,1136,Sprint a deux,4,23,August,2011
+,39.66,187.0,p3,170,3510,Sierra Nevada,Valdepeñas de Jaén,1136,Sprint of small group,5,24,August,2011
+,41.69,193.4,p2,91,2181,Úbeda,Córdoba,1136,Sprint of small group,6,25,August,2011
+,38.544,185.0,p2,44,2128,Almadén,Talavera de la Reina,1136,Sprint of large group,7,26,August,2011
+,37.99,183.0,p3,218,3835,Talavera de la Reina,San Lorenzo de El Escorial,1136,0.6 km solo,8,27,August,2011
+,36.854,179.5,p5,227,2741,Villacastín,Sierra de Béjar. La Covatilla,1136,Sprint of small group,9,28,August,2011
+,50.45,47.0,p1,6,414,Salamanca,Salamanca,1136,Time Trial,10,29,August,2011
+,36.906,171.0,p5,295,4166,Verín,Estación de Montaña Manzaneda,1136,6 km solo,11,31,August,2011
+,39.503,160.0,p3,61,2433,Ponteareas,Pontevedra,1136,Sprint of large group,12,1,September,2011
+,34.662,150.0,p4,189,3923,Sarria,Ponferrada,1136,Sprint of small group,13,2,September,2011
+,37.25,173.2,p5,360,3631,Astorga,La Farrapona. Lagos De Somiedo,1136,2 km solo,14,3,September,2011
+,35.712,144.0,p5,438,3765,Avilés,Anglirú,1136,6 km solo,15,4,September,2011
+,38.307,180.0,p1,9,1044,Villa Romana La Olmeda (Palencia),Haro,1136,Sprint of large group,16,6,September,2011
+,43.57,212.5,p5,203,3207,Faustino V,Peña Cabarga,1136,Sprint a deux,17,7,September,2011
+,38.466,169.7,p2,158,3618,Solares,Noja,1136,Sprint a deux,18,8,September,2011
+,40.562,157.9,p2,168,2708,Noja,Bilbao,1136,21 km solo,19,9,September,2011
+,40.167,187.0,p2,124,3206,Bilbao,Vitoria,1136,Sprint of large group,20,10,September,2011
+,40.0,94.0,p1,9,828,Circuito del Jarama,Madrid,1136,Sprint of large group,21,11,September,2011
+,51.38,16.2,p1,4,143,Pamplona,Pamplona,938,Time Trial,1,18,August,2012
+,38.756,180.0,p2,40,1915,Pamplona,Viana,938,Sprint of large group,2,19,August,2012
+,39.98,153.0,p4,162,2470,Faustino V,Eibar (Arrate),938,Sprint of small group,3,20,August,2012
+,34.478,155.4,p5,144,2870,Barakaldo,Estación de Valdezcaray,938,Sprint a deux,4,21,August,2012
+,41.178,172.0,p1,8,1079,Logroño,Logroño,938,Sprint of large group,5,22,August,2012
+,38.087,174.8,p3,133,2291,Tarazona,Jaca (Fuerte del Rapitán),938,Sprint a deux,6,23,August,2012
+,42.013,160.0,p2,32,1300,Huesca,Alcañiz. MotorLand Aragón,938,Sprint of large group,7,24,August,2012
+,42.57,175.0,p5,257,3565,Lleida,Andorra. Collada de la Gallina,938,Sprint of small group,8,25,August,2012
+,40.775,194.0,p3,80,2442,Andorra,Barcelona,938,Sprint a deux,9,26,August,2012
+,34.739,166.4,p1,47,2240,Ponteareas,Sanxenxo,938,Sprint of large group,10,28,August,2012
+,44.943,39.4,p2,55,738,Cambados,Pontevedra,938,Time Trial,11,29,August,2012
+,41.87,184.6,p3,101,2589,Vilagarcía de Arousa,Dumbría. Mirador de Ézaro,938,0.4 km solo,12,30,August,2012
+,42.288,172.7,p1,89,2443,Santiago de Compostela,Ferrol,938,4 km solo,13,31,August,2012
+,36.412,152.0,p5,354,3951,Palas de Rei,Puerto de Ancares,938,Sprint a deux,14,1,September,2012
+,37.169,186.7,p5,305,3549,La Robla,Lagos de Covadonga,938,11.3 km solo,15,2,September,2012
+,34.855,185.0,p5,438,5159,Gijón,Valgrande-Pajares (Cuitu Negru),938,1 km solo,16,3,September,2012
+,41.73,187.3,p5,208,3834,Santander,Fuente Dé,938,13.6 km solo,17,5,September,2012
+,43.47,186.4,p1,19,1082,Aguilar de Campoo,Valladolid,938,Sprint of large group,18,6,September,2012
+,36.111,178.4,p3,66,1719,Peñafiel,La Lastrilla,938,Sprint of small group,19,7,September,2012
+,35.21,169.5,p5,337,4291,La Faisanera Golf. Segovia 21,Bola del Mundo,938,Sprint a deux,20,8,September,2012
+,40.703,111.9,p1,7,751,Cercedilla,Madrid,938,Sprint of large group,21,9,September,2012
+,48.0,27.4,p1,11,291,Vilanova de Arousa,Sanxenxo,1085,Time Trial,1,24,August,2013
+,38.47,177.7,p5,132,2317,Pontevedra,Baiona. Alto do Monte da Groba,1085,Sprint of small group,2,25,August,2013
+,41.02,184.8,p3,70,1878,Vigo,Mirador de Lobeira / Vilagarcía de Arousa,1085,1 km solo,3,26,August,2013
+,40.82,189.0,p3,107,2799,Lalín,Fisterra,1085,Sprint of small group,4,27,August,2013
+,38.97,174.3,p2,113,3200,Sober,Lago de Sanabria,1085,Sprint of large group,5,28,August,2013
+,44.82,175.0,p1,37,1620,Guijuelo,Cáceres,1085,Sprint of large group,6,29,August,2013
+,42.39,205.9,p1,28,1779,Almendralejo,Mairena del Aljarafe,1085,Sprint a deux,7,30,August,2013
+,40.02,166.6,p5,213,2680,Jerez de la Frontera,Estepona. Alto de Peñas Blancas,1085,0.6 km solo,8,31,August,2013
+,37.93,163.7,p3,123,2677,Antequera,Valdepeñas de Jaén,1085,0.8 km solo,9,1,September,2013
+,39.5,178.0,p5,357,3755,Torredelcampo,Güéjar Sierra. Alto de Hazallanas,1085,4.6 km solo,10,2,September,2013
+,45.65,38.8,p2,47,687,Tarazona,Tarazona,1085,Time Trial,11,4,September,2013
+,40.42,164.2,p1,31,1765,Maella,Tarragona,1085,Sprint of large group,12,5,September,2013
+,42.21,169.0,p4,106,2392,Valls,Castelldefels,1085,1.5 km solo,13,6,September,2013
+,35.39,155.7,p5,273,3340,Bagà,Collada de la Gallina,1085,47 km solo,14,7,September,2013
+,35.49,224.9,p5,407,5278,Andorra,Peyragudes,1085,24 km solo,15,8,September,2013
+,39.41,146.8,p5,211,3220,Graus,Sallent de Gállego. Aramón Formigal,1085,Sprint a deux,16,9,September,2013
+,39.86,189.0,p2,50,2080,Calahorra,Burgos,1085,0.8 km solo,17,11,September,2013
+,39.02,186.5,p5,326,3879,Burgos,Peña Cabarga,1085,43 km solo,18,12,September,2013
+,42.39,181.0,p5,190,3052,San Vicente de la Barquera,Alto del Naranco,1085,1 km solo,19,13,September,2013
+,36.21,142.2,p5,439,3728,Avilés,Angliru,1085,6 km solo,20,14,September,2013
+,40.1,109.6,p1,7,741,Leganés,Madrid,1085,Sprint of large group,21,15,September,2013
+,52.81,12.6,p1,0,96,Jerez de la Frontera,Jerez de la Frontera,1126,Time Trial,1,23,August,2014
+,43.33,174.4,p1,17,1308,Algeciras,San Fernando,1126,Sprint of large group,2,24,August,2014
+,38.01,197.8,p3,107,2917,Cádiz,Arcos de la Frontera,1126,Sprint of small group,3,25,August,2014
+,40.68,164.7,p1,81,1474,Mairena del Alcor (Sevilla),Córdoba,1126,Sprint of small group,4,26,August,2014
+,38.33,180.0,p1,72,2149,Priego de Córdoba,Ronda,1126,Sprint of small group,5,27,August,2014
+,36.4,167.1,p3,175,2977,Benalmádena,La Zubia (Cumbres Verdes),1126,Sprint of small group,6,28,August,2014
+,41.92,169.0,p3,126,2744,Alhendín,Alcaudete,1126,13 km solo,7,29,August,2014
+,46.17,207.0,p1,14,1663,Baeza,Albacete,1126,Sprint of small group,8,30,August,2014
+,40.48,185.0,p5,203,3080,Carboneras de Guadazaón,Aramón Valdelinares,1126,6.5 km solo,9,31,August,2014
+,46.82,36.7,p1,34,444,Real Monasterio de Santa María de Veruela,Borja,1126,Time Trial,10,2,September,2014
+,41.64,153.4,p5,211,2432,Pamplona,Santuario de San Miguel de Aralar,1126,1 km solo,11,3,September,2014
+,39.73,166.4,p1,11,1070,Logroño,Logroño,1126,Sprint of large group,12,4,September,2014
+,43.37,188.7,p2,207,3236,Belorado,Obregón (Parque de Cabárceno),1126,2 km solo,13,5,September,2014
+,37.87,200.8,p5,228,4198,Santander,La Camperona,1126,1.8 km solo,14,6,September,2014
+,36.36,152.2,p5,287,2976,Oviedo,Lagos de Covadonga,1126,5.3 km solo,15,7,September,2014
+,32.8,160.5,p5,434,4908,San Martín del Rey Aurelio,Lagos de Somiedo (La Farrapona),1126,1 km solo,16,8,September,2014
+,43.0,190.7,p1,94,2761,Ortigueira,A Coruña,1126,Sprint of small group,17,10,September,2014
+,41.45,157.0,p3,172,2384,A Estrada,Monte Castrove en Meis,1126,Sprint a deux,18,11,September,2014
+,41.34,180.5,p2,122,2319,Salvaterra de Miño,Cangas de Morrazo,1126,5 km solo,19,12,September,2014
+,35.74,185.7,p5,395,4447,Santa Estevo de Ribas do Sil,Puerto de Ancares,1126,0.5 km solo,20,13,September,2014
+,51.96,9.7,p1,9,121,Santiago de Compostela,Santiago de Compostela,1126,Time Trial,21,14,September,2014
+,54.37,7.4,p1,0,17,Puerto Banús,Marbella,1087,Time Trial,1,22,August,2015
+,40.11,158.7,p3,147,2597,Alhaurín de la Torre,Caminito del Rey,1087,Sprint a deux,2,23,August,2015
+,38.51,158.4,p2,104,2613,Mijas,Málaga,1087,Sprint of large group,3,24,August,2015
+,40.9,209.6,p3,83,2141,Estepona,Vejer de la Frontera,1087,Sprint of small group,4,25,August,2015
+,42.27,167.3,p1,9,816,Rota,Alcalá de Guadaíra,1087,Sprint of large group,5,26,August,2015
+,41.98,200.3,p3,112,2908,Córdoba,Sierra de Cazorla,1087,2 km solo,6,27,August,2015
+,36.94,191.1,p5,204,3318,Jódar,La Alpujarra (Capileira),1087,Sprint a deux,7,28,August,2015
+,44.5,182.5,p2,83,1386,Puebla de Don Fadrique,Murcia,1087,Sprint of small group,8,29,August,2015
+,40.41,168.3,p3,139,2044,Torrevieja,Cumbre del Sol. Benitachell,1087,Sprint a deux,9,30,August,2015
+,45.64,146.6,p2,63,1520,Valencia,Castellón  ,1087,Sprint of small group,10,31,August,2015
+,30.12,138.0,p5,515,5421,Andorra la Vella,Cortals d'Encamp,1087,8.8 km solo,11,2,September,2015
+,42.86,173.0,p2,62,2174,Escaldes-Engordany,Lleida,1087,Sprint of large group,12,3,September,2015
+,42.04,178.0,p2,78,2673,Calatayud,Tarazona,1087,29 km solo,13,4,September,2015
+,37.59,215.0,p5,243,3941,Vitoria,Alto Campoo. Fuente del Chivo,1087,0.9 km solo,14,5,September,2015
+,38.56,175.8,p5,309,3740,Comillas,Sotres. Cabrales,1087,0.9 km solo,15,6,September,2015
+,31.72,185.0,p5,484,5207,Luarca,Ermita de Alba. Quiros,1087,3 km solo,16,7,September,2015
+,50.46,38.7,p1,17,328,Burgos,Burgos,1087,Time Trial,17,9,September,2015
+,40.27,204.0,p2,142,3218,Roa,Riaza,1087,Sprint a deux,18,10,September,2015
+,42.99,185.8,p3,85,2331,Medina del Campo,Ávila,1087,26 km solo,19,11,September,2015
+,38.07,175.8,p4,187,3812,San Lorenzo de El Escorial,Cercedilla,1087,114 km solo,20,12,September,2015
+,38.44,98.8,p1,6,726,Alcalá de Henares,Madrid,1087,Sprint of large group,21,13,September,2015
+19:26 ,51.88,27.8,p1,14,362,Balneario Laias,Parque Náutico de Castrelo de Miño,763,Time Trial,1,20,August,2016
+14:45 ,37.59,160.8,p2,69,2168,Ourense ,Baiona,763,Sprint of large group,2,21,August,2016
+14:22 ,39.4,176.4,p3,177,2983,Marín ,Dumbría. Mirador de Ézaro,763,1.2 km solo,3,22,August,2016
+14:29 ,39.99,163.5,p3,180,3196,Betanzos ,San Andrés de Teixido (Mirador Vixía de Herbeira),763,9 km solo,4,23,August,2016
+14:30 ,40.04,171.3,p2,73,2467,Viveiro,Lugo,763,Sprint of large group,5,24,August,2016
+14:36 ,39.97,163.2,p2,159,2824,Monforte de Lemos,Luintra. Ribera Sacra ,763,3.7 km solo,6,25,August,2016
+14:49 ,40.34,158.5,p2,104,2616,Maceda,Puebla de Sanabria ,763,Sprint of large group,7,26,August,2016
+14:08 ,43.65,181.5,p5,119,1279,Villalpando,La Camperona. Valle de Sabero,763,0.2 km solo,8,27,August,2016
+14:27 ,43.3,164.5,p3,193,2780,Cistierna ,Oviedo. Alto del Naranco,763,0.7 km solo,9,28,August,2016
+13:34 ,38.97,188.7,p5,319,3899,Lugones,Lagos de Covadonga,763,3.5 km solo,10,29,August,2016
+14:21 ,45.0,168.6,p5,160,2351,Colunga. Museo Jurásico,Peña Cabarga,763,Sprint a deux,11,31,August,2016
+13:48 ,42.66,193.2,p2,143,2996,Los Corrales de Buelna,Bilbao,763,Sprint of small group,12,1,September,2016
+13:04 ,38.91,213.4,p2,160,3716,Bilbao,Urdax-Dantxarinea,763,18.5 km solo,13,2,September,2016
+13:04 ,34.25,196.0,p5,419,5575,Urdax-Dantxarinea ,Aubisque,763,Sprint of small group,14,3,September,2016
+15:33 ,40.74,118.5,p5,334,3877,Sabiñánigo,Sallent de Gállego. Aramón Formigal,763,Sprint a deux,15,4,September,2016
+14:57 ,46.62,156.4,p2,24,1514,Alcañiz ,Peñíscola,763,Sprint of large group,16,5,September,2016
+14:00 ,38.78,177.5,p5,229,3460,Castellón,Llucena. Camins del Penygolosa,763,2.7 km solo,17,7,September,2016
+13:47 ,40.87,200.6,p2,49,2550,Requena,Gandía,763,Sprint of large group,18,8,September,2016
+14:36 ,47.69,37.0,p1,19,446,Xàbia,Calp,763,Time Trial,19,9,September,2016
+13:18 ,36.26,193.2,p5,349,5036,Benidorm,Alto de Aitana. Escuadrón Ejército del Aire,763,Sprint a deux,20,10,September,2016
+18:22 ,36.99,104.1,p1,10,847,Las Rozas ,Madrid,763,Sprint of large group,21,11,September,2016
+17:30 ,51.48,13.7,p1,1,122,Nîmes,Nîmes,859,Time Trial,1,19,August,2017
+12:25 ,44.18,203.4,p1,5,588,Nimes,Gruissan,859,1 km solo,2,20,August,2017
+,39.4,158.5,p4,244,3623,Prades Conflent Canigó,Andorra la Vella,859,Sprint of small group,3,21,August,2017
+12:35 ,41.88,198.2,p2,36,1835,Escaldes-Engordany,Tarragona ,859,Sprint of large group,4,22,August,2017
+13:00 ,35.71,157.7,p3,156,2909,Benicàssim ,Alcossebre ,859,3 km solo,5,23,August,2017
+12:10 ,42.73,204.4,p2,106,2704,Vila-Real,Sagunt,859,Sprint of small group,6,24,August,2017
+12:15 ,43.8,207.0,p2,81,3034,Llíria,Cuenca ,859,9.6 km solo,7,25,August,2017
+12:15 ,43.07,199.5,p2,163,2593,Hellín,Xorret de Catí  ,859,Sprint of small group,8,26,August,2017
+13:00 ,42.23,174.0,p3,151,2041,Orihuela ,Cumbre del Sol (Alto de Puig Llorença),859,0.5 km solo,9,27,August,2017
+13:05 ,46.0,164.8,p2,106,1568,Caravaca Jubilar,ElPozo Alimentación (Alhama de Murcia),859,Sprint a deux,10,29,August,2017
+12:15 ,36.87,187.5,p5,296,3878,Lorca,Observatorio Astronómico de Calar Alto ,859,1.3 km solo,11,30,August,2017
+13:15 ,40.57,160.1,p2,188,2681,Motril,Antequera Los Dólmenes ,859,22 km solo,12,31,August,2017
+12:30 ,44.88,198.4,p2,39,1938,Coín,Tomares,859,Sprint of small group,13,1,September,2017
+12:37 ,37.21,175.0,p5,285,3723,Écija,Sierra de La Pandera,859,11 km solo,14,2,September,2017
+13:39 ,36.14,129.4,p5,367,3549,Alcalá la Real,Sierra Nevada. Alto Hoya de la Mora,859,6 km solo,15,3,September,2017
+13:32 ,51.32,40.2,p1,22,411,Circuito de Navarra ,Logroño,859,Time Trial,16,5,September,2017
+12:25 ,37.49,180.5,p4,328,4022,Villadiego,Los Machucos. Monumento Vaca Pasiega,859,5.3 km solo,17,6,September,2017
+12:55 ,40.62,169.0,p3,213,3476,Suances ,Santo Toribio de Liébana,859,0.7 km solo,18,7,September,2017
+13:32 ,41.63,149.7,p2,134,2484,Caso. Parque Natural de Redes,Gijón,859,Sprint of small group,19,8,September,2017
+14:03 ,33.33,117.5,p5,504,3817,Corvera de Asturias,Alto de l'Angliru,859,5.5 km solo,20,9,September,2017
+16:48 ,37.85,117.6,p1,9,913,Arroyomolinos,Madrid,859,Sprint of large group,21,10,September,2017
+17:26 ,49.74,8.0,p1,6,66,Málaga,Málaga,999,Time Trial,1,25,August,2018
+13:35 ,38.77,163.5,p2,115,2826,Marbella,Caminito del Rey  ,999,Sprint a deux,2,26,August,2018
+13:06 ,37.1,178.2,p4,114,3160,Mijas,Alhaurín de la Torre  ,999,Sprint of large group,3,27,August,2018
+13:19 ,35.45,161.4,p5,193,3300,Vélez-Málaga,Alfacar. Sierra de la Alfaguara  ,999,Sprint a deux,4,28,August,2018
+11:56 ,41.0,188.7,p4,116,3178,Granada ,Roquetas de Mar  ,999,Sprint of small group,5,29,August,2018
+13:57 ,39.16,155.7,p2,41,1399,Huércal-Overa,San Javier. Mar Menor  ,999,Sprint of large group,6,30,August,2018
+12:25 ,43.13,185.7,p2,117,2535,Puerto Lumbreras,Pozo Alcón  ,999,2.2 km solo,7,31,August,2018
+12:10 ,42.43,195.1,p3,48,2112,Linares,Almadén  ,999,Sprint of large group,8,1,September,2018
+12:06 ,36.44,200.8,p5,276,4399,Talavera de la Reina,La Covatilla  ,999,18 km solo,9,2,September,2018
+13:21 ,42.8,177.0,p1,27,1306,Salamanca. VIII Centenario Universidad de Salamanc,Fermoselle. Bermillo de Sayago ,999,Sprint of large group,10,4,September,2018
+12:04 ,42.61,207.8,p2,174,3755,Mombuey,Ribeira Sacra. Luintra  ,999,4.3 km solo,11,5,September,2018
+12:17 ,41.32,181.1,p2,126,3021,Mondoñedo,Faro de Estaca de Bares. Mañón  ,999,Sprint of small group,12,6,September,2018
+12:57 ,40.8,174.8,p5,194,3334,Candás. Carreño,Valle de Sabero. La Camperona  ,999,1 km solo,13,7,September,2018
+12:55 ,39.55,171.0,p4,286,3314,Cistierna,Les Praeres. Nava  ,999,0.6 km solo,14,8,September,2018
+12:44 ,35.43,178.2,p5,390,4586,Ribera de Arriba,Lagos de Covadonga  ,999,6 km solo,15,9,September,2018
+14:06 ,50.59,32.0,p1,29,501,Santillana del Mar,Torrelavega  ,999,Time Trial,16,11,September,2018
+13:26 ,37.71,157.0,p5,298,3574,Getxo,Balcón de Bizkaia  ,999,0.5 km solo,17,12,September,2018
+13:08 ,47.1,186.1,p1,12,1040,Ejea de los Caballeros,Lleida  ,999,Sprint a deux,18,13,September,2018
+13:30 ,41.71,154.4,p5,239,3183,Lleida ,Andorra. Naturlandia  ,999,0.2 km solo,19,14,September,2018
+14:54 ,32.52,97.3,p5,341,3429,Andorra. Escaldes-Engordany,Andorra. Collada de la Gallina,999,Sprint a deux,20,15,September,2018
+17:15 ,47.63,112.3,p1,1,603,Alcorcón,Madrid  ,999,Sprint of large group,21,16,September,2018
+18:56  (20:56 CET),51.43,13.4,p1,2,107,Salinas de Torrevieja,Torrevieja ,812,Time Trial,1,24,August,2019
+12:20  (14:20 CET),38.473,199.6,p4,113,3238,Benidorm,Calpe,812,3 km solo,2,25,August,2019
+12:56  (14:56 CET),42.561,188.0,p2,65,1730,Ibi. Ciudad del Juguete,Alicante,812,Sprint of large group,3,26,August,2019
+13:19  (15:19 CET),43.109,175.5,p2,27,1233,Cullera,El Puig,812,Sprint of large group,4,27,August,2019
+12:51  (14:51 CET),34.31,170.7,p5,270,3764,L’Eliana,Observatorio Astrofísico de Javalambre ,812,0.5 km solo,5,28,August,2019
+12:04  (14:04 CET),42.033,198.9,p3,151,3294,Mora de Rubielos,Ares del Maestrat ,812,0.4 km solo,6,29,August,2019
+12:30  (14:30 CET),40.09,183.2,p5,242,2842,Onda,Mas de la Costa,812,Sprint a deux,7,30,August,2019
+13:12  (15:12 CET),43.388,166.9,p2,95,2291,Valls,Igualada,812,Sprint of small group,8,31,August,2019
+14:54  (16:54 CET),31.793,94.4,p5,394,3300,Andorra la Vella,Cortals d’Encamp ,812,3 km solo,9,1,September,2019
+13:41  (15:41 CET),46.131,36.2,p2,49,525,Jurançon,Pau,812,Time Trial,10,3,September,2019
+12:51  (14:51 CET),39.027,180.0,p4,137,3168,Saint-Palais,Urdax-Dantxarinea,812,25 km solo,11,4,September,2019
+13:12  (15:12 CET),45.046,171.4,p2,160,2072,Circuito de Navarra,Bilbao,812,9 km solo,12,5,September,2019
+12:58  (14:58 CET),37.194,166.4,p5,287,4179,Bilbao,Los Machucos. Monumento Vaca Pasiega,812,Sprint a deux,13,6,September,2019
+12:46  (14:46 CET),41.969,188.0,p3,63,2432,San Vicente de la Barquer,Oviedo ,812,Sprint of large group,14,7,September,2019
+13:18  (15:18 CET),35.759,154.4,p5,368,4114,Tineo,Santuario del Acebo,812,6.6 km solo,15,8,September,2019
+13:28  (15:28 CET),35.896,144.4,p5,326,4114,Pravia,Alto de La Cubilla. Lena,812,4 km solo,16,9,September,2019
+11:49  (13:49 CET),50.63,219.6,p3,57,2395,Aranda de Duero,Guadalajara ,812,Sprint of small group,17,11,September,2019
+12:40  (14:40 CET),39.143,178.2,p5,162,3689,Colmenar Viejo,Becerril de la Sierra ,812,53 km solo,18,12,September,2019
+13:34  (15:34 CET),44.336,165.2,p3,48,1771,Ávila,Toledo,812,24 km solo,19,13,September,2019
+12:11  (14:11 CET),36.08,190.4,p5,242,4559,Arenas de San Pedro,Plataforma de Gredos,812,39 km solo,20,14,September,2019
+17:10  (19:10 CET),37.996,106.6,p1,8,763,Fuenlabrada,Madrid,812,Sprint of large group,21,15,September,2019
+13:11 ,39.53,173.0,p2,209,2975,Irún,Arrate,691,1 km solo,1,20,October,2020
+13:49 ,40.06,151.6,p4,171,2435,Pamplona,Lekunberri,691,14 km solo,2,21,October,2020
+13:15 ,37.21,166.1,p5,117,2779,Lodosa,La Laguna Negra de Vinuesa,691,Sprint of small group,3,22,October,2020
+13:09 ,49.26,191.7,p1,15,1160,Garray,Ejea de los Caballeros,691,Sprint of large group,4,23,October,2020
+12:54 ,42.65,184.4,p3,185,3407,Huesca,Sabiñanigo,691,Sprint a deux,5,24,October,2020
+13:18  (12:18 CET),39.75,146.4,p5,185,3020,Biescas,Aramón Formigal,691,3 km solo,6,25,October,2020
+13:22  (12:22 CET),41.98,159.7,p2,142,2657,Vitoria-Gasteiz,Villanueva de Valdegovia,691,1 km solo,7,27,October,2020
+13:03  (12:03 CET),39.82,164.0,p5,249,3021,Logroño,Alto de Moncalvillo,691,0.8 km solo,8,28,October,2020
+13:25  (12:25 CET),43.03,157.7,p1,18,1163,Castrillo del Val,Aguilar de Campoo,691,Sprint of large group,9,29,October,2020
+12:45  (11:45 CET),43.67,185.0,p3,84,2302,Castro Urdiales,Suances,691,Sprint of small group,10,30,October,2020
+12:24  (11:24 CET),34.67,170.0,p5,435,5098,Villaviciosa,Alto de la Farrapona,691,0.5 km solo,11,31,October,2020
+14:08  (13:08 CET),34.79,109.4,p5,452,3125,Pola de Laviana,Alto de l'Angliru,691,1 km solo,12,1,November,2020
+13:47  (12:47 CET),43.34,33.7,p3,65,536,Muros,Mirador de Ézaro,691,Time Trial,13,3,November,2020
+12:00  (11:00 CET),44.33,204.7,p3,100,3057,Lugo,Ourense,691,0.3 km solo,14,4,November,2020
+10:23  (09:23 CET),36.54,230.8,p2,158,4448,Mos,Puebla de Sanabria,691,Sprint of large group,15,5,November,2020
+13:00  (12:00 CET),39.74,162.0,p2,122,2762,Salamanca,Ciudad Rodrigo,691,Sprint of large group,16,6,November,2020
+12:10  (11:10 CET),36.3,178.2,p5,316,4365,Sequeros,Alto de la Covatilla,691,4 km solo,17,7,November,2020
+13:29  (12:29 CET),40.23,139.6,p2,30,1492,Hipódromo de la Zarzuela,Madrid,691,Sprint of large group,18,8,November,2020
+17:44 ,49.922,7.1,p2,9,87,Burgos,Burgos,1013,Time Trial,1,14,August,2021
+13:38 ,41.858,166.7,p1,10,1049,Caleruega,Burgos,1013,Sprint of large group,2,15,August,2021
+12:18 ,38.391,202.8,p5,232,2787,Santo Domingo de Silos,Picón Blanco,1013,2.8 km solo,3,16,August,2021
+13:47 ,44.076,163.9,p3,23,1534,El Burgo de Osma,Molina de Aragón,1013,Sprint of large group,4,17,August,2021
+13:13 ,41.801,184.4,p1,2,640,Tarancón,Albacete,1013,Sprint of large group,5,18,August,2021
+13:55 ,45.039,158.3,p3,50,902,Requena,Alto de la Montaña de Cullera,1013,0.77 km solo,6,19,August,2021
+13:30 ,36.448,152.0,p5,272,3744,Gandía,Balcón de Alicante,1013,3.2 km solo,7,20,August,2021
+13:34 ,44.145,173.7,p1,23,923,Santa Pola,La Manga del Mar Menor,1013,Sprint of large group,8,21,August,2021
+12:08 ,37.199,188.0,p5,348,4725,Puerto-Lumbreras,Alto de Velefique,1013,71.1 km solo,9,22,August,2021
+12:47 ,45.478,189.0,p2,134,2390,Roquetas de Mar,Rincón de la Victoria,1013,19 km solo,10,24,August,2021
+14:15 ,41.969,133.6,p3,155,2647,Antequera,Valdepeñas de Jaén,1013,Sprint a deux,11,25,August,2021
+13:14 ,46.802,175.0,p2,107,2018,Jaén,Córdoba,1013,Sprint of large group,12,26,August,2021
+12:32 ,40.961,203.7,p1,22,1645,Belmez,Villanueva de la Serena,1013,Sprint of small group,13,27,August,2021
+13:02 ,38.15,165.7,p5,288,3448,Don Benito,Pico Villuercas,1013,6 km solo,14,28,August,2021
+11:52 ,40.638,197.5,p4,167,3860,Navalmoral de la Mata,El Barraco,1013,87.3 km solo,15,29,August,2021
+13:00 ,43.382,180.0,p2,81,2279,Laredo,Santa Cruz de Bezana,1013,Sprint of large group,16,31,August,2021
+12:21 ,40.575,185.8,p5,366,4519,Unquera,Lagos de Covadonga,1013,7.5 km solo,17,1,September,2021
+13:07 ,34.676,162.6,p5,509,4951,Salas,Altu d'El Gamoniteiru,1013,2.7 km solo,18,2,September,2021
+12:29 ,43.307,191.2,p2,98,3540,Tapia,Monforte de Lemos,1013,Sprint of small group,19,3,September,2021
+12:03 ,37.697,202.2,p3,251,4214,Sanxenxo,Mos. Castro de Herville,1013,1.7 km solo,20,4,September,2021
+17:02 ,46.056,33.8,p1,56,641,Padrón,Santiago de Compostela,1013,Time Trial,21,5,September,2021
+18:30 ,55.099,23.3,p1,0,31,Utrecht,Utrecht,970,Time Trial,1,19,August,2022
+13:32 ,45.764,175.1,p1,10,518,'s-Hertogenbosch,Utrecht,970,Sprint of large group,2,20,August,2022
+12:52 ,47.144,193.2,p1,0,255,Breda,Breda,970,Sprint of large group,3,21,August,2022
+13:53 ,43.348,152.5,p3,133,2319,Vitoria-Gasteiz,Laguardia,970,Sprint of large group,4,23,August,2022
+12:57 ,43.981,187.2,p2,162,2978,Irún,Bilbao,970,15.4 km solo,5,24,August,2022
+12:37 ,39.108,181.2,p5,294,4120,Bilbao,Ascensión al Pico Jano. San Miguel de Aguayo,970,6.5 km solo,6,25,August,2022
+12:30 ,42.072,190.0,p2,112,3359,Camargo,Cistierna,970,Sprint of small group,7,26,August,2022
+13:28 ,37.504,153.4,p5,335,3741,La Pola Llaviana/Pola de Laviana,Colláu Fancuaya,970,5.9 km solo,8,27,August,2022
+12:53 ,37.719,171.4,p5,242,3675,Villaviciosa,Les Praeres. Nava,970,2.5 km solo,9,28,August,2022
+13:53 ,55.676,30.9,p1,4,179,Elche,Alicante,970,Time Trial,10,30,August,2022
+12:51 ,37.832,191.2,p1,38,1592,ElPozo Alimentación,Cabo de Gata,970,Sprint of large group,11,31,August,2022
+12:34 ,41.525,192.7,p5,273,3238,Salobreña,Peñas Blancas. Estepona,970,1.9 km solo,12,1,September,2022
+13:36 ,44.705,168.4,p1,54,1766,Ronda,Montilla,970,Sprint of large group,13,2,September,2022
+13:17 ,38.557,160.3,p5,278,3312,Montoro,Sierra de La Pandera,970,3.3 km solo,14,3,September,2022
+13:16 ,35.587,152.6,p5,407,4033,Martos,Sierra Nevada,970,6.5 km solo,15,4,September,2022
+13:00 ,39.806,189.4,p1,28,1076,Sanlúcar de Barrameda,Tomares,970,Sprint of small group,16,6,September,2022
+13:21 ,43.773,162.3,p1,161,2755,Aracena,Monasterio de Tentudía,970,Sprint of small group,17,7,September,2022
+12:19 ,40.381,192.0,p5,214,3680,Trujillo,Alto del Piornal,970,Sprint of small group,18,8,September,2022
+14:03 ,41.66,138.3,p4,101,2278,Talavera de la Reina,Talavera de la Reina,970,Sprint of large group,19,9,September,2022
+12:45 ,38.57,181.0,p4,216,3977,Moralzarzal,Puerto de Navacerrada,970,7.2 km solo,20,10,September,2022
+17:26 ,39.577,96.7,p1,10,773,Las Rozas,Madrid,970,Sprint of large group,21,11,September,2022

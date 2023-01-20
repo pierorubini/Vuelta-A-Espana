@@ -1,0 +1,3231 @@
+Rnk,Rider,Age,Team,Time,year
+1,CASERO Ángel Luis,29,Festina,70:49:05,2001
+2,SEVILLA Óscar,25,Kelme - Costa Blanca,+0:47,2001
+3,LEIPHEIMER Levi,27,US Postal Service,+2:59,2001
+4,HERAS Roberto,27,US Postal Service,+3:56,2001
+5,MERCADO Juan Miguel,23,iBanesto.com,+5:45,2001
+6,PLAZA David,31,Festina,+5:53,2001
+7,RUBIERA José Luis,28,US Postal Service,+6:57,2001
+8,MØLLER Claus Michael,32,Milaneza - MSS,+7:13,2001
+9,OSA Aitor,28,iBanesto.com,+8:32,2001
+10,ESCARTÍN Fernando,33,Team Coast,+10:31,2001
+11,MAYO Iban,24,Euskaltel - Euskadi,+12:58,2001
+12,LAISEKA Roberto,32,Euskaltel - Euskadi,+13:32,2001
+13,CUESTA Iñigo,32,Cofidis,+14:00,2001
+14,PÉREZ Luis,27,Festina,+20:07,2001
+15,GARCÍA CASAS Felix Manuel,32,Festina,+21:01,2001
+16,KONEČNÝ Tomáš,27,Domo - Farm Frites,+23:32,2001
+17,JIMÉNEZ José María,30,iBanesto.com,+24:23,2001
+18,BOTERO Santiago,28,Kelme - Costa Blanca,+25:01,2001
+19,BELTRÁN Manuel,30,Mapei - Quickstep,+27:14,2001
+20,PELLIZOTTI Franco,23,Alessio,+27:58,2001
+21,BLANCO Santiago,27,iBanesto.com,+28:56,2001
+22,OSA Unai,26,iBanesto.com,+33:30,2001
+23,CONTI Roberto,36,Cantina Tollo - Acqua e Sapone,+34:03,2001
+24,VIRENQUE Richard,31,Domo - Farm Frites,+38:45,2001
+25,ZARRABEITIA Mikel,31,O.N.C.E. - Eroski,+39:06,2001
+26,GOMEZ Jose Javier,27,Kelme - Costa Blanca,+40:30,2001
+27,LAVARINHAS Rui,30,Milaneza - MSS,+47:18,2001
+28,MARTINEZ José Alberto,26,Euskaltel - Euskadi,+49:23,2001
+29,FIGUERAS Giuliano,25,Panaria - Fiordo,+49:56,2001
+30,REBOLLO José Luis,28,Festina,+52:29,2001
+31,ZBERG Beat,30,Rabobank ProTeam,+53:37,2001
+32,ANGUITA Eleuterio,32,Jazztel - Costa de Almeria,+55:38,2001
+33,VICARIO Juan Carlos,30,Festina,+58:09,2001
+34,BARANOWSKI Dariusz,29,iBanesto.com,+1:01:37,2001
+35,CIONI Dario David,26,Mapei - Quickstep,+1:01:48,2001
+36,SIMONI Gilberto,30,Lampre - Daikin,+1:02:00,2001
+37,GARATE Juan Manuel,25,Lampre - Daikin,+1:02:19,2001
+38,SILVA João Pedro,32,Milaneza - MSS,+1:04:13,2001
+39,ELLI Alberto,37,Team Telekom,+1:05:09,2001
+40,VERHEYEN Geert,28,Rabobank ProTeam,+1:05:37,2001
+41,MILLAR David,24,Cofidis,+1:07:25,2001
+42,LAGUNA Oscar,23,Colchon Relax - Fuenlabrada,+1:10:45,2001
+43,ZUBELDIA Haimar,24,Euskaltel - Euskadi,+1:11:01,2001
+44,LELLI Massimiliano,33,Cofidis,+1:11:03,2001
+45,ETXEBARRIA David,28,Euskaltel - Euskadi,+1:14:10,2001
+46,CLAVERO Daniel,33,Mercatone Uno - Stream TV,+1:15:44,2001
+47,FERNÁNDEZ Victoriano,28,Milaneza - MSS,+1:16:32,2001
+48,ATIENZA Daniel,27,Cofidis,+1:20:42,2001
+49,PECHARROMÁN José Antonio,23,Jazztel - Costa de Almeria,+1:20:46,2001
+50,FERNÁNDEZ Bingen,28,Euskaltel - Euskadi,+1:22:06,2001
+51,BRUYLANDTS Dave,25,Domo - Farm Frites,+1:24:22,2001
+52,VICIOSO Ángel,24,Kelme - Costa Blanca,+1:25:10,2001
+53,CODOL Massimo,28,Lampre - Daikin,+1:27:02,2001
+54,DIAZ Rafael,28,O.N.C.E. - Eroski,+1:27:41,2001
+55,TAULER Toni,27,Kelme - Costa Blanca,+1:27:52,2001
+56,PRONK Matthé,27,Rabobank ProTeam,+1:30:08,2001
+57,FOFONOV Dmitriy,25,Cofidis,+1:30:14,2001
+58,FARAZIJN Peter,32,Cofidis,+1:31:43,2001
+59,ALDAG Rolf,33,Team Telekom,+1:32:57,2001
+60,GIUNTI Massimo,27,Cantina Tollo - Acqua e Sapone,+1:34:28,2001
+61,SIMEONI Filippo,30,Cantina Tollo - Acqua e Sapone,+1:36:07,2001
+62,SHEFER Alexandre,30,Alessio,+1:36:25,2001
+63,SGAMBELLURI Roberto,27,Team Telekom,+1:37:28,2001
+64,OLANO Abraham,31,O.N.C.E. - Eroski,+1:41:57,2001
+65,FLORES Igor,27,Euskaltel - Euskadi,+1:43:23,2001
+66,GONZÁLEZ Santos,27,O.N.C.E. - Eroski,+1:44:15,2001
+67,KLEYNEN Steven,23,Domo - Farm Frites,+1:45:26,2001
+68,MORENI Cristian,28,Mercatone Uno - Stream TV,+1:45:58,2001
+69,VÁZQUEZ José Manuel,26,,+1:47:14,2001
+70,PUGACI Igor,26,Saeco,+1:52:22,2001
+71,JEKER Fabian,32,Milaneza - MSS,+1:53:22,2001
+72,FLECHA Juan Antonio,24,Colchon Relax - Fuenlabrada,+1:53:41,2001
+73,JAKSCHE Jörg,25,O.N.C.E. - Eroski,+1:54:10,2001
+74,TRENTIN Guido,25,Cofidis,+1:54:58,2001
+75,CABELLO Francisco,32,Kelme - Costa Blanca,+1:57:36,2001
+76,HORRILLO Pedro,27,Mapei - Quickstep,+1:57:37,2001
+77,EDO Ángel,31,Milaneza - MSS,+1:57:55,2001
+78,VENEBERG Thorwald,23,Rabobank ProTeam,+1:59:02,2001
+79,GOLBANO Carlos Ramón,24,Jazztel - Costa de Almeria,+2:01:37,2001
+80,PEREZ CUAPIO Julio Alberto,24,,+2:02:07,2001
+81,TRENTI Guido,28,Cantina Tollo - Acqua e Sapone,+2:02:55,2001
+82,POSPYEYEV Kyrylo,25,Cantina Tollo - Acqua e Sapone,+2:08:23,2001
+83,ODRIOZOLA Jon,30,iBanesto.com,+2:09:10,2001
+84,ENGELS Addy,24,Rabobank ProTeam,+2:13:26,2001
+85,LUDEWIG Jörg,26,Saeco,+2:13:30,2001
+86,ZABEL Erik,31,Team Telekom,+2:15:25,2001
+87,GARCÍA CALVO César,26,Colchon Relax - Fuenlabrada,+2:16:57,2001
+88,JOACHIM Benoît,25,US Postal Service,+2:17:06,2001
+89,HERNANDEZ Jaime Javier,29,Festina,+2:17:26,2001
+90,AEBERSOLD Niki,29,Team Coast,+2:17:29,2001
+91,PEÑA Victor Hugo,27,,+2:17:51,2001
+92,SCHRECK Stephan,23,Team Telekom,+2:18:09,2001
+93,HONDO Danilo,27,Team Telekom,+2:18:09,2001
+94,HUNDERTMARCK Kai,32,Team Telekom,+2:19:46,2001
+95,CÁRDENAS Félix Rafael,28,Kelme - Costa Blanca,+2:23:17,2001
+96,MCRAE William Chann,29,US Postal Service,+2:24:52,2001
+97,LAMOUR Claude,31,Cofidis,+2:25:05,2001
+98,BOVEN Jan,29,Rabobank ProTeam,+2:27:41,2001
+99,CAPITAN Jorge,24,Colchon Relax - Fuenlabrada,+2:29:05,2001
+100,LOTZ Marc,27,Rabobank ProTeam,+2:30:03,2001
+101,GERRIKAGOITIA Gorka,27,Euskaltel - Euskadi,+2:30:57,2001
+102,PICCOLI Mariano,31,Lampre - Daikin,+2:31:54,2001
+103,CRUZ Antonio,29,US Postal Service,+2:33:54,2001
+104,O'NEILL Nathan,26,Panaria - Fiordo,+2:34:04,2001
+105,DUMA Vladimir,29,Panaria - Fiordo,+2:34:38,2001
+106,PAOLINI Luca,24,Mapei - Quickstep,+2:35:56,2001
+107,KROON Karsten,25,Rabobank ProTeam,+2:38:00,2001
+108,HUSER Rolf,30,Team Coast,+2:38:04,2001
+109,ZÜLLE Alex,33,Team Coast,+2:38:38,2001
+110,RATTI Eddy,24,Mapei - Quickstep,+2:39:19,2001
+111,GARCÍA ACOSTA José Vicente,29,iBanesto.com,+2:40:15,2001
+112,GUILLAMÓN Juan Carlos,26,Jazztel - Costa de Almeria,+2:42:52,2001
+113,SCHAFFRATH Jan,30,Team Telekom,+2:43:02,2001
+114,SMETANINE Serguei,27,Jazztel - Costa de Almeria,+2:43:37,2001
+115,VIDAL José Angel,31,Kelme - Costa Blanca,+2:43:59,2001
+116,CRETSKENS Wilfried,25,Domo - Farm Frites,+2:44:01,2001
+117,TORRENT Carlos,27,Jazztel - Costa de Almeria,+2:46:18,2001
+118,HUNTER Robert,24,Lampre - Daikin,+2:47:18,2001
+119,KLIER Andreas,25,Team Telekom,+2:48:41,2001
+120,MAURI Melchor,35,Milaneza - MSS,+2:49:03,2001
+121,DOMÍNGUEZ Juan Carlos,30,iBanesto.com,+2:49:33,2001
+122,DÍAZ Pedro,28,Jazztel - Costa de Almeria,+2:50:29,2001
+123,CASERO Rafael,24,Festina,+2:50:37,2001
+124,FERNÁNDEZ David,24,Colchon Relax - Fuenlabrada,+2:51:39,2001
+125,ORTENZI Gian Mario,25,Mercatone Uno - Stream TV,+2:53:07,2001
+126,PINOTTI Marco,25,Lampre - Daikin,+2:53:55,2001
+127,VINALE Alberto,23,Alessio,+2:54:07,2001
+128,HØJ Frank,28,Team Coast,+2:54:24,2001
+129,LÓPEZ DE MUNAIN Alberto,29,Euskaltel - Euskadi,+2:55:34,2001
+130,CARNEIRO SILVA Carlos Alberto,31,,+2:57:20,2001
+131,SCHWEDA Raphael,25,Team Coast,+2:58:41,2001
+132,BERTOLETTI Simone,27,Lampre - Daikin,+2:58:49,2001
+133,CASAGRANDA Stefano,28,Alessio,+3:00:24,2001
+134,TEUTENBERG Sven,29,Festina,+3:02:12,2001
+135,COMMESSO Salvatore,26,Saeco,+3:02:28,2001
+136,TONTI Andrea,25,Cantina Tollo - Acqua e Sapone,+3:02:54,2001
+137,NITSCHE Torsten,24,Saeco,+3:07:32,2001
+138,NIETO Germán,28,Colchon Relax - Fuenlabrada,+3:16:30,2001
+139,MCEWEN Robbie,29,Domo - Farm Frites,+3:19:16,2001
+1,GONZÁLEZ Aitor,27,Kelme - Costa Blanca,75:13:52,2002
+2,HERAS Roberto,28,US Postal Service,+2:14,2002
+3,BELOKI Joseba,29,O.N.C.E. - Eroski,+3:11,2002
+4,SEVILLA Óscar,25,Kelme - Costa Blanca,+3:26,2002
+5,MAYO Iban,25,Euskaltel - Euskadi,+5:42,2002
+6,CASERO Ángel Luis,30,Team Coast,+6:33,2002
+7,CASAGRANDE Francesco,32,Fassa Bortolo,+6:38,2002
+8,GARCÍA CASAS Felix Manuel,33,BigMat - Auber 93,+6:46,2002
+9,BELTRÁN Manuel,31,Team Coast,+8:29,2002
+10,SIMONI Gilberto,31,Saeco - Longoni Sport,+9:22,2002
+11,ZUBELDIA Haimar,25,Euskaltel - Euskadi,+9:49,2002
+12,MØLLER Claus Michael,33,Milaneza - Mss,+10:16,2002
+13,JEKER Fabian,33,Milaneza - Mss,+11:45,2002
+14,PLAZA David,32,Team Coast,+11:50,2002
+15,TRENTIN Guido,26,Cofidis,+15:27,2002
+16,SOUSA Rui,26,Milaneza - Mss,+16:36,2002
+17,LASTRAS Pablo,26,iBanesto.com,+19:33,2002
+18,VALJAVEC Tadej,25,Fassa Bortolo,+23:11,2002
+19,GARCÍA QUESADA Carlos,24,Kelme - Costa Blanca,+24:01,2002
+20,DI LUCA Danilo,26,Saeco - Longoni Sport,+30:35,2002
+21,ZARRABEITIA Mikel,32,O.N.C.E. - Eroski,+31:57,2002
+22,PÉREZ Luis,28,Team Coast,+39:42,2002
+23,CAUCCHIOLI Pietro,27,Alessio,+43:54,2002
+24,MIHOLJEVIĆ Vladimir,28,Alessio,+50:13,2002
+25,VANDE VELDE Christian,26,US Postal Service,+52:50,2002
+26,KLEYNEN Steven,24,Domo - Farm Frites,+53:12,2002
+27,PECHARROMÁN José Antonio,24,Jazztel - Costa de Almeria,+53:26,2002
+28,ATIENZA Daniel,28,Cofidis,+53:27,2002
+29,SZMYD Sylwester,24,Tacconi Sport,+54:18,2002
+30,PEREIRO Óscar,25,Phonak Hearing Systems,+57:11,2002
+31,BERTOLETTI Simone,28,Lampre - Daikin,+59:03,2002
+32,LAVARINHAS Rui,31,Milaneza - Mss,+59:27,2002
+33,HORRACH Joan Sebastian,28,Milaneza - Mss,+1:00:32,2002
+34,AZEVEDO José Bento,29,O.N.C.E. - Eroski,+1:00:47,2002
+35,BURGOS Nacor,25,Colchon Relax - Fuenlabrada,+1:01:52,2002
+36,GARRIDO José Antonio,26,Jazztel - Costa de Almeria,+1:03:07,2002
+37,GUTIÉRREZ José Iván,23,iBanesto.com,+1:04:06,2002
+38,SERRANO Marcos Antonio,30,O.N.C.E. - Eroski,+1:05:22,2002
+39,TAULER Toni,28,Kelme - Costa Blanca,+1:07:04,2002
+40,CASERO Rafael,25,Jazztel - Costa de Almeria,+1:07:24,2002
+41,FLECHA Juan Antonio,25,iBanesto.com,+1:12:02,2002
+42,MARTÍN PERDIGUERO Miguel Ángel,29,Acqua & Sapone,+1:12:14,2002
+43,TIRALONGO Paolo,25,Fassa Bortolo,+1:12:19,2002
+44,GLOMSER Gerrit,27,Saeco - Longoni Sport,+1:13:01,2002
+45,BLANCO Santiago,28,iBanesto.com,+1:18:29,2002
+46,REBOLLO José Luis,29,Colchon Relax - Fuenlabrada,+1:19:32,2002
+47,KESSLER Matthias,23,Team Telekom,+1:20:37,2002
+48,CODOL Massimo,29,Lampre - Daikin,+1:23:40,2002
+49,FERRÍO Jorge,26,Jazztel - Costa de Almeria,+1:25:53,2002
+50,CAÑADA David,27,Mapei - Quickstep,+1:28:20,2002
+51,RUBIERA José Luis,29,US Postal Service,+1:34:35,2002
+52,DE LOS ANGELES Juan José,29,Kelme - Costa Blanca,+1:36:03,2002
+53,KINTANA Aitor,27,BigMat - Auber 93,+1:36:42,2002
+54,OSA Aitor,29,iBanesto.com,+1:40:44,2002
+55,CIONI Dario David,27,Mapei - Quickstep,+1:42:11,2002
+56,BRUYLANDTS Dave,26,Domo - Farm Frites,+1:43:00,2002
+57,VELO Marco,28,Fassa Bortolo,+1:45:18,2002
+58,SILVA João Pedro,33,Milaneza - Mss,+1:47:13,2002
+59,GONZÁLEZ Santos,28,Acqua & Sapone,+1:49:18,2002
+60,EDO Ángel,32,Milaneza - Mss,+1:51:34,2002
+61,BOTCHAROV Alexandre,27,AG2R Prévoyance,+1:52:09,2002
+62,DIAZ Rafael,29,O.N.C.E. - Eroski,+1:52:14,2002
+63,ASTARLOA Igor,26,Saeco - Longoni Sport,+1:55:41,2002
+64,LAGUNA Oscar,24,Colchon Relax - Fuenlabrada,+2:00:51,2002
+65,LÓPEZ DE MUNAIN Alberto,30,Euskaltel - Euskadi,+2:05:46,2002
+66,BOTERO Santiago,29,Kelme - Costa Blanca,+2:06:41,2002
+67,TONKOV Pavel,33,Lampre - Daikin,+2:07:39,2002
+68,SCHNIDER Daniel,28,Phonak Hearing Systems,+2:08:41,2002
+69,ZABEL Erik,32,Team Telekom,+2:10:08,2002
+70,CLAIN Médéric,25,Cofidis,+2:11:47,2002
+71,FLORES Iker,26,Euskaltel - Euskadi,+2:15:34,2002
+72,MOERENHOUT Koos,28,Domo - Farm Frites,+2:17:17,2002
+73,TORRENT Carlos,28,Jazztel - Costa de Almeria,+2:18:32,2002
+74,ŠTANGELJ Gorazd,29,Fassa Bortolo,+2:19:00,2002
+75,GARCÍA ACOSTA José Vicente,30,iBanesto.com,+2:19:37,2002
+76,SACCHI Fabio,28,Saeco - Longoni Sport,+2:23:12,2002
+77,ASTARLOZA Mikel,22,AG2R Prévoyance,+2:23:47,2002
+78,FOFONOV Dmitriy,26,Cofidis,+2:26:34,2002
+79,FUENTES Juan Manuel,25,Saeco - Longoni Sport,+2:26:44,2002
+80,SMETANINE Serguei,28,Jazztel - Costa de Almeria,+2:30:50,2002
+81,LUTTENBERGER Peter,29,Tacconi Sport,+2:31:27,2002
+82,ALDAG Rolf,34,Team Telekom,+2:31:32,2002
+83,SALMON Benoît,28,Phonak Hearing Systems,+2:32:59,2002
+84,PORTAL Nicolas,23,AG2R Prévoyance,+2:33:11,2002
+85,GARMENDIA Aitor,34,Team Coast,+2:34:14,2002
+86,ARTETXE Mikel,26,Euskaltel - Euskadi,+2:34:20,2002
+87,FERNÁNDEZ Bingen,29,Cofidis,+2:35:19,2002
+88,LODA Nicola,31,Fassa Bortolo,+2:36:21,2002
+89,SCHAFFRATH Jan,31,Team Telekom,+2:39:14,2002
+90,HAUPTMAN Andrej,27,Tacconi Sport,+2:39:47,2002
+91,ORIOL Christophe,29,AG2R Prévoyance,+2:40:54,2002
+92,BERGMANN Reto,26,Phonak Hearing Systems,+2:41:07,2002
+93,DOMÍNGUEZ Juan Carlos,31,Phonak Hearing Systems,+2:42:04,2002
+94,PETACCHI Alessandro,28,Fassa Bortolo,+2:42:39,2002
+95,REISS Andris,24,,+2:42:53,2002
+96,BOSSONI Paolo,26,Tacconi Sport,+2:43:55,2002
+97,BRAMATI Davide,34,Mapei - Quickstep,+2:44:19,2002
+98,PRADERA Mikel,27,O.N.C.E. - Eroski,+2:51:09,2002
+99,VÁZQUEZ José Manuel,27,Colchon Relax - Fuenlabrada,+2:52:34,2002
+100,GUTIÉRREZ José Iván,23,iBanesto.com,+2:54:03,2002
+101,GRABSCH Bert,27,Phonak Hearing Systems,+2:56:35,2002
+102,PICCOLI Mariano,32,Lampre - Daikin,+2:56:59,2002
+103,CALCAGNI Patrick,25,Tacconi Sport,+2:57:52,2002
+104,ZANETTE Denis,32,Fassa Bortolo,+2:58:18,2002
+105,BARTKO Robert,26,Team Telekom,+3:01:08,2002
+106,BERTAGNOLLI Leonardo,24,Saeco - Longoni Sport,+3:01:11,2002
+107,GERRIKAGOITIA Gorka,28,Euskaltel - Euskadi,+3:01:40,2002
+108,SVORADA Ján,34,Lampre - Daikin,+3:03:06,2002
+109,WEGELIUS Charles,24,Mapei - Quickstep,+3:03:43,2002
+110,TALABARDON Sébastien,24,BigMat - Auber 93,+3:05:33,2002
+111,MAESTRE José Manuel,26,Colchon Relax - Fuenlabrada,+3:07:35,2002
+112,MARTINEZ José Alberto,27,Euskaltel - Euskadi,+3:07:56,2002
+113,FERRARI Diego,31,Tacconi Sport,+3:12:11,2002
+114,SAUGRAIN Cyril,29,BigMat - Auber 93,+3:13:21,2002
+115,GADEO Dario,26,Jazztel - Costa de Almeria,+3:13:34,2002
+116,VAN GOOLEN Jurgen,21,Domo - Farm Frites,+3:14:13,2002
+117,HERNANDEZ Jaime Javier,30,Team Coast,+3:18:23,2002
+118,CRUZ Antonio,30,US Postal Service,+3:19:07,2002
+119,ZUCCONI Pietro,27,Tacconi Sport,+3:22:03,2002
+120,ZABRISKIE David,23,US Postal Service,+3:22:29,2002
+121,FURLAN Angelo,25,Alessio,+3:22:51,2002
+122,GUERRA Alessandro,28,,+3:24:43,2002
+123,LOBATO Rubén,24,Acqua & Sapone,+3:26:58,2002
+124,BECKE Daniel,24,Team Coast,+3:31:00,2002
+125,GUILLAMÓN Juan Carlos,27,Jazztel - Costa de Almeria,+3:31:40,2002
+126,SIVAKOV Alexei,30,BigMat - Auber 93,+3:31:50,2002
+127,SASSONE Robert,23,Cofidis,+3:32:46,2002
+128,VINALE Alberto,24,Alessio,+3:33:39,2002
+129,WHITE Matthew,28,US Postal Service,+3:36:57,2002
+130,SPRUCH Zbigniew,36,Lampre - Daikin,+3:36:58,2002
+131,NIETO Germán,29,Colchon Relax - Fuenlabrada,+3:38:00,2002
+132,TEUTENBERG Sven,30,Phonak Hearing Systems,+3:42:37,2002
+1,HERAS Roberto,29,US Postal Service,69:31:52,2003
+2,NOZAL Isidro,25,O.N.C.E. - Eroski,+0:28,2003
+3,VALVERDE Alejandro,23,Kelme - Costa Blanca,+2:25,2003
+4,GONZÁLEZ DE GALDEANO Igor,29,O.N.C.E. - Eroski,+3:27,2003
+5,MANCEBO Francisco,27,iBanesto.com,+4:47,2003
+6,BELTRÁN Manuel,32,US Postal Service,+5:51,2003
+7,RASMUSSEN Michael,29,Rabobank ProTeam,+5:56,2003
+8,CÁRDENAS Félix Rafael,30,Labarca-2-Café Baqué,+6:33,2003
+9,OSA Unai,28,iBanesto.com,+6:51,2003
+10,PÉREZ Luis,29,Cofidis,+7:56,2003
+11,GONZÁLEZ Santos,29,Domina Vacanze - Elitron,+9:08,2003
+12,SEVILLA Óscar,26,Kelme - Costa Blanca,+9:52,2003
+13,SCARPONI Michele,24,Domina Vacanze - Elitron,+10:13,2003
+14,SERRANO Marcos Antonio,31,O.N.C.E. - Eroski,+12:51,2003
+15,GARCÍA CASAS Felix Manuel,34,Team Bianchi,+14:18,2003
+16,DEL OLMO Txema,30,Milaneza - Mss,+14:38,2003
+17,PEREIRO Óscar,26,Phonak Hearing Systems,+17:05,2003
+18,FLORES Iker,27,Euskaltel - Euskadi,+18:31,2003
+19,TRENTIN Guido,27,Cofidis,+29:34,2003
+20,JUFRÉ Josep,28,Relax - Fuenlabrada,+33:30,2003
+21,FRIGO Dario,30,Fassa Bortolo,+40:19,2003
+22,CUESTA Iñigo,34,Cofidis,+41:18,2003
+23,PIEPOLI Leonardo,31,iBanesto.com,+46:45,2003
+24,CALVENTE Manuel,27,Team CSC,+47:54,2003
+25,OSA Aitor,30,iBanesto.com,+49:39,2003
+26,RODRÍGUEZ Joaquim,24,O.N.C.E. - Eroski,+56:51,2003
+27,WERNER Christian,24,Team Telekom,+1:00:48,2003
+28,HORRACH Joan Sebastian,29,Milaneza - Mss,+1:02:00,2003
+29,ETXEBARRIA David,30,Euskaltel - Euskadi,+1:04:47,2003
+30,ZABALLA Constantino,25,Kelme - Costa Blanca,+1:06:52,2003
+31,MARTINEZ José Alberto,28,Euskaltel - Euskadi,+1:07:29,2003
+32,ATIENZA Daniel,29,Cofidis,+1:09:41,2003
+33,MØLLER Claus Michael,34,Milaneza - Mss,+1:10:24,2003
+34,GUTIÉRREZ José Enrique,29,Kelme - Costa Blanca,+1:11:09,2003
+35,SASTRE Carlos,28,Team CSC,+1:12:21,2003
+36,MARTÍN PERDIGUERO Miguel Ángel,30,Domina Vacanze - Elitron,+1:13:44,2003
+37,POSPYEYEV Kyrylo,27,Domina Vacanze - Elitron,+1:17:42,2003
+38,GONZÁLEZ Gorka,25,Euskaltel - Euskadi,+1:18:28,2003
+39,AMORIM Gonçalo,30,Milaneza - Mss,+1:19:54,2003
+40,CARDOSO Pedro,29,Milaneza - Mss,+1:30:39,2003
+41,TORRENT Carlos,29,Paternina - Costa de Almería,+1:35:10,2003
+42,VAN GOOLEN Jurgen,22,Quickstep - Davitamon,+1:37:32,2003
+43,REBOLLO José Luis,30,Relax - Fuenlabrada,+1:41:57,2003
+44,PÉREZ Santiago,26,Phonak Hearing Systems,+1:45:58,2003
+45,NOVAL Benjamín,24,Relax - Fuenlabrada,+1:47:13,2003
+46,LATASA David,29,Kelme - Costa Blanca,+1:49:39,2003
+47,LÓPEZ David,22,Labarca-2-Café Baqué,+1:50:59,2003
+48,JIMÉNEZ Eladio,27,iBanesto.com,+1:54:06,2003
+49,MORENI Cristian,30,Alessio,+1:54:56,2003
+50,LUNGHI Denis,27,Alessio,+1:55:10,2003
+51,AERTS Mario,28,Team Telekom,+2:00:48,2003
+52,VILA Francisco Javier,27,Lampre,+2:00:53,2003
+53,CAÑADA David,28,Quickstep - Davitamon,+2:00:53,2003
+54,ETXEBARRIA Unai,30,Euskaltel - Euskadi,+2:01:29,2003
+55,LASTRAS Pablo,27,iBanesto.com,+2:01:48,2003
+56,MERCADO Juan Miguel,25,iBanesto.com,+2:01:59,2003
+57,FERRÍO Jorge,27,Paternina - Costa de Almería,+2:03:57,2003
+58,LEIPHEIMER Levi,29,Rabobank ProTeam,+2:04:12,2003
+59,LARA Francisco José,26,Team Bianchi,+2:08:29,2003
+60,LAISEKA Roberto,34,Euskaltel - Euskadi,+2:08:55,2003
+61,BLANCO Santiago,29,Relax - Fuenlabrada,+2:09:40,2003
+62,LUTTENBERGER Peter,30,Team CSC,+2:09:42,2003
+63,MARTÍNEZ José Luis,24,Paternina - Costa de Almería,+2:10:21,2003
+64,GUSTOV Volodymyr,26,Fassa Bortolo,+2:10:37,2003
+65,JEKER Fabian,34,Milaneza - Mss,+2:12:02,2003
+66,VAN DE WOUWER Kurt,32,Quickstep - Davitamon,+2:12:58,2003
+67,VICIOSO Ángel,26,O.N.C.E. - Eroski,+2:13:44,2003
+68,SILVA Renato,27,Milaneza - Mss,+2:13:56,2003
+69,GARATE Juan Manuel,27,Lampre,+2:14:41,2003
+70,EDO Ángel,33,Milaneza - Mss,+2:15:18,2003
+71,NAVAS David,29,Relax - Fuenlabrada,+2:16:30,2003
+72,ZABEL Erik,33,Team Telekom,+2:19:28,2003
+73,SINKEWITZ Patrik,22,Quickstep - Davitamon,+2:21:36,2003
+74,GARCÍA QUESADA Carlos,25,Kelme - Costa Blanca,+2:22:18,2003
+75,HIEKMANN Torsten,23,Team Telekom,+2:24:32,2003
+76,LANDIS Floyd,27,US Postal Service,+2:25:01,2003
+77,ZBERG Beat,32,Rabobank ProTeam,+2:29:30,2003
+78,BARRY Michael,27,US Postal Service,+2:30:26,2003
+79,LOMBARDI Giovanni,34,Domina Vacanze - Elitron,+2:31:10,2003
+80,RUBIERA José Luis,30,US Postal Service,+2:33:26,2003
+81,JOACHIM Benoît,27,US Postal Service,+2:34:04,2003
+82,GUIDI Fabrizio,31,Team Bianchi,+2:34:56,2003
+83,DE LOS ANGELES Juan José,30,Fassa Bortolo,+2:37:34,2003
+84,GOLBANO Carlos Ramón,26,Paternina - Costa de Almería,+2:38:46,2003
+85,FERNÁNDEZ Bingen,30,Cofidis,+2:39:38,2003
+86,CASERO Rafael,26,Paternina - Costa de Almería,+2:39:44,2003
+87,SØRENSEN Nicki,28,Team CSC,+2:40:33,2003
+88,GRABSCH Bert,28,Phonak Hearing Systems,+2:40:40,2003
+89,BURGOS Nacor,26,Relax - Fuenlabrada,+2:41:50,2003
+90,LOPEBOSELLI Angelo,26,Cofidis,+2:43:13,2003
+91,ISASI Iñaki,26,Euskaltel - Euskadi,+2:47:02,2003
+92,BOONEN Tom,22,Quickstep - Davitamon,+2:47:06,2003
+93,LÓPEZ Joaquin,27,Paternina - Costa de Almería,+2:47:13,2003
+94,TANKINK Bram,24,Quickstep - Davitamon,+2:47:41,2003
+95,JULICH Bobby,31,Team Telekom,+2:47:48,2003
+96,CEREZO Francisco Javier,32,Labarca-2-Café Baqué,+2:47:55,2003
+97,TAULER Toni,29,Kelme - Costa Blanca,+2:49:45,2003
+98,ARRIZABALAGA Gorka,26,Euskaltel - Euskadi,+2:50:04,2003
+99,PICCOLI Mariano,33,Lampre,+2:52:37,2003
+100,KROON Karsten,27,Rabobank ProTeam,+2:52:41,2003
+101,SCHRECK Stephan,25,Team Telekom,+2:54:35,2003
+102,MILLAR David,26,Cofidis,+2:55:06,2003
+103,IVANOV Sergei,28,Fassa Bortolo,+2:55:19,2003
+104,SCHWEDA Raphael,27,Team Bianchi,+2:55:57,2003
+105,FOFONOV Dmitriy,27,Cofidis,+2:56:34,2003
+106,ARRIETA José Luis,32,iBanesto.com,+3:00:22,2003
+107,CHEULA Giampaolo,24,Vini Calderola - So.di,+3:02:14,2003
+108,GARCÍA ACOSTA José Vicente,31,iBanesto.com,+3:02:58,2003
+109,LAGUNA Oscar,25,Relax - Fuenlabrada,+3:03:31,2003
+110,WESEMANN Steffen,32,Team Telekom,+3:04:28,2003
+111,GARCÍA CALVO César,28,Labarca-2-Café Baqué,+3:05:11,2003
+112,BERTOLINI Alessandro,32,Alessio,+3:05:46,2003
+113,CABELLO Francisco,34,Kelme - Costa Blanca,+3:08:42,2003
+114,ENGELS Addy,26,Rabobank ProTeam,+3:08:55,2003
+115,OTERO Gustavo Miguel,29,Labarca-2-Café Baqué,+3:11:24,2003
+116,RODRIGUEZ Fred,30,Vini Calderola - So.di,+3:12:42,2003
+117,DÍAZ Pedro,30,Paternina - Costa de Almería,+3:15:26,2003
+118,SIMEONI Filippo,32,Domina Vacanze - Elitron,+3:16:54,2003
+119,PRADERA Mikel,28,O.N.C.E. - Eroski,+3:16:59,2003
+120,PETACCHI Alessandro,29,Fassa Bortolo,+3:18:22,2003
+121,FUENTES Juan Manuel,26,Saeco,+3:18:54,2003
+122,GARMENDIA Aitor,35,Team Bianchi,+3:19:03,2003
+123,HRUŠKA Jan,28,O.N.C.E. - Eroski,+3:19:33,2003
+124,HORRILLO Pedro,28,Quickstep - Davitamon,+3:20:22,2003
+125,RIGHI Daniele,27,Lampre,+3:21:28,2003
+126,MASCIARELLI Simone,23,Vini Calderola - So.di,+3:22:33,2003
+127,WHITE Matthew,29,US Postal Service,+3:22:38,2003
+128,CALCAGNI Patrick,26,Vini Calderola - So.di,+3:23:31,2003
+129,JAKSCHE Jörg,27,O.N.C.E. - Eroski,+3:24:13,2003
+130,HERRERO Ivan,29,Labarca-2-Café Baqué,+3:24:33,2003
+131,MONDINI Gianpaolo,31,Domina Vacanze - Elitron,+3:28:24,2003
+132,BARROSO Paulo,30,Milaneza - Mss,+3:28:57,2003
+133,ZUCCONI Pietro,28,Vini Calderola - So.di,+3:29:05,2003
+134,TOSATTO Matteo,29,Fassa Bortolo,+3:30:06,2003
+135,CASAGRANDA Stefano,30,Alessio,+3:30:51,2003
+136,CHRISTENSEN Bekim leif,30,Team CSC,+3:31:00,2003
+137,HAYMAN Mathew,25,Rabobank ProTeam,+3:31:55,2003
+138,MUTSAARS Ronald,24,Rabobank ProTeam,+3:33:12,2003
+139,VAN HEESWIJK Max,30,US Postal Service,+3:33:15,2003
+140,SIRONI Gianluca,29,Vini Calderola - So.di,+3:33:27,2003
+141,BOVEN Jan,31,Rabobank ProTeam,+3:35:42,2003
+142,RUND Thorsten,27,Team Bianchi,+3:35:43,2003
+143,BERTOLETTI Simone,29,Lampre,+3:36:44,2003
+144,AEBERSOLD Niki,31,Phonak Hearing Systems,+3:38:58,2003
+145,USOV Alexandre,26,Phonak Hearing Systems,+3:38:59,2003
+146,DE JONGH Steven,29,Rabobank ProTeam,+3:39:16,2003
+147,PUGACI Igor,28,Saeco,+3:40:03,2003
+148,PEPOLI Cristian,25,Saeco,+3:40:11,2003
+149,BRUUN ERIKSEN Thomas,24,Team CSC,+3:44:56,2003
+150,FURLAN Angelo,26,Alessio,+3:47:30,2003
+151,VINALE Alberto,25,Alessio,+3:48:16,2003
+152,SANDSTØD Michael,35,Team CSC,+3:50:06,2003
+153,TRENTI Guido,30,Fassa Bortolo,+3:50:07,2003
+154,BERTOGLIATI Rubens,24,Lampre,+3:50:29,2003
+155,NIETO Germán,30,Relax - Fuenlabrada,+3:51:51,2003
+156,DE LA FUENTE David,22,Vini Calderola - So.di,+3:53:23,2003
+157,BAYARRI Gonzalo,26,Phonak Hearing Systems,+3:55:35,2003
+158,GUTIERREZ Francisco,23,Labarca-2-Café Baqué,+3:57:44,2003
+159,MAESTRE José Manuel,27,Relax - Fuenlabrada,+4:26:12,2003
+1,HERAS Roberto,30,Liberty Seguros,77:42:46,2004
+2,PÉREZ Santiago,27,Phonak Hearing Systems,+0:30,2004
+3,MANCEBO Francisco,28,Illes Balears - Banesto,+2:13,2004
+4,VALVERDE Alejandro,24,Comunidad Valenciana - Kelme,+3:30,2004
+5,GARCÍA QUESADA Carlos,26,Comunidad Valenciana - Kelme,+7:44,2004
+6,SASTRE Carlos,29,Team CSC,+8:11,2004
+7,NOZAL Isidro,26,Liberty Seguros,+8:32,2004
+8,GÓMEZ MARCHANTE José Ángel,24,Costa de Almería - Paternina,+13:08,2004
+9,PÉREZ Luis,30,"Cofidis, le Crédit par Téléphone",+13:24,2004
+10,BLANCO David,29,Comunidad Valenciana - Kelme,+15:15,2004
+11,GARZELLI Stefano,31,Vini Caldirola - Nobili Rubinetterie,+16:33,2004
+12,SERRANO Marcos Antonio,32,Liberty Seguros,+17:14,2004
+13,BELTRÁN Manuel,33,US Postal Service,+17:43,2004
+14,LARA Francisco José,27,Costa de Almería - Paternina,+24:16,2004
+15,SÁNCHEZ Samuel,26,Euskaltel - Euskadi,+29:23,2004
+16,CUNEGO Damiano,23,Saeco,+29:51,2004
+17,FERRÍO Jorge,28,Costa de Almería - Paternina,+30:49,2004
+18,PLAZA David,34,Cafés Baqué,+31:24,2004
+19,JIMÉNEZ Eladio,28,Comunidad Valenciana - Kelme,+34:35,2004
+20,PASAMONTES Luis,24,Relax - Bodysol,+37:49,2004
+21,OSA Unai,29,Illes Balears - Banesto,+38:06,2004
+22,SEVILLA Óscar,27,Phonak Hearing Systems,+39:01,2004
+23,GARATE Juan Manuel,28,Lampre,+40:09,2004
+24,HORRACH Joan Sebastian,30,Illes Balears - Banesto,+46:17,2004
+25,ATIENZA Daniel,30,"Cofidis, le Crédit par Téléphone",+48:29,2004
+26,VALJAVEC Tadej,27,Phonak Hearing Systems,+49:23,2004
+27,PIEPOLI Leonardo,32,Saunier Duval - Prodir,+50:28,2004
+28,ARRIETA José Luis,33,Illes Balears - Banesto,+51:48,2004
+29,CÁRDENAS Félix Rafael,31,Cafés Baqué,+52:55,2004
+30,ZABALLA Constantino,26,Saunier Duval - Prodir,+55:37,2004
+31,GUTIÉRREZ José Enrique,30,Phonak Hearing Systems,+58:28,2004
+32,BUENAHORA Hernan,37,Cafés Baqué,+58:44,2004
+33,BARANOWSKI Dariusz,32,Liberty Seguros,+1:00:03,2004
+34,PARRA Iván Ramiro,28,Cafés Baqué,+1:00:10,2004
+35,VANSUMMEREN Johan,23,Relax - Bodysol,+1:13:19,2004
+36,VASSEUR Cédric,34,"Cofidis, le Crédit par Téléphone",+1:13:30,2004
+37,CALVENTE Manuel,28,Team CSC,+1:13:36,2004
+38,LASTRAS Pablo,28,Illes Balears - Banesto,+1:18:12,2004
+39,ELÍAS José Miguel,27,Relax - Bodysol,+1:21:01,2004
+40,ZUBELDIA Haimar,27,Euskaltel - Euskadi,+1:25:56,2004
+41,GARCÍA Francisco Tomás,28,Cafés Baqué,+1:26:16,2004
+42,RODRÍGUEZ Joaquim,25,Saunier Duval - Prodir,+1:27:08,2004
+43,ZABEL Erik,34,T-Mobile Team,+1:29:02,2004
+44,JAKSCHE Jörg,28,Team CSC,+1:29:25,2004
+45,PEÑA Victor Hugo,30,US Postal Service,+1:31:14,2004
+46,SCHLECK Fränk,24,Team CSC,+1:35:10,2004
+47,CAÑADA David,29,Saunier Duval - Prodir,+1:36:05,2004
+48,VENEBERG Thorwald,26,Rabobank ProTeam,+1:36:19,2004
+49,PECHARROMÁN José Antonio,26,Quickstep - Davitamon,+1:37:18,2004
+50,LATASA David,30,Comunidad Valenciana - Kelme,+1:37:51,2004
+51,REBOLLO José Luis,31,Relax - Bodysol,+1:37:53,2004
+52,CIONI Dario David,29,Fassa Bortolo,+1:39:08,2004
+53,PASCUAL RODRÍGUEZ Javier,32,Comunidad Valenciana - Kelme,+1:40:41,2004
+54,LAISEKA Roberto,35,Euskaltel - Euskadi,+1:41:44,2004
+55,CHAURREAU Íñigo,31,AG2R Prévoyance,+1:42:03,2004
+56,VAN GOOLEN Jurgen,23,Quickstep - Davitamon,+1:45:13,2004
+57,JOACHIM Benoît,28,US Postal Service,+1:45:14,2004
+58,SCHRECK Stephan,26,T-Mobile Team,+1:47:25,2004
+59,WEENING Pieter,23,Rabobank ProTeam,+1:48:37,2004
+60,EVANS Cadel,27,T-Mobile Team,+1:48:46,2004
+61,GIL Koldo,26,Liberty Seguros,+1:48:53,2004
+62,JUFRÉ Josep,29,Relax - Bodysol,+1:51:10,2004
+63,MIKHAYLOV Gennady,30,US Postal Service,+1:53:40,2004
+64,TANKINK Bram,25,Quickstep - Davitamon,+1:57:01,2004
+65,CALCAGNI Patrick,27,Vini Caldirola - Nobili Rubinetterie,+2:00:01,2004
+66,PÉREZ Aitor,27,Cafés Baqué,+2:00:36,2004
+67,FERNÁNDEZ Bingen,31,"Cofidis, le Crédit par Téléphone",+2:02:26,2004
+68,CRUZ Antonio,32,US Postal Service,+2:02:39,2004
+69,LÓPEZ Joaquin,28,Costa de Almería - Paternina,+2:03:22,2004
+70,MAZZOLENI Eddy,31,Saeco,+2:03:30,2004
+71,DE WEERT Kevin,22,Rabobank ProTeam,+2:04:39,2004
+72,CARUSO Giampaolo,24,Liberty Seguros,+2:04:49,2004
+73,HERRERO David,24,Costa de Almería - Paternina,+2:04:56,2004
+74,SZMYD Sylwester,26,Saeco,+2:07:59,2004
+75,CASERO Rafael,27,Saunier Duval - Prodir,+2:09:21,2004
+76,TRENTIN Guido,28,"Cofidis, le Crédit par Téléphone",+2:19:55,2004
+77,IVANOV Ruslan,30,Alessio - Bianchi,+2:21:02,2004
+78,MIHOLJEVIĆ Vladimir,30,Alessio - Bianchi,+2:21:43,2004
+79,SGAMBELLURI Roberto,30,Vini Caldirola - Nobili Rubinetterie,+2:27:20,2004
+80,MØLLER Claus Michael,35,Alessio - Bianchi,+2:28:24,2004
+81,FUENTES Juan Manuel,27,Saeco,+2:34:06,2004
+82,CORTINOVIS Alessandro,26,Lampre,+2:38:41,2004
+83,PRADERA Mikel,29,Illes Balears - Banesto,+2:38:45,2004
+84,DEN BAKKER Maarten,35,Rabobank ProTeam,+2:40:07,2004
+85,LUTTENBERGER Peter,31,Team CSC,+2:42:45,2004
+86,GRABSCH Bert,29,Phonak Hearing Systems,+2:44:35,2004
+87,SABALIAUSKAS Marius,25,Saeco,+2:48:45,2004
+88,HORRILLO Pedro,29,Quickstep - Davitamon,+2:49:25,2004
+89,ISASI Iñaki,27,Euskaltel - Euskadi,+2:50:25,2004
+90,FLORENCIO Xavier,24,Relax - Bodysol,+2:50:51,2004
+91,LÓPEZ DE MUNAIN Alberto,32,Euskaltel - Euskadi,+2:51:36,2004
+92,POSTHUMA Joost,23,Rabobank ProTeam,+2:53:23,2004
+93,GUSEV Vladimir,22,Team CSC,+2:57:17,2004
+94,QUINZIATO Manuel,24,Lampre,+2:58:55,2004
+95,GEROSA Mauro,29,Vini Caldirola - Nobili Rubinetterie,+3:00:20,2004
+96,GONZÁLEZ DE GALDEANO Igor,30,Liberty Seguros,+3:03:23,2004
+97,GUSTOV Volodymyr,27,Fassa Bortolo,+3:04:25,2004
+98,GARRIDO José Antonio,28,Quickstep - Davitamon,+3:10:48,2004
+99,HRUŠKA Jan,29,Liberty Seguros,+3:11:46,2004
+100,JULIÁ José Cayetano,25,Comunidad Valenciana - Kelme,+3:12:47,2004
+101,COLOM Antonio,26,Illes Balears - Banesto,+3:13:06,2004
+102,CABELLO Francisco,35,Comunidad Valenciana - Kelme,+3:13:11,2004
+103,ANDRIOTTO Dario,31,Vini Caldirola - Nobili Rubinetterie,+3:15:18,2004
+104,HULSMANS Kevin,26,Quickstep - Davitamon,+3:22:54,2004
+105,SÁNCHEZ Julián,24,Fassa Bortolo,+3:23:18,2004
+106,GARCÍA ACOSTA José Vicente,32,Illes Balears - Banesto,+3:23:57,2004
+107,RIGHI Daniele,28,Lampre,+3:26:28,2004
+108,ARTETXE Mikel,28,Euskaltel - Euskadi,+3:27:35,2004
+109,MILESI Marco,34,Vini Caldirola - Nobili Rubinetterie,+3:31:30,2004
+110,ANDRLE René,30,Liberty Seguros,+3:36:56,2004
+111,GUTIÉRREZ GARCÍA Heberth,31,Cafés Baqué,+3:43:08,2004
+112,HØJ Frank,31,Team CSC,+3:46:52,2004
+113,TRENTI Guido,31,Fassa Bortolo,+3:51:15,2004
+114,VELO Marco,30,Fassa Bortolo,+3:52:36,2004
+115,PICCOLI Mariano,34,Lampre,+3:52:40,2004
+116,SPEZIALETTI Alessandro,29,Saeco,+3:54:54,2004
+117,FORNACIARI Paolo,33,Saeco,+4:06:31,2004
+118,SILLONIZ Aitor,27,Euskaltel - Euskadi,+4:12:11,2004
+119,WHITE Matthew,30,"Cofidis, le Crédit par Téléphone",+4:16:42,2004
+1,HERAS Roberto,31,Liberty Seguros - Würth Team,82:22:55,2005
+2,MENCHOV Denis,27,Rabobank ProTeam,+4:36,2005
+3,SASTRE Carlos,30,CSC ProTeam,+4:54,2005
+4,MANCEBO Francisco,29,Illes Balears - Caisse d'Epargne,+5:58,2005
+5,GARCÍA QUESADA Carlos,27,Comunidad Valenciana,+8:06,2005
+6,PLAZA Rubén,25,Comunidad Valenciana,+11:36,2005
+7,SEVILLA Óscar,28,T-Mobile Team,+13:22,2005
+8,DANIELSON Tom,27,Discovery Channel,+16:38,2005
+9,ARDILA Mauricio Alberto,26,Davitamon - Lotto,+18:15,2005
+10,MERCADO Juan Miguel,27,Quickstep - Innergetic,+18:31,2005
+11,SÁNCHEZ Samuel,27,Euskaltel - Euskadi,+20:12,2005
+12,SCARPONI Michele,25,Liberty Seguros - Würth Team,+31:44,2005
+13,BLANCO David,30,Comunidad Valenciana,+34:57,2005
+14,MOERENHOUT Koos,31,Davitamon - Lotto,+35:03,2005
+15,JUFRÉ Josep,30,Relax Fuenlabrada,+35:33,2005
+16,AERTS Mario,30,Davitamon - Lotto,+36:18,2005
+17,ATIENZA Daniel,30,"Cofidis, le Crédit par Téléphone",+36:23,2005
+18,OSA Unai,30,Illes Balears - Caisse d'Epargne,+37:14,2005
+19,SERRANO Marcos Antonio,33,Liberty Seguros - Würth Team,+38:37,2005
+20,LASTRAS Pablo,29,Illes Balears - Caisse d'Epargne,+40:45,2005
+21,BOTCHAROV Alexandre,30,Crédit Agricole,+42:14,2005
+22,LAISEKA Roberto,36,Euskaltel - Euskadi,+47:46,2005
+23,CALVENTE Manuel,29,CSC ProTeam,+50:35,2005
+24,SZMYD Sylwester,27,Lampre-Caffita,+50:50,2005
+25,DEVOLDER Stijn,26,Discovery Channel,+50:50,2005
+26,PEREIRO Óscar,28,Phonak Hearing Systems,+51:54,2005
+27,HORRACH Joan Sebastian,31,Illes Balears - Caisse d'Epargne,+52:44,2005
+28,PEÑA Victor Hugo,31,Phonak Hearing Systems,+54:14,2005
+29,PASAMONTES Luis,25,Relax Fuenlabrada,+1:01:14,2005
+30,CUESTA Iñigo,36,Saunier Duval - Prodir,+1:05:23,2005
+31,ELÍAS José Miguel,28,Relax Fuenlabrada,+1:10:27,2005
+32,VANDE VELDE Christian,29,CSC ProTeam,+1:12:29,2005
+33,SÁNCHEZ Julián,25,Fassa Bortolo,+1:16:37,2005
+34,FERNÁNDEZ Bingen,32,"Cofidis, le Crédit par Téléphone",+1:17:07,2005
+35,GARCÍA QUESADA Adolfo,25,Comunidad Valenciana,+1:18:47,2005
+36,PIEPOLI Leonardo,33,Saunier Duval - Prodir,+1:19:40,2005
+37,JIMÉNEZ Eladio,29,Comunidad Valenciana,+1:23:58,2005
+38,RODRÍGUEZ Joaquim,26,Saunier Duval - Prodir,+1:25:59,2005
+39,SØRENSEN Nicki,30,CSC ProTeam,+1:26:55,2005
+40,BELOKI Joseba,32,Liberty Seguros - Würth Team,+1:27:19,2005
+41,CALCAGNI Patrick,28,Liquigas,+1:29:02,2005
+42,PASCUAL RODRÍGUEZ Javier,33,Comunidad Valenciana,+1:29:53,2005
+43,GONZÁLEZ Gorka,27,Euskaltel - Euskadi,+1:31:32,2005
+44,ALDAG Rolf,37,T-Mobile Team,+1:32:00,2005
+45,NARDELLO Daniele,33,T-Mobile Team,+1:33:00,2005
+46,MARTÍNEZ Egoi,27,Euskaltel - Euskadi,+1:33:55,2005
+47,DUEÑAS Moisés,24,Relax Fuenlabrada,+1:35:38,2005
+48,VICIOSO Ángel,28,Liberty Seguros - Würth Team,+1:35:49,2005
+49,VAN GOOLEN Jurgen,24,Quickstep - Innergetic,+1:36:18,2005
+50,BERNABÉU David,30,Comunidad Valenciana,+1:41:58,2005
+51,SIMONI Gilberto,34,Lampre-Caffita,+1:42:07,2005
+52,CASERO Rafael,28,Saunier Duval - Prodir,+1:42:40,2005
+53,PÉREZ Francisco,27,Illes Balears - Caisse d'Epargne,+1:43:06,2005
+54,HAUSSLER Heinrich,21,Gerolsteiner,+1:46:51,2005
+55,KOLOBNEV Alexandr,24,Rabobank ProTeam,+1:48:27,2005
+56,FUENTES Juan Manuel,28,Lampre-Caffita,+1:49:17,2005
+57,BARRY Michael,29,Discovery Channel,+1:50:14,2005
+58,NOVAL Benjamín,26,Discovery Channel,+1:50:15,2005
+59,ZABALLA Constantino,27,Saunier Duval - Prodir,+1:50:23,2005
+60,CARUSO Giampaolo,25,Liberty Seguros - Würth Team,+1:54:50,2005
+61,WEGELIUS Charles,27,Liquigas,+1:55:00,2005
+62,GARCÍA Jorge,25,Relax Fuenlabrada,+2:01:24,2005
+63,ZABEL Erik,35,T-Mobile Team,+2:03:07,2005
+64,VOGONDY Nicolas,28,Crédit Agricole,+2:04:51,2005
+65,PERON Andrea,34,CSC ProTeam,+2:08:15,2005
+66,ZIEGLER Thomas,24,Gerolsteiner,+2:08:16,2005
+67,LE MÉVEL Christophe,25,Crédit Agricole,+2:10:54,2005
+68,DE GROOT Bram,30,Rabobank ProTeam,+2:12:11,2005
+69,GÓMEZ Ángel,24,Saunier Duval - Prodir,+2:14:42,2005
+70,BURGOS Nacor,28,Relax Fuenlabrada,+2:15:21,2005
+71,LATASA David,31,Comunidad Valenciana,+2:15:24,2005
+72,GARCÍA ACOSTA José Vicente,33,Illes Balears - Caisse d'Epargne,+2:16:07,2005
+73,GERDEMANN Linus,23,CSC ProTeam,+2:22:01,2005
+74,PRADERA Mikel,30,Illes Balears - Caisse d'Epargne,+2:22:04,2005
+75,CHARTEAU Anthony,26,Bouygues Telecom,+2:28:52,2005
+76,LÓPEZ David,24,Euskaltel - Euskadi,+2:29:41,2005
+77,BURGHARDT Marcus,22,T-Mobile Team,+2:30:11,2005
+78,GUTIÉRREZ Ignacio,27,Phonak Hearing Systems,+2:30:22,2005
+79,ONGARATO Alberto,30,Fassa Bortolo,+2:30:45,2005
+80,BARANOWSKI Dariusz,33,Liberty Seguros - Würth Team,+2:34:51,2005
+81,VERBRUGGHE Rik,31,Quickstep - Innergetic,+2:34:58,2005
+82,ROY Jérémy,22,Française des Jeux,+2:38:14,2005
+83,CORTINOVIS Alessandro,27,Domina Vacanze,+2:39:25,2005
+84,VAN HECKE Preben,23,Davitamon - Lotto,+2:39:53,2005
+85,SCHEIRLINCKX Staf,26,"Cofidis, le Crédit par Téléphone",+2:43:33,2005
+86,BERNUCCI Lorenzo,26,Fassa Bortolo,+2:43:34,2005
+87,ELMIGER Martin,26,Phonak Hearing Systems,+2:44:01,2005
+88,MONTGOMERY Sven,29,Gerolsteiner,+2:45:39,2005
+89,PETACCHI Alessandro,31,Fassa Bortolo,+2:48:10,2005
+90,GONZÁLEZ DE GALDEANO Igor,31,Liberty Seguros - Würth Team,+2:48:24,2005
+91,MATZBACHER Andreas,23,Lampre-Caffita,+2:48:49,2005
+92,VENEBERG Thorwald,27,Rabobank ProTeam,+2:50:33,2005
+93,GHISALBERTI Sergio,25,Domina Vacanze,+2:51:53,2005
+94,VENTOSO Francisco José,23,Saunier Duval - Prodir,+2:54:33,2005
+95,DE WEERT Kevin,23,Quickstep - Innergetic,+2:55:03,2005
+96,DOCKX Bart,24,Davitamon - Lotto,+2:56:05,2005
+97,PEÑA Aketza,24,Euskaltel - Euskadi,+2:57:53,2005
+98,VAN BON Léon,33,Davitamon - Lotto,+3:03:15,2005
+99,FLORENCIO Xavier,25,Relax Fuenlabrada,+3:04:01,2005
+100,MUGERLI Matej,24,Liquigas,+3:05:13,2005
+101,MARZANO Marco,25,Lampre-Caffita,+3:05:56,2005
+102,VOECKLER Thomas,26,Bouygues Telecom,+3:07:48,2005
+103,PESCHEL Uwe,36,Gerolsteiner,+3:08:45,2005
+104,GEROSA Mauro,30,Liquigas,+3:09:04,2005
+105,STEEGMANS Gert,24,Davitamon - Lotto,+3:10:05,2005
+106,HORRILLO Pedro,30,Rabobank ProTeam,+3:12:15,2005
+107,ORDOWSKI Volker,31,Gerolsteiner,+3:14:14,2005
+108,KLIER Andreas,29,T-Mobile Team,+3:15:06,2005
+109,MCLEOD Ian,24,Française des Jeux,+3:19:11,2005
+110,MIORIN Devis,29,Liquigas,+3:21:18,2005
+111,KOHL Bernhard,23,T-Mobile Team,+3:22:02,2005
+112,BÄCKSTEDT Magnus,30,Liquigas,+3:24:00,2005
+113,COYOT Arnaud,24,"Cofidis, le Crédit par Téléphone",+3:26:28,2005
+114,LJUNGQVIST Marcus,30,Liquigas,+3:26:44,2005
+115,LOMBARDI Giovanni,36,CSC ProTeam,+3:27:29,2005
+116,KORFF André,32,T-Mobile Team,+3:28:13,2005
+117,BALDATO Fabio,37,Fassa Bortolo,+3:28:59,2005
+118,ZANOTTI Marco,31,Liquigas,+3:29:02,2005
+119,DUCLOS-LASSALLE Hervé,25,"Cofidis, le Crédit par Téléphone",+3:32:26,2005
+120,NURITDINOV Rafael,28,Domina Vacanze,+3:33:14,2005
+121,GATES Nick,33,Davitamon - Lotto,+3:45:15,2005
+122,HASELBACHER René,28,Gerolsteiner,+3:47:10,2005
+123,FINOT Frédéric,28,Française des Jeux,+3:50:45,2005
+124,JOHANSEN Allan,34,CSC ProTeam,+3:57:26,2005
+125,CASPER Jimmy,27,"Cofidis, le Crédit par Téléphone",+4:00:42,2005
+126,VAUGRENARD Benoît,23,Française des Jeux,+4:04:09,2005
+127,GÈNE Yohann,24,Bouygues Telecom,+4:16:57,2005
+1,VINOKOUROV Alexandre,33,Astana,81:23:07,2006
+2,VALVERDE Alejandro,26,Caisse d'Epargne - Illes Balears,+1:12,2006
+3,KASHECHKIN Andrey,26,Astana,+3:12,2006
+4,SASTRE Carlos,31,CSC ProTeam,+3:35,2006
+5,GÓMEZ MARCHANTE José Ángel,26,Saunier Duval - Prodir,+6:51,2006
+6,DANIELSON Tom,28,Discovery Channel,+8:09,2006
+7,SÁNCHEZ Samuel,28,Euskaltel - Euskadi,+8:26,2006
+8,KARPETS Vladimir,25,Caisse d'Epargne - Illes Balears,+10:36,2006
+9,BELTRÁN Manuel,35,Discovery Channel,+10:47,2006
+10,PÉREZ Luis,32,"Cofidis, le Crédit par Téléphone",+11:32,2006
+11,DEVOLDER Stijn,27,Discovery Channel,+12:52,2006
+12,MARTÍNEZ Egoi,28,Discovery Channel,+15:10,2006
+13,PIEPOLI Leonardo,34,Saunier Duval - Prodir,+17:23,2006
+14,SZMYD Sylwester,28,Lampre-Fondital,+18:40,2006
+15,ANTÓN Igor,23,Euskaltel - Euskadi,+18:56,2006
+16,PAULINHO Sérgio Miguel,26,Astana,+19:44,2006
+17,RODRÍGUEZ Joaquim,27,Caisse d'Epargne - Illes Balears,+24:18,2006
+18,PETROV Evgeni,28,Lampre-Fondital,+27:51,2006
+19,ARROYO David,26,Caisse d'Epargne - Illes Balears,+28:04,2006
+20,HORNER Chris,34,Saunier Duval - Prodir,+29:04,2006
+21,BAK Lars Ytting,26,CSC ProTeam,+30:36,2006
+22,ZANDIO Xabier,29,Caisse d'Epargne - Illes Balears,+32:09,2006
+23,GUSEV Vladimir,24,Discovery Channel,+34:45,2006
+24,ELTINK Theo,24,Rabobank ProTeam,+42:46,2006
+25,ELÍAS José Miguel,29,Relax - Gam,+43:20,2006
+26,CHAURREAU Íñigo,33,AG2R Prévoyance,+45:03,2006
+27,CUESTA Iñigo,37,CSC ProTeam,+46:21,2006
+28,SØRENSEN Nicki,31,CSC ProTeam,+46:30,2006
+29,GOUBERT Stéphane,36,AG2R Prévoyance,+50:47,2006
+30,BRAJKOVIČ Janez,22,Discovery Channel,+50:49,2006
+31,YAKOVLEV Serguei,30,Astana,+50:50,2006
+32,FOFONOV Dmitriy,30,Crédit Agricole,+51:57,2006
+33,LEBLACHER Eric,28,Française des Jeux,+55:05,2006
+34,ZUBELDIA Haimar,29,Euskaltel - Euskadi,+56:12,2006
+35,MAYO Iban,29,Euskaltel - Euskadi,+56:48,2006
+36,MORENO Daniel,25,Relax - Gam,+1:02:23,2006
+37,CAUCCHIOLI Pietro,31,Crédit Agricole,+1:02:55,2006
+38,CIONI Dario David,31,Liquigas,+1:04:33,2006
+39,VAN GOOLEN Jurgen,25,Discovery Channel,+1:06:40,2006
+40,DUPONT Hubert,25,AG2R Prévoyance,+1:08:18,2006
+41,BESSY Frédéric,34,"Cofidis, le Crédit par Téléphone",+1:14:34,2006
+42,BARREDO Carlos,25,Astana,+1:16:47,2006
+43,MINARD Sébastien,24,"Cofidis, le Crédit par Téléphone",+1:19:25,2006
+44,ARRIETA José Luis,35,AG2R Prévoyance,+1:24:48,2006
+45,MARICHAL Thierry,33,"Cofidis, le Crédit par Téléphone",+1:25:18,2006
+46,ARVESEN Kurt-Asle,31,CSC ProTeam,+1:29:24,2006
+47,REDONDO José Antonio,21,Astana,+1:29:48,2006
+48,LASTRAS Pablo,30,Caisse d'Epargne - Illes Balears,+1:30:24,2006
+49,PEREIRO Óscar,29,Caisse d'Epargne - Illes Balears,+1:30:54,2006
+50,NARDELLO Daniele,34,T-Mobile Team,+1:30:58,2006
+51,GARCÍA DE MATEOS Raul,24,Relax - Gam,+1:35:57,2006
+52,PEÑA Aketza,25,Euskaltel - Euskadi,+1:37:01,2006
+53,LJUNGQVIST Marcus,31,CSC ProTeam,+1:37:05,2006
+54,GUSTOV Volodymyr,29,CSC ProTeam,+1:37:59,2006
+55,POILVET Benoît,30,Crédit Agricole,+1:38:39,2006
+56,ASTARLOZA Mikel,26,AG2R Prévoyance,+1:39:33,2006
+57,HIEKMANN Torsten,26,Gerolsteiner,+1:40:19,2006
+58,VALLEJO Ángel,25,Relax - Gam,+1:40:24,2006
+59,GARRIDO José Antonio,30,Quickstep - Innergetic,+1:41:37,2006
+60,LANDALUZE Iñigo,29,Euskaltel - Euskadi,+1:42:03,2006
+61,WEENING Pieter,25,Rabobank ProTeam,+1:43:19,2006
+62,ZABEL Erik,36,Team Milram,+1:45:00,2006
+63,LOOSLI David,26,Lampre-Fondital,+1:45:53,2006
+64,MILLAR David,29,Saunier Duval - Prodir,+1:45:54,2006
+65,O'GRADY Stuart,33,CSC ProTeam,+1:45:55,2006
+66,JOACHIM Benoît,30,Discovery Channel,+1:46:03,2006
+67,ARDILA Mauricio Alberto,27,Rabobank ProTeam,+1:47:15,2006
+68,JOLY Sébastien,27,Française des Jeux,+1:47:52,2006
+69,PÉREZ Rubén,24,Euskaltel - Euskadi,+1:49:21,2006
+70,GEORGE David,30,Relax - Gam,+1:50:19,2006
+71,DE LA FUENTE David,25,Saunier Duval - Prodir,+1:50:42,2006
+72,NIERMANN Grischa,30,Rabobank ProTeam,+1:51:49,2006
+73,STALDER Florian,24,Phonak Hearing Systems,+1:52:53,2006
+74,DE WEERT Kevin,24,Quickstep - Innergetic,+1:54:28,2006
+75,MERTENS Pieter,26,Davitamon - Lotto,+1:58:08,2006
+76,BODROGI László,29,Crédit Agricole,+1:59:57,2006
+77,BARRY Michael,30,Discovery Channel,+2:02:32,2006
+78,VENTOSO Francisco José,24,Saunier Duval - Prodir,+2:02:59,2006
+79,HORRACH Joan Sebastian,32,Caisse d'Epargne - Illes Balears,+2:03:10,2006
+80,DUQUE Leonardo Fabio,26,"Cofidis, le Crédit par Téléphone",+2:04:11,2006
+81,SCHRECK Stephan,28,T-Mobile Team,+2:05:03,2006
+82,HUSHOVD Thor,28,Crédit Agricole,+2:05:03,2006
+83,BÉNÉTEAU Walter,34,Bouygues Telecom,+2:09:04,2006
+84,MORABITO Steve,23,Phonak Hearing Systems,+2:09:29,2006
+85,FERNÁNDEZ Bingen,33,"Cofidis, le Crédit par Téléphone",+2:09:37,2006
+86,SCHEIRLINCKX Staf,27,"Cofidis, le Crédit par Téléphone",+2:10:14,2006
+87,GARCÍA Jorge,26,Relax - Gam,+2:10:30,2006
+88,CAÑADA David,31,Saunier Duval - Prodir,+2:14:29,2006
+89,USOV Alexandre,29,AG2R Prévoyance,+2:16:00,2006
+90,FERNÁNDEZ Luis,26,Phonak Hearing Systems,+2:16:33,2006
+91,DAVIS Scott,27,T-Mobile Team,+2:17:09,2006
+92,HAUSSLER Heinrich,22,Gerolsteiner,+2:20:53,2006
+93,LEUKEMANS Björn,29,Davitamon - Lotto,+2:21:25,2006
+94,IRIZAR Markel,26,Euskaltel - Euskadi,+2:22:35,2006
+95,HULSMANS Kevin,28,Quickstep - Innergetic,+2:22:46,2006
+96,SACCHI Fabio,32,Team Milram,+2:26:39,2006
+97,FRANZOI Enrico,24,Lampre-Fondital,+2:26:59,2006
+98,BAZAYEV Assan,25,Astana,+2:27:42,2006
+99,MCLEOD Ian,25,Française des Jeux,+2:30:12,2006
+100,SPEZIALETTI Alessandro,31,Liquigas,+2:30:12,2006
+101,BENÍTEZ José Alberto,24,Saunier Duval - Prodir,+2:30:28,2006
+102,DE SÁRRAGA Mario,26,Relax - Gam,+2:31:27,2006
+103,LEQUATRE Geoffroy,25,"Cofidis, le Crédit par Téléphone",+2:32:02,2006
+104,GARCÍA ACOSTA José Vicente,34,Caisse d'Epargne - Illes Balears,+2:35:16,2006
+105,NAZON Jean-Patrick,29,AG2R Prévoyance,+2:35:38,2006
+106,HORRILLO Pedro,31,Rabobank ProTeam,+2:36:24,2006
+107,CORIONI Claudio,23,Lampre-Fondital,+2:36:43,2006
+108,DRANCOURT Pierre,24,Bouygues Telecom,+2:37:58,2006
+109,RODRIGUEZ Fred,33,Davitamon - Lotto,+2:38:40,2006
+110,KAISEN Olivier,23,Davitamon - Lotto,+2:39:11,2006
+111,BÄCKSTEDT Magnus,31,Liquigas,+2:41:06,2006
+112,WALKER William,20,Rabobank ProTeam,+2:41:17,2006
+113,MURN Uroš,31,Phonak Hearing Systems,+2:41:52,2006
+114,CLERC Aurélien,27,Phonak Hearing Systems,+2:42:15,2006
+115,ANDRIOTTO Dario,33,Liquigas,+2:42:17,2006
+116,ROSSELER Sébastien,25,Quickstep - Innergetic,+2:42:30,2006
+117,VIGANÒ Davide,22,Quickstep - Innergetic,+2:42:51,2006
+118,VELO Marco,32,Team Milram,+2:43:37,2006
+119,KEMPS Aaron,23,Astana,+2:44:51,2006
+120,CARLSTRÖM Kjell,29,Liquigas,+2:45:40,2006
+121,RENIER Franck,32,Bouygues Telecom,+2:45:45,2006
+122,ROY Jérémy,23,Française des Jeux,+2:45:48,2006
+123,FAILLI Francesco,22,Liquigas,+2:47:04,2006
+124,ENGELS Addy,29,Quickstep - Innergetic,+2:47:17,2006
+125,GILING Bas,23,T-Mobile Team,+2:48:44,2006
+126,NAVAS David,32,AG2R Prévoyance,+2:52:29,2006
+127,SIEDLER Sebastian,28,Team Milram,+2:56:11,2006
+128,PATANCHON Fabien,23,Française des Jeux,+2:57:52,2006
+129,VAN IMPE Kevin,25,Quickstep - Innergetic,+2:57:58,2006
+130,FÖRSTER Robert,28,Gerolsteiner,+2:58:24,2006
+131,ONGARATO Alberto,31,Team Milram,+2:59:32,2006
+132,KAGGESTAD Mads,29,Crédit Agricole,+3:11:10,2006
+133,POITSCHKE Enrico,37,Team Milram,+3:20:10,2006
+134,LEMOINE Cyril,23,Crédit Agricole,+3:23:05,2006
+1,MENCHOV Denis,29,Rabobank ProTeam,80:59:07,2007
+2,SASTRE Carlos,32,CSC ProTeam,+3:31,2007
+3,SÁNCHEZ Samuel,29,Euskaltel - Euskadi,+3:46,2007
+4,EVANS Cadel,30,Predictor - Lotto,+3:56,2007
+5,MOSQUERA Ezequiel,31,Karpin - Galicia,+6:34,2007
+6,EFIMKIN Vladimir,25,Caisse d'Epargne,+7:07,2007
+7,KARPETS Vladimir,27,Caisse d'Epargne,+8:09,2007
+8,ANTÓN Igor,24,Euskaltel - Euskadi,+8:44,2007
+9,BELTRÁN Manuel,36,Liquigas,+9:38,2007
+10,BARREDO Carlos,26,Quickstep - Innergetic,+10:12,2007
+11,MONFORT Maxime,24,"Cofidis, le Crédit par Téléphone",+10:37,2007
+12,MORENO Daniel,26,Relax - Gam,+13:07,2007
+13,GOUBERT Stéphane,37,AG2R Prévoyance,+14:13,2007
+14,LÓPEZ David,26,Caisse d'Epargne,+17:36,2007
+15,ZAUGG Oliver,26,Gerolsteiner,+19:00,2007
+16,CHAVANEL Sylvain,28,"Cofidis, le Crédit par Téléphone",+22:19,2007
+17,DUPONT Hubert,26,AG2R Prévoyance,+29:33,2007
+18,PÉREZ Luis,33,Andalucia-Caja Sur,+31:41,2007
+19,SØRENSEN Chris Anker,23,Team Designa Køkken,+32:24,2007
+20,TURPIN Ludovic,32,AG2R Prévoyance,+32:39,2007
+21,KREUZIGER Roman,21,Liquigas,+33:21,2007
+22,BERTAGNOLLI Leonardo,29,Liquigas,+37:16,2007
+23,GARCÍA DAPENA David,29,Karpin - Galicia,+37:55,2007
+24,MANDRI René,23,AG2R Prévoyance,+44:11,2007
+25,SZMYD Sylwester,29,Lampre-Fondital,+44:25,2007
+26,VAN HUFFEL Wim,28,Predictor - Lotto,+44:56,2007
+27,BOTCHAROV Alexandre,32,Crédit Agricole,+46:41,2007
+28,AERTS Mario,32,Predictor - Lotto,+47:09,2007
+29,HORRACH Joan Sebastian,33,Caisse d'Epargne,+48:52,2007
+30,GARATE Juan Manuel,31,Quickstep - Innergetic,+49:10,2007
+31,VAN GOOLEN Jurgen,26,Discovery Channel,+49:50,2007
+32,CLEMENT Stef,24,Bouygues Telecom,+50:03,2007
+33,HERRERO David,27,Karpin - Galicia,+50:28,2007
+34,CAMAÑO Iker,28,Saunier Duval,+50:29,2007
+35,GUSTOV Volodymyr,30,CSC ProTeam,+51:51,2007
+36,HORNER Chris,35,Predictor - Lotto,+52:53,2007
+37,PELLIZOTTI Franco,29,Liquigas,+56:49,2007
+38,LOBATO Rubén,29,Saunier Duval,+58:38,2007
+39,VANDE VELDE Christian,31,CSC ProTeam,+58:55,2007
+40,GÓMEZ MARCHANTE José Ángel,27,Saunier Duval,+59:45,2007
+41,CUESTA Iñigo,38,CSC ProTeam,+1:00:52,2007
+42,MOERENHOUT Koos,33,Rabobank ProTeam,+1:01:09,2007
+43,LJUNGQVIST Marcus,32,CSC ProTeam,+1:02:21,2007
+44,ZUBELDIA Haimar,30,Euskaltel - Euskadi,+1:04:02,2007
+45,FRÖHLINGER Johannes,22,Gerolsteiner,+1:04:50,2007
+46,VERHEYEN Geert,34,Quickstep - Innergetic,+1:05:56,2007
+47,VALLEJO Ángel,26,Relax - Gam,+1:07:11,2007
+48,KRIVTSOV Yuriy,28,AG2R Prévoyance,+1:09:59,2007
+49,VÁZQUEZ Manuel,26,Andalucia-Caja Sur,+1:10:33,2007
+50,MEGÍAS Javier,23,Saunier Duval,+1:11:34,2007
+51,KOLOBNEV Alexandr,26,CSC ProTeam,+1:12:38,2007
+52,KROON Karsten,31,CSC ProTeam,+1:17:16,2007
+53,DUQUE Leonardo Fabio,27,"Cofidis, le Crédit par Téléphone",+1:19:21,2007
+54,LÖFKVIST Thomas,23,Française des Jeux,+1:20:03,2007
+55,POSTHUMA Joost,26,Rabobank ProTeam,+1:20:47,2007
+56,RUIZ José,26,Andalucia-Caja Sur,+1:22:11,2007
+57,MINARD Sébastien,25,"Cofidis, le Crédit par Téléphone",+1:22:47,2007
+58,SCHRECK Stephan,29,T-Mobile Team,+1:23:20,2007
+59,ARRIETA José Luis,36,AG2R Prévoyance,+1:26:12,2007
+60,TALABARDON Yannick,26,Crédit Agricole,+1:28:21,2007
+61,GÓMEZ Ángel,26,Saunier Duval,+1:28:39,2007
+62,ERVITI Imanol,23,Caisse d'Epargne,+1:29:06,2007
+63,GALPARSORO Dionisio,29,Euskaltel - Euskadi,+1:30:55,2007
+64,BENNATI Daniele,26,Lampre-Fondital,+1:31:08,2007
+65,PÉREZ Santiago,30,Relax - Gam,+1:31:44,2007
+66,VANOTTI Alessandro,27,Liquigas,+1:31:54,2007
+67,ARDILA Mauricio Alberto,28,Rabobank ProTeam,+1:33:27,2007
+68,FERNÁNDEZ Bingen,34,"Cofidis, le Crédit par Téléphone",+1:34:01,2007
+69,GILBERT Philippe,25,Française des Jeux,+1:35:29,2007
+70,VORGANOV Eduard,24,Karpin - Galicia,+1:39:00,2007
+71,DEIGNAN Philip,24,AG2R Prévoyance,+1:39:07,2007
+72,SÁNCHEZ Luis León,23,Caisse d'Epargne,+1:39:16,2007
+73,ZABEL Erik,37,Team Milram,+1:40:08,2007
+74,ISASI Iñaki,30,Euskaltel - Euskadi,+1:41:18,2007
+75,LANDALUZE Iñigo,30,Euskaltel - Euskadi,+1:43:31,2007
+76,MCCARTNEY Jason,34,Discovery Channel,+1:44:17,2007
+77,DAVIS Scott,28,T-Mobile Team,+1:44:40,2007
+78,DION Renaud,29,AG2R Prévoyance,+1:47:26,2007
+79,SENTJENS Roy,26,Predictor - Lotto,+1:47:54,2007
+80,HIEKMANN Torsten,27,Gerolsteiner,+1:49:07,2007
+81,HERNÁNDEZ Aitor,25,Euskaltel - Euskadi,+1:50:03,2007
+82,CARRASCO José Luis,25,Andalucia-Caja Sur,+1:50:32,2007
+83,ENGELS Addy,30,Quickstep - Innergetic,+1:50:51,2007
+84,KERN Christophe,26,Crédit Agricole,+1:51:01,2007
+85,LOOSLI David,27,Lampre-Fondital,+1:51:46,2007
+86,RUBIERA José Luis,34,Discovery Channel,+1:52:16,2007
+87,MARZANO Marco,27,Lampre-Fondital,+1:52:45,2007
+88,POSSONI Morris,23,Lampre-Fondital,+1:54:19,2007
+89,HANSEN Adam,26,T-Mobile Team,+1:55:03,2007
+90,DA CRUZ Carlos,32,Française des Jeux,+1:56:10,2007
+91,OLMO Juan,29,Andalucia-Caja Sur,+1:58:30,2007
+92,CALCAGNI Patrick,30,Liquigas,+2:00:54,2007
+93,MARINO Jean-Marc,24,Crédit Agricole,+2:01:48,2007
+94,PÉREZ Alan,25,Euskaltel - Euskadi,+2:03:46,2007
+95,ELTINK Theo,25,Rabobank ProTeam,+2:07:15,2007
+96,DE LA FUENTE David,26,Saunier Duval,+2:07:41,2007
+97,DOMÍNGUEZ Gustavo,26,Karpin - Galicia,+2:08:15,2007
+98,LEQUATRE Geoffroy,26,"Cofidis, le Crédit par Téléphone",+2:09:41,2007
+99,GARCÍA DE MATEOS Raul,25,Relax - Gam,+2:12:17,2007
+100,KLINGER Tim,23,Gerolsteiner,+2:12:57,2007
+101,DA DALTO Mauro,26,Liquigas,+2:13:18,2007
+102,ORTEGA Manuel,26,Andalucia-Caja Sur,+2:14:46,2007
+103,TERCIADO Francisco José,26,Relax - Gam,+2:15:56,2007
+104,ROY Jérémy,24,Française des Jeux,+2:16:45,2007
+105,GONZÁLEZ Santos,33,Karpin - Galicia,+2:18:24,2007
+106,FOTHEN Markus,26,Gerolsteiner,+2:19:02,2007
+107,MOLETTA Andrea,28,Gerolsteiner,+2:22:56,2007
+108,GARCÍA Jorge,27,Relax - Gam,+2:23:26,2007
+109,DE MAAR Marc,23,Rabobank ProTeam,+2:23:41,2007
+110,FRANZOI Enrico,25,Lampre-Fondital,+2:25:00,2007
+111,DOCKX Bart,26,Predictor - Lotto,+2:26:25,2007
+112,LANGEVELD Sebastian,22,Rabobank ProTeam,+2:27:08,2007
+113,JÉRÔME Vincent,22,Bouygues Telecom,+2:28:31,2007
+114,MARTÍNEZ Francisco José,24,Andalucia-Caja Sur,+2:30:18,2007
+115,MÜLLER Martin,33,Team Milram,+2:30:58,2007
+116,HULSMANS Kevin,29,Quickstep - Innergetic,+2:31:55,2007
+117,VELO Marco,33,Team Milram,+2:32:15,2007
+118,CORIONI Claudio,24,Lampre-Fondital,+2:32:57,2007
+119,USOV Alexandre,30,AG2R Prévoyance,+2:33:35,2007
+120,STAMSNIJDER Tom,22,Gerolsteiner,+2:34:02,2007
+121,CÉSAR VELOSO Gustavo,27,Karpin - Galicia,+2:34:23,2007
+122,BURGOS Nacor,30,Relax - Gam,+2:34:30,2007
+123,SÁNCHEZ Julián,27,Relax - Gam,+2:34:59,2007
+124,GARCÍA ACOSTA José Vicente,35,Caisse d'Epargne,+2:35:10,2007
+125,GREIPEL André,25,T-Mobile Team,+2:37:27,2007
+126,AUGÉ Stéphane,32,"Cofidis, le Crédit par Téléphone",+2:38:02,2007
+127,PETACCHI Alessandro,33,Team Milram,+2:38:41,2007
+128,BÄCKSTEDT Magnus,32,Liquigas,+2:38:46,2007
+129,MONIER Damien,25,"Cofidis, le Crédit par Téléphone",+2:39:47,2007
+130,VIGANÒ Davide,23,Quickstep - Innergetic,+2:39:47,2007
+131,SABATINI Fabio,22,Team Milram,+2:39:55,2007
+132,BRANDT Christophe,30,Predictor - Lotto,+2:42:13,2007
+133,FERNÁNDEZ Koldo,26,Euskaltel - Euskadi,+2:43:08,2007
+134,JURČO Matej,23,Team Milram,+2:43:14,2007
+135,VEIKKANEN Jussi,26,Française des Jeux,+2:44:33,2007
+136,ONGARATO Alberto,32,Team Milram,+2:48:53,2007
+137,PÜTSEP Erki,31,Bouygues Telecom,+2:48:59,2007
+138,RIGOTTO Elia,25,Team Milram,+2:53:46,2007
+139,HARY Maryan,27,"Cofidis, le Crédit par Téléphone",+2:55:59,2007
+140,HORRILLO Pedro,32,Rabobank ProTeam,+2:56:31,2007
+141,KORFF André,34,T-Mobile Team,+2:57:29,2007
+142,TERPSTRA Niki,23,Team Milram,+3:01:30,2007
+143,LÓPEZ José Antonio,31,Andalucia-Caja Sur,+3:01:58,2007
+144,RENSHAW Mark,24,Crédit Agricole,+3:02:14,2007
+145,ROSENDO Jesús,25,Andalucia-Caja Sur,+3:02:35,2007
+1,CONTADOR Alberto,25,Astana,80:40:08,2008
+2,LEIPHEIMER Levi,34,Astana,+0:46,2008
+3,SASTRE Carlos,33,CSC ProTeam,+4:12,2008
+4,MOSQUERA Ezequiel,32,Xacobeo-Galicia,+5:19,2008
+5,VALVERDE Alejandro,28,Caisse d'Epargne,+6:00,2008
+6,RODRÍGUEZ Joaquim,29,Caisse d'Epargne,+6:50,2008
+7,GESINK Robert,22,Rabobank ProTeam,+6:55,2008
+8,MONCOUTIÉ David,33,"Cofidis, le Crédit par Téléphone",+10:10,2008
+9,MARTÍNEZ Egoi,30,Euskaltel - Euskadi,+10:57,2008
+10,BRUSEGHIN Marzio,34,Lampre,+11:56,2008
+11,ZAUGG Oliver,27,Gerolsteiner,+12:38,2008
+12,MORENO Daniel,27,Caisse d'Epargne,+13:35,2008
+13,ROCHE Nicolas,24,Crédit Agricole,+13:41,2008
+14,GARCÍA DAPENA David,30,Xacobeo-Galicia,+15:59,2008
+15,GARATE Juan Manuel,32,Quickstep - Innergetic,+17:53,2008
+16,VAN GOOLEN Jurgen,27,CSC ProTeam,+20:14,2008
+17,ARROYO David,28,Caisse d'Epargne,+21:33,2008
+18,GADRET John,29,AG2R La Mondiale,+22:34,2008
+19,CASAR Sandy,29,Française des Jeux,+24:57,2008
+20,KLÖDEN Andreas,33,Astana,+25:13,2008
+21,MORENO Javier,24,Andalucia-Caja Sur,+26:22,2008
+22,RUBIERA José Luis,35,Astana,+28:26,2008
+23,NOCENTINI Rinaldo,30,AG2R La Mondiale,+28:38,2008
+24,LOSADA Alberto,26,Caisse d'Epargne,+29:28,2008
+25,MARZANO Marco,28,Lampre,+41:42,2008
+26,PAULINHO Sérgio Miguel,28,Astana,+41:43,2008
+27,TIRALONGO Paolo,31,Lampre,+42:08,2008
+28,ASTARLOZA Mikel,28,Euskaltel - Euskadi,+45:14,2008
+29,CÉSAR VELOSO Gustavo,28,Xacobeo-Galicia,+46:51,2008
+30,NIERMANN Grischa,32,Rabobank ProTeam,+48:07,2008
+31,TALABARDON Yannick,27,Crédit Agricole,+48:27,2008
+32,DUPONT Hubert,27,AG2R La Mondiale,+50:44,2008
+33,SENTJENS Roy,27,Silence - Lotto,+50:47,2008
+34,KIRYIENKA Vasil,27,Tinkoff Credit Systems,+53:44,2008
+35,PASAMONTES Luis,28,Caisse d'Epargne,+54:55,2008
+36,FLORENCIO Xavier,28,Bouygues Telecom,+54:59,2008
+37,CUESTA Iñigo,39,CSC ProTeam,+55:59,2008
+38,CASTAÑO Carlos,29,Xacobeo-Galicia,+56:32,2008
+39,MAYOZ Iban,26,Xacobeo-Galicia,+56:51,2008
+40,KOLOBNEV Alexandr,27,CSC ProTeam,+58:00,2008
+41,PÉREZ Rubén,26,Euskaltel - Euskadi,+58:40,2008
+42,GRIVKO Andrey,25,Milram,+59:55,2008
+43,PETROV Evgeni,30,Tinkoff Credit Systems,+1:03:27,2008
+44,GUSTOV Volodymyr,31,CSC ProTeam,+1:03:32,2008
+45,TXURRUKA Amets,25,Euskaltel - Euskadi,+1:05:52,2008
+46,CORNU Dominique,22,Silence - Lotto,+1:06:56,2008
+47,HERRERO David,28,Xacobeo-Galicia,+1:07:01,2008
+48,BRESCHEL Matti,24,CSC ProTeam,+1:08:33,2008
+49,ZABEL Erik,38,Milram,+1:10:05,2008
+50,ZANDIO Xabier,31,Caisse d'Epargne,+1:10:19,2008
+51,VELASCO Iván,28,Euskaltel - Euskadi,+1:12:10,2008
+52,POPOVYCH Yaroslav,28,Silence - Lotto,+1:13:06,2008
+53,RUIZ José,27,Andalucia-Caja Sur,+1:13:15,2008
+54,KOZONTCHUK Dmitry,24,Rabobank ProTeam,+1:14:39,2008
+55,ARRIETA José Luis,37,AG2R La Mondiale,+1:18:33,2008
+56,DE MAAR Marc,24,Rabobank ProTeam,+1:19:10,2008
+57,ESKOV Nikita,25,Tinkoff Credit Systems,+1:19:55,2008
+58,TJALLINGII Maarten,30,Silence - Lotto,+1:22:17,2008
+59,DE WEERT Kevin,26,"Cofidis, le Crédit par Téléphone",+1:24:24,2008
+60,VORGANOV Eduard,25,Xacobeo-Galicia,+1:28:24,2008
+61,BONNAIRE Olivier,25,Bouygues Telecom,+1:29:47,2008
+62,NOVAL Benjamín,29,Astana,+1:30:06,2008
+63,LANDALUZE Iñigo,31,Euskaltel - Euskadi,+1:30:15,2008
+64,HINAULT Sébastien,34,Crédit Agricole,+1:30:38,2008
+65,CARRASCO José Antonio,28,Andalucia-Caja Sur,+1:30:50,2008
+66,VAN AVERMAET Greg,23,Silence - Lotto,+1:31:26,2008
+67,DUQUE Leonardo Fabio,28,"Cofidis, le Crédit par Téléphone",+1:33:55,2008
+68,CARRASCO José Luis,26,Andalucia-Caja Sur,+1:34:01,2008
+69,PÉREZ Alan,26,Euskaltel - Euskadi,+1:35:03,2008
+70,LOUBET Julien,23,AG2R La Mondiale,+1:36:48,2008
+71,MINARD Sébastien,26,"Cofidis, le Crédit par Téléphone",+1:38:09,2008
+72,KROON Karsten,32,CSC ProTeam,+1:39:10,2008
+73,VELITS Martin,23,Milram,+1:41:02,2008
+74,FLECHA Juan Antonio,31,Rabobank ProTeam,+1:41:10,2008
+75,VANOTTI Alessandro,28,Liquigas,+1:43:13,2008
+76,JÉRÔME Vincent,23,Bouygues Telecom,+1:45:41,2008
+77,ELTINK Theo,26,Rabobank ProTeam,+1:47:26,2008
+78,NUYENS Nick,28,"Cofidis, le Crédit par Téléphone",+1:49:33,2008
+79,LANG Sebastian,29,Gerolsteiner,+1:49:41,2008
+80,DI GRÉGORIO Rémy,23,Française des Jeux,+1:50:57,2008
+81,JURČO Matej,24,Milram,+1:52:09,2008
+82,BLAUDZUN Michael,35,CSC ProTeam,+1:53:05,2008
+83,ORTEGA Manuel,27,Andalucia-Caja Sur,+1:53:36,2008
+84,DOMÍNGUEZ Gustavo,27,Xacobeo-Galicia,+1:55:15,2008
+85,PEDRAZA Wálter Fernando,26,Tinkoff Credit Systems,+1:55:39,2008
+86,RASCH Gabriel,32,Crédit Agricole,+1:56:02,2008
+87,FERNÁNDEZ Bingen,35,"Cofidis, le Crédit par Téléphone",+1:57:50,2008
+88,STAMSNIJDER Tom,23,Gerolsteiner,+1:58:12,2008
+89,LADAGNOUS Matthieu,23,Française des Jeux,+1:58:46,2008
+90,MARTÍNEZ Serafín,24,Xacobeo-Galicia,+2:03:10,2008
+91,JACOBS Pieter,22,Silence - Lotto,+2:03:54,2008
+92,KAISEN Olivier,25,Silence - Lotto,+2:05:54,2008
+93,VIGANÒ Davide,24,Quickstep - Innergetic,+2:06:23,2008
+94,FERNÁNDEZ Koldo,27,Euskaltel - Euskadi,+2:09:33,2008
+95,VAITKUS Tomas,26,Astana,+2:09:36,2008
+96,MOUREY Francis,27,Française des Jeux,+2:10:33,2008
+97,CORIONI Claudio,25,Liquigas,+2:10:36,2008
+98,FRANZOI Enrico,26,Liquigas,+2:12:19,2008
+99,ERVITI Imanol,24,Caisse d'Epargne,+2:13:42,2008
+100,LEMOINE Cyril,25,Crédit Agricole,+2:16:00,2008
+101,VANENDERT Jelle,23,Française des Jeux,+2:20:20,2008
+102,SABATINI Fabio,23,Milram,+2:20:22,2008
+103,DELAGE Mickaël,23,Française des Jeux,+2:20:26,2008
+104,IGNATIEV Mikhail,23,Tinkoff Credit Systems,+2:21:00,2008
+105,BRUTT Pavel,26,Tinkoff Credit Systems,+2:22:40,2008
+106,CHAMPION Dimitri,25,Bouygues Telecom,+2:24:32,2008
+107,HUNT Jeremy,34,Crédit Agricole,+2:24:43,2008
+108,LABBÉ Arnaud,31,Bouygues Telecom,+2:25:24,2008
+109,ŠTANGELJ Gorazd,35,Liquigas,+2:27:22,2008
+110,AGNOLI Valerio,23,Liquigas,+2:29:29,2008
+111,DOCKX Bart,27,Silence - Lotto,+2:30:53,2008
+112,KERN Christophe,27,Crédit Agricole,+2:31:20,2008
+113,DION Renaud,30,AG2R La Mondiale,+2:34:02,2008
+114,ESTRADA Juan Javier,27,Andalucia-Caja Sur,+2:34:37,2008
+115,SCHWAGER Sebastian,24,Milram,+2:35:40,2008
+116,ROSENDO Jesús,26,Andalucia-Caja Sur,+2:38:35,2008
+117,HORRILLO Pedro,33,Rabobank ProTeam,+2:39:20,2008
+118,WEYLANDT Wouter,23,Quickstep - Innergetic,+2:39:53,2008
+119,GARCÍA ACOSTA José Vicente,36,Caisse d'Epargne,+2:40:03,2008
+120,MONDORY Lloyd,26,AG2R La Mondiale,+2:40:10,2008
+121,SANTAMBROGIO Mauro,23,Lampre,+2:40:22,2008
+122,MARTÍNEZ Francisco José,25,Andalucia-Caja Sur,+2:41:54,2008
+123,USOV Alexandre,31,AG2R La Mondiale,+2:42:38,2008
+124,MORI Massimiliano,34,Lampre,+2:46:52,2008
+125,SANTAROMITA Ivan,24,Liquigas,+2:50:05,2008
+126,VAN IMPE Kevin,27,Quickstep - Innergetic,+2:52:05,2008
+127,GATTO Oscar,23,Gerolsteiner,+2:58:32,2008
+128,POULHIÈS Stéphane,23,AG2R La Mondiale,+3:04:00,2008
+129,BINDI Emanuele,26,Lampre,+3:05:21,2008
+130,BAZAYEV Assan,27,Astana,+3:06:52,2008
+131,MURAVYEV Dmitriy,28,Astana,+3:25:28,2008
+1,VALVERDE Alejandro,29,Caisse d'Epargne,87:22:37,2009
+2,SÁNCHEZ Samuel,31,Euskaltel - Euskadi,+0:55,2009
+3,EVANS Cadel,32,Silence - Lotto,+1:32,2009
+4,BASSO Ivan,31,Liquigas,+2:12,2009
+5,MOSQUERA Ezequiel,33,Xacobeo-Galicia,+4:27,2009
+6,GESINK Robert,23,Rabobank ProTeam,+6:40,2009
+7,RODRÍGUEZ Joaquim,30,Caisse d'Epargne,+9:08,2009
+8,TIRALONGO Paolo,32,Lampre - NGC,+9:11,2009
+9,DEIGNAN Philip,26,Cervelo Test Team,+11:08,2009
+10,COBO Juan José,28,Fuji-Servetto,+11:27,2009
+11,MORENO Daniel,28,Caisse d'Epargne,+14:24,2009
+12,HOOGERLAND Johnny,26,Vacansoleil,+15:08,2009
+13,NAVARRO Daniel,26,Astana,+15:10,2009
+14,ZUBELDIA Haimar,32,Astana,+17:15,2009
+15,VÁZQUEZ Manuel,28,Contentpolis - Ampo,+18:41,2009
+16,KIRYIENKA Vasil,28,Caisse d'Epargne,+20:11,2009
+17,SZMYD Sylwester,31,Liquigas,+21:03,2009
+18,MOINARD Amaël,27,"Cofidis, le Crédit en Ligne",+21:11,2009
+19,HERNÁNDEZ BLÁZQUEZ Jesús,27,Astana,+23:38,2009
+20,DE WEERT Kevin,27,Quickstep - Innergetic,+24:00,2009
+21,DE GREEF Francis,24,Silence - Lotto,+24:36,2009
+22,GÓMEZ MARCHANTE José Ángel,29,Cervelo Test Team,+33:19,2009
+23,GARCÍA DAPENA David,31,Xacobeo-Galicia,+34:48,2009
+24,DE LA FUENTE David,28,Fuji-Servetto,+36:49,2009
+25,CHEREL Mikaël,23,Française des Jeux,+37:05,2009
+26,VORGANOV Eduard,26,Xacobeo-Galicia,+37:14,2009
+27,MONCOUTIÉ David,34,"Cofidis, le Crédit en Ligne",+46:45,2009
+28,HERRERO David,29,Xacobeo-Galicia,+48:07,2009
+29,TXURRUKA Amets,26,Euskaltel - Euskadi,+52:58,2009
+30,VALJAVEC Tadej,32,AG2R La Mondiale,+53:40,2009
+31,KOLOBNEV Alexandr,28,Saxo Bank,+57:07,2009
+32,DUQUE Leonardo Fabio,29,"Cofidis, le Crédit en Ligne",+58:17,2009
+33,ANTÓN Igor,26,Euskaltel - Euskadi,+58:20,2009
+34,TANKINK Bram,30,Rabobank ProTeam,+59:42,2009
+35,CUESTA Iñigo,40,Cervelo Test Team,+1:02:34,2009
+36,MOERENHOUT Koos,35,Rabobank ProTeam,+1:03:49,2009
+37,CARRARA Matteo,30,Vacansoleil,+1:05:05,2009
+38,GARATE Juan Manuel,33,Rabobank ProTeam,+1:06:25,2009
+39,MARTÍNEZ Serafín,25,Xacobeo-Galicia,+1:06:31,2009
+40,DURÁN Arkaitz,23,Fuji-Servetto,+1:06:44,2009
+41,CÉSAR VELOSO Gustavo,29,Xacobeo-Galicia,+1:07:51,2009
+42,LÓPEZ David,28,Caisse d'Epargne,+1:09:28,2009
+43,KNEES Christian,28,Milram,+1:17:16,2009
+44,WEENING Pieter,28,Rabobank ProTeam,+1:18:47,2009
+45,PALOMARES Adrián,33,Contentpolis - Ampo,+1:19:06,2009
+46,RIBLON Christophe,28,AG2R La Mondiale,+1:19:18,2009
+47,CALVENTE Manuel,33,Andalucia-Caja Sur,+1:21:27,2009
+48,BONNAIRE Olivier,26,Bbox Bouygues Telecom,+1:22:24,2009
+49,EL FARES Julien,24,"Cofidis, le Crédit en Ligne",+1:22:39,2009
+50,LLOYD Matthew,26,Silence - Lotto,+1:22:39,2009
+51,DI GRÉGORIO Rémy,24,Française des Jeux,+1:23:45,2009
+52,MARTÍNEZ Egoi,31,Euskaltel - Euskadi,+1:24:17,2009
+53,MARTIN Dan,23,Team Garmin - Slipstream,+1:26:13,2009
+54,GILBERT Philippe,27,Silence - Lotto,+1:27:04,2009
+55,BOOM Lars,23,Rabobank ProTeam,+1:28:13,2009
+56,FUGLSANG Jakob,24,Saxo Bank,+1:28:24,2009
+57,SPRICK Matthieu,27,Bbox Bouygues Telecom,+1:29:14,2009
+58,FERNÁNDEZ Bingen,36,"Cofidis, le Crédit en Ligne",+1:30:07,2009
+59,FLORENCIO Xavier,29,Cervelo Test Team,+1:32:33,2009
+60,INTXAUSTI Beñat,23,Fuji-Servetto,+1:34:35,2009
+61,KREUZIGER Roman,23,Liquigas,+1:34:53,2009
+62,RAMÍREZ Javier,31,Andalucia-Caja Sur,+1:35:08,2009
+63,LADAGNOUS Matthieu,24,Française des Jeux,+1:35:17,2009
+64,TURPIN Ludovic,34,AG2R La Mondiale,+1:36:42,2009
+65,MONIER Damien,27,"Cofidis, le Crédit en Ligne",+1:39:22,2009
+66,DEL NERO Jesús,27,Fuji-Servetto,+1:41:03,2009
+67,RABUÑAL Gonzalo,25,Xacobeo-Galicia,+1:42:14,2009
+68,BRESCHEL Matti,25,Saxo Bank,+1:43:52,2009
+69,HINAULT Sébastien,35,AG2R La Mondiale,+1:46:51,2009
+70,ZAUGG Oliver,28,Liquigas,+1:46:54,2009
+71,ISASI Iñaki,32,Euskaltel - Euskadi,+1:51:28,2009
+72,KESSIAKOFF Fredrik,29,Fuji-Servetto,+1:51:41,2009
+73,DELAGE Mickaël,24,Silence - Lotto,+1:52:52,2009
+74,TAARAMÄE Rein,22,"Cofidis, le Crédit en Ligne",+1:54:01,2009
+75,MARTÍNEZ Francisco José,26,Andalucia-Caja Sur,+1:55:32,2009
+76,KROON Karsten,33,Saxo Bank,+1:56:22,2009
+77,DOMÍNGUEZ Gustavo,28,Xacobeo-Galicia,+1:59:47,2009
+78,PIEDRA Antonio,23,Andalucia-Caja Sur,+1:59:54,2009
+79,SÁNCHEZ Julián,29,Contentpolis - Ampo,+2:01:47,2009
+80,MILLAR David,32,Team Garmin - Slipstream,+2:03:28,2009
+81,ARRIETA José Luis,38,AG2R La Mondiale,+2:03:32,2009
+82,GASPAROTTO Enrico,27,Lampre - NGC,+2:07:41,2009
+83,ROELS Dominik,22,Milram,+2:08:25,2009
+84,BENNATI Daniele,28,Liquigas,+2:08:34,2009
+85,DEVOLDER Stijn,30,Quickstep - Innergetic,+2:09:44,2009
+86,KAISEN Olivier,26,Silence - Lotto,+2:10:55,2009
+87,WESTRA Lieuwe,27,Vacansoleil,+2:11:21,2009
+88,PÉREZ Francisco,31,Caisse d'Epargne,+2:12:03,2009
+89,BUFFAZ Mickaël,30,"Cofidis, le Crédit en Ligne",+2:12:42,2009
+90,RUSS Matthias,25,Milram,+2:17:39,2009
+91,CARLSTRÖM Kjell,32,Liquigas,+2:17:50,2009
+92,PÉREZ Alan,27,Euskaltel - Euskadi,+2:18:25,2009
+93,VELO Marco,35,Quickstep - Innergetic,+2:18:26,2009
+94,HANSEN Adam,28,Team Columbia - HTC,+2:19:46,2009
+95,VELITS Martin,24,Milram,+2:20:48,2009
+96,HERNÁNDEZ Aitor,27,Euskaltel - Euskadi,+2:20:50,2009
+97,HAMMOND Roger,35,Cervelo Test Team,+2:22:26,2009
+98,PÉREZ Rubén,27,Euskaltel - Euskadi,+2:22:57,2009
+99,VOß Paul,23,Milram,+2:27:43,2009
+100,ERVITI Imanol,25,Caisse d'Epargne,+2:27:53,2009
+101,RASCH Gabriel,33,Cervelo Test Team,+2:28:38,2009
+102,BOŽIČ Borut,29,Vacansoleil,+2:28:48,2009
+103,REYNÉS Vicente,28,Team Columbia - HTC,+2:28:53,2009
+104,LAGUTIN Sergey,28,Vacansoleil,+2:32:05,2009
+105,GÉRARD Arnaud,24,Française des Jeux,+2:32:39,2009
+106,ROSENDO Jesús,27,Andalucia-Caja Sur,+2:35:43,2009
+107,GREIPEL André,27,Team Columbia - HTC,+2:36:32,2009
+108,ARVESEN Kurt-Asle,34,Saxo Bank,+2:37:38,2009
+109,BONNET William,27,Bbox Bouygues Telecom,+2:38:05,2009
+110,SCHÄR Michael,22,Astana,+2:39:45,2009
+111,PÉREZ Aitor,32,Contentpolis - Ampo,+2:40:56,2009
+112,ZANDIO Xabier,32,Caisse d'Epargne,+2:42:38,2009
+113,WYNANTS Maarten,27,Quickstep - Innergetic,+2:46:18,2009
+114,IRIZAR Markel,29,Euskaltel - Euskadi,+2:46:43,2009
+115,SABATINI Fabio,24,Liquigas,+2:47:06,2009
+116,BENÍTEZ Javier,30,Contentpolis - Ampo,+2:51:10,2009
+117,SULZBERGER Wesley,22,Française des Jeux,+2:51:56,2009
+118,RUIZ José,28,Andalucia-Caja Sur,+2:51:58,2009
+119,ROELANDTS Jürgen,24,Silence - Lotto,+2:52:13,2009
+120,ROUX Anthony,22,Française des Jeux,+2:53:02,2009
+121,PACHECO Francisco José,27,Contentpolis - Ampo,+2:53:17,2009
+122,SIEBERG Marcel,27,Team Columbia - HTC,+2:53:44,2009
+123,HENDERSON Gregory,33,Team Columbia - HTC,+2:55:24,2009
+124,PRONK Matthé,35,Vacansoleil,+2:57:16,2009
+125,BRANDT Christophe,32,Silence - Lotto,+2:57:50,2009
+126,QUINZIATO Manuel,29,Liquigas,+2:58:07,2009
+127,DEMARET Jean-Eudes,25,"Cofidis, le Crédit en Ligne",+2:58:10,2009
+128,BINDI Emanuele,27,Lampre - NGC,+3:00:24,2009
+129,LEEZER Tom,23,Rabobank ProTeam,+3:01:15,2009
+130,BAZAYEV Assan,28,Astana,+3:06:28,2009
+131,BODNAR Maciej,24,Liquigas,+3:08:41,2009
+132,DEAN Julian,34,Team Garmin - Slipstream,+3:09:57,2009
+133,MORI Massimiliano,35,Lampre - NGC,+3:13:53,2009
+134,RABOŇ František,25,Team Columbia - HTC,+3:16:05,2009
+135,MAASKANT Martijn,26,Team Garmin - Slipstream,+3:17:50,2009
+136,GUDSELL Timothy,25,Française des Jeux,+3:18:41,2009
+137,GARCÍA ACOSTA José Vicente,37,Caisse d'Epargne,+3:19:05,2009
+138,MOURIS Jens,29,Vacansoleil,+3:19:54,2009
+139,GAUDIN Damien,23,Bbox Bouygues Telecom,+3:29:02,2009
+1,NIBALI Vincenzo,25,Liquigas - Doimo,87:18:31,2010
+2,MOSQUERA Ezequiel,34,Xacobeo-Galicia,+0:43,2010
+2,VELITS Peter,25,Team HTC - Columbia,+3:04,2010
+3,RODRÍGUEZ Joaquim,31,Team Katusha,+4:22,2010
+4,SCHLECK Fränk,30,Saxo Bank,+4:45,2010
+5,TONDO Xavier,31,Cervelo Test Team,+4:54,2010
+6,ROCHE Nicolas,26,AG2R La Mondiale,+5:05,2010
+7,SASTRE Carlos,35,Cervelo Test Team,+6:08,2010
+8,DANIELSON Tom,32,Team Garmin - Transitions,+6:18,2010
+9,SÁNCHEZ Luis León,26,Caisse d'Epargne,+7:44,2010
+11,GARCÍA DAPENA David,32,Xacobeo-Galicia,+9:39,2010
+10,NIEVE Mikel,26,Euskaltel - Euskadi,+11:00,2010
+11,KARPETS Vladimir,29,Team Katusha,+13:07,2010
+12,MONCOUTIÉ David,35,"Cofidis, le Crédit en Ligne",+14:34,2010
+13,LE MÉVEL Christophe,30,Francaise des Jeux,+16:38,2010
+14,PLAZA Rubén,30,Caisse d'Epargne,+16:42,2010
+15,GUSEV Vladimir,28,Team Katusha,+17:56,2010
+16,KASHECHKIN Andrey,30,Lampre - Farnese Vini,+21:16,2010
+17,BAKELANTS Jan,24,Omega Pharma-Lotto,+24:38,2010
+18,LARSSON Gustav Erik,29,Saxo Bank,+25:17,2010
+19,DI GRÉGORIO Rémy,25,Francaise des Jeux,+27:33,2010
+20,BRUSEGHIN Marzio,36,Caisse d'Epargne,+28:56,2010
+23,TURPIN Ludovic,35,AG2R La Mondiale,+30:26,2010
+24,JUFRÉ Josep,35,Astana,+32:44,2010
+25,ARROYO David,30,Caisse d'Epargne,+35:29,2010
+26,CUESTA Iñigo,41,Cervelo Test Team,+37:42,2010
+27,PETERSON Tom,23,Team Garmin - Transitions,+38:04,2010
+28,KREUZIGER Roman,24,Liquigas - Doimo,+38:45,2010
+29,KOLOBNEV Alexandr,29,Team Katusha,+39:24,2010
+30,RABUÑAL Gonzalo,26,Xacobeo-Galicia,+46:00,2010
+31,TXURRUKA Amets,27,Euskaltel - Euskadi,+48:12,2010
+32,DYACHENKO Alexandr,26,Astana,+50:55,2010
+33,URÁN Rigoberto,23,Caisse d'Epargne,+53:14,2010
+34,VAN GOOLEN Jurgen,29,Omega Pharma-Lotto,+54:13,2010
+35,VAN GARDEREN Tejay,22,Team HTC - Columbia,+56:06,2010
+36,CARUSO Giampaolo,30,Team Katusha,+56:25,2010
+37,FRÖHLINGER Johannes,25,Milram,+1:03:26,2010
+38,SIUTSOU Kanstantsin,28,Team HTC - Columbia,+1:07:00,2010
+39,PERAUD Jean-Christophe,33,Omega Pharma-Lotto,+1:08:17,2010
+40,MARZANO Marco,30,Lampre - Farnese Vini,+1:12:46,2010
+41,MENCHOV Denis,32,Rabobank ProTeam,+1:13:44,2010
+42,LÓPEZ David,29,Caisse d'Epargne,+1:25:10,2010
+43,BARREDO Carlos,29,Quickstep - Innergetic,+1:26:16,2010
+44,GARCÍA Marcos,23,Xacobeo-Galicia,+1:27:31,2010
+45,CÉSAR VELOSO Gustavo,30,Xacobeo-Galicia,+1:34:41,2010
+46,GARATE Juan Manuel,34,Rabobank ProTeam,+1:35:38,2010
+47,PASAMONTES Luis,30,Caisse d'Epargne,+1:35:55,2010
+48,LUND Anders,25,Saxo Bank,+1:36:06,2010
+49,VAN AVERMAET Greg,25,Omega Pharma-Lotto,+1:36:15,2010
+50,GILBERT Philippe,28,Omega Pharma-Lotto,+1:38:51,2010
+51,ZAUGG Oliver,29,Liquigas - Doimo,+1:41:23,2010
+52,MORENO Javier,26,Andalucia-Caja Sur,+1:43:50,2010
+53,NOCENTINI Rinaldo,32,AG2R La Mondiale,+1:44:09,2010
+54,SPRICK Matthieu,28,Bbox Bouygues Telecom,+1:45:50,2010
+55,DUPONT Hubert,29,AG2R La Mondiale,+1:46:30,2010
+56,OROZ Juan José,30,Euskaltel - Euskadi,+1:47:27,2010
+57,FOFONOV Dmitriy,34,Astana,+1:50:41,2010
+58,BONNAFOND Guillaume,23,AG2R La Mondiale,+1:52:36,2010
+59,VANDE VELDE Christian,34,Team Garmin - Transitions,+1:52:49,2010
+60,FERNÁNDEZ Delio,24,Xacobeo-Galicia,+1:53:33,2010
+61,PIETROPOLLI Daniele,30,Lampre - Farnese Vini,+1:56:46,2010
+62,CHEREL Mikaël,24,Francaise des Jeux,+1:58:58,2010
+63,MARTÍNEZ Serafín,26,Xacobeo-Galicia,+2:00:52,2010
+64,DE WEERT Kevin,28,Quickstep - Innergetic,+2:01:44,2010
+65,SANTAROMITA Ivan,26,Liquigas - Doimo,+2:05:08,2010
+66,PUJOL Óscar,26,Cervelo Test Team,+2:06:08,2010
+67,TOSATTO Matteo,36,Quickstep - Innergetic,+2:07:19,2010
+68,GASPAROTTO Enrico,28,Astana,+2:07:28,2010
+69,RODRÍGUEZ Gustavo,31,Xacobeo-Galicia,+2:07:34,2010
+70,VOß Paul,24,Milram,+2:07:39,2010
+71,CATALDO Dario,25,Quickstep - Innergetic,+2:09:54,2010
+72,NIERMANN Grischa,34,Rabobank ProTeam,+2:10:26,2010
+73,PAURIOL Rémi,28,"Cofidis, le Crédit en Ligne",+2:11:14,2010
+74,HORRACH Joan Sebastian,36,Team Katusha,+2:12:17,2010
+75,BENÍTEZ José Alberto,28,Footon-Servetto,+2:12:24,2010
+76,DAVIS Allan,30,Astana,+2:13:16,2010
+77,PATERSKI Maciej,24,Liquigas - Doimo,+2:13:23,2010
+78,ERVITI Imanol,26,Caisse d'Epargne,+2:13:52,2010
+79,FINETTO Mauro,25,Liquigas - Doimo,+2:14:17,2010
+80,GÓMEZ MARCHANTE José Ángel,30,Andalucia-Caja Sur,+2:15:25,2010
+81,TSCHOPP Johann,28,Bbox Bouygues Telecom,+2:15:40,2010
+82,KADRI Blel,24,AG2R La Mondiale,+2:16:40,2010
+83,BAZAYEV Assan,29,Astana,+2:16:51,2010
+84,VERDUGO Gorka,31,Euskaltel - Euskadi,+2:21:52,2010
+85,BENNATI Daniele,29,Liquigas - Doimo,+2:24:11,2010
+86,CHEULA Giampaolo,31,Footon-Servetto,+2:24:40,2010
+87,ZINGLE Romain,23,"Cofidis, le Crédit en Ligne",+2:25:41,2010
+88,WILLEMS Frederik,31,Liquigas - Doimo,+2:27:06,2010
+89,GALLOPIN Tony,22,"Cofidis, le Crédit en Ligne",+2:29:15,2010
+90,MORI Manuele,30,Lampre - Farnese Vini,+2:32:44,2010
+91,RAMÍREZ Javier,32,Andalucia-Caja Sur,+2:34:46,2010
+92,ESTRADA Juan Javier,29,Andalucia-Caja Sur,+2:37:08,2010
+93,CARRASCO Sergio,25,Andalucia-Caja Sur,+2:37:54,2010
+94,JÉRÔME Vincent,25,Bbox Bouygues Telecom,+2:40:11,2010
+95,TERPSTRA Niki,26,Milram,+2:42:39,2010
+96,SIJMENS Nico,32,"Cofidis, le Crédit en Ligne",+2:43:03,2010
+97,BOLE Grega,25,Lampre - Farnese Vini,+2:44:32,2010
+98,MEERSMAN Gianni,24,Francaise des Jeux,+2:44:54,2010
+99,RENEV Sergey,25,Astana,+2:45:14,2010
+100,QUÉMÉNEUR Perrig,26,Bbox Bouygues Telecom,+2:47:58,2010
+101,URTASUN Pablo,30,Euskaltel - Euskadi,+2:49:42,2010
+102,MINARD Sébastien,28,"Cofidis, le Crédit en Ligne",+2:49:43,2010
+103,ZEITS Andrey,23,Astana,+2:50:38,2010
+104,FLORENCIO Xavier,30,Cervelo Test Team,+2:53:57,2010
+105,PIEDRA Antonio,24,Andalucia-Caja Sur,+2:54:37,2010
+106,VELITS Martin,25,Team HTC - Columbia,+2:54:43,2010
+107,SCHRÖDER Björn,29,Milram,+2:56:43,2010
+108,HONDO Danilo,36,Lampre - Farnese Vini,+2:59:19,2010
+109,MILLAR David,33,Team Garmin - Transitions,+3:07:54,2010
+110,CAZAUX Pierre,26,Francaise des Jeux,+3:12:19,2010
+111,BONNET William,28,Bbox Bouygues Telecom,+3:12:35,2010
+112,RIGHI Daniele,34,Lampre - Farnese Vini,+3:13:51,2010
+113,GUTIÉRREZ David,28,Footon-Servetto,+3:14:44,2010
+114,EICHLER Markus,28,Milram,+3:16:25,2010
+115,GARCÍA ACOSTA José Vicente,38,Caisse d'Epargne,+3:18:33,2010
+116,LANGEVELD Sebastian,25,Rabobank ProTeam,+3:22:27,2010
+117,HINAULT Sébastien,36,AG2R La Mondiale,+3:22:34,2010
+118,HOSTE Leif,33,Omega Pharma-Lotto,+3:22:51,2010
+119,ROELS Dominik,23,Milram,+3:24:48,2010
+120,ARDILA Mauricio Alberto,31,Rabobank ProTeam,+3:26:55,2010
+121,PICHOT Alexandre,27,Bbox Bouygues Telecom,+3:27:33,2010
+122,MATA Enrique,25,Footon-Servetto,+3:28:02,2010
+123,ORTEGA Manuel,29,Andalucia-Caja Sur,+3:29:42,2010
+124,DUMOULIN Samuel,30,"Cofidis, le Crédit en Ligne",+3:30:52,2010
+125,KAISEN Olivier,27,Omega Pharma-Lotto,+3:31:13,2010
+126,MALACARNE Davide,23,Quickstep - Innergetic,+3:34:20,2010
+127,NUYENS Nick,30,Rabobank ProTeam,+3:36:08,2010
+128,CARDOSO Manuel Antonio Leal,27,Footon-Servetto,+3:36:29,2010
+129,TORIBIO José Vicente,24,Andalucia-Caja Sur,+3:39:28,2010
+130,RIBLON Christophe,29,AG2R La Mondiale,+3:40:56,2010
+131,PEDERSEN Martin,27,Footon-Servetto,+3:41:41,2010
+132,MAES Nikolas,24,Quickstep - Innergetic,+3:42:03,2010
+133,ISAYCHEV Vladimir,24,Xacobeo-Galicia,+3:42:09,2010
+134,KOZONTCHUK Dmitry,26,Rabobank ProTeam,+3:42:44,2010
+135,HUTAROVICH Yauheni,26,Francaise des Jeux,+3:42:53,2010
+136,FURLAN Angelo,33,Lampre - Farnese Vini,+3:44:35,2010
+137,FÖRSTER Robert,32,Milram,+3:46:30,2010
+138,GOSS Matthew,23,Team HTC - Columbia,+3:46:42,2010
+139,CHAVANEL Sébastien,29,Francaise des Jeux,+3:49:44,2010
+140,KLOSTERGAARD Kasper,27,Saxo Bank,+3:52:52,2010
+141,FERNÁNDEZ Koldo,29,Euskaltel - Euskadi,+3:53:19,2010
+142,FARRAR Tyler,26,Team Garmin - Transitions,+3:54:20,2010
+143,WILSON Matthew,32,Team Garmin - Transitions,+3:54:50,2010
+144,CAVENDISH Mark,25,Team HTC - Columbia,+3:55:57,2010
+145,STAUFF Andreas,23,Quickstep - Innergetic,+3:56:35,2010
+146,WEYLANDT Wouter,25,Quickstep - Innergetic,+3:56:52,2010
+147,WALKER Johnnie,23,Footon-Servetto,+4:00:12,2010
+148,IGNATIEV Mikhail,25,Team Katusha,+4:00:29,2010
+149,GUARNIERI Jacopo,23,Liquigas - Doimo,+4:01:31,2010
+150,MONTENEGRO Jorge Martín,27,Andalucia-Caja Sur,+4:03:01,2010
+151,HAEDO Juan José,29,Saxo Bank,+4:03:47,2010
+152,KREDER Michel,23,Team Garmin - Transitions,+4:06:47,2010
+153,IGLINSKIY Valentin,26,Astana,+4:10:32,2010
+154,LABBÉ Arnaud,33,"Cofidis, le Crédit en Ligne",+4:11:31,2010
+155,KLEMME Dominic,23,Saxo Bank,+4:13:02,2010
+156,BAK Lars Ytting,30,Team HTC - Columbia,+4:19:30,2010
+1,COBO Juan José,30,Geox-TMC Transformers,84:59:31,2011
+1,FROOME Chris,26,Sky Procycling,0:130:13,2011
+2,WIGGINS Bradley,31,Sky Procycling,+1:39,2011
+3,MOLLEMA Bauke,24,Rabobank Cycling Team,+2:03,2011
+5,MENCHOV Denis,33,Geox-TMC Transformers,+3:48,2011
+6,MONFORT Maxime,28,Leopard Trek,+4:13,2011
+7,NIBALI Vincenzo,26,Liquigas - Cannondale,+4:31,2011
+8,VAN DEN BROECK Jurgen,28,Omega Pharma-Lotto,+4:45,2011
+9,MORENO Daniel,30,Team Katusha,+5:20,2011
+10,NIEVE Mikel,27,Euskaltel - Euskadi,+5:33,2011
+11,FUGLSANG Jakob,26,Leopard Trek,+5:50,2011
+12,SØRENSEN Chris Anker,27,Saxo Bank - Sungard,+7:04,2011
+13,MARTIN Dan,25,Team Garmin - Cervélo,+7:22,2011
+14,BRUSEGHIN Marzio,37,Movistar Team,+8:52,2011
+15,LAGUTIN Sergey,30,Vacansoleil - DCM,+8:57,2011
+16,ROCHE Nicolas,27,AG2R La Mondiale,+10:25,2011
+17,POELS Wout,23,Vacansoleil - DCM,+11:42,2011
+18,KIŠERLOVSKI Robert,25,Pro Team Astana,+13:27,2011
+19,RODRÍGUEZ Joaquim,32,Team Katusha,+15:07,2011
+20,SASTRE Carlos,36,Geox-TMC Transformers,+20:08,2011
+21,CAPECCHI Eros,25,Liquigas - Cannondale,+20:22,2011
+22,BRAJKOVIČ Janez,27,RadioShack,+21:06,2011
+23,SEELDRAEYERS Kevin,24,Quickstep Cycling Team,+22:25,2011
+24,PERGET Mathieu,26,AG2R La Mondiale,+33:26,2011
+25,ZUBELDIA Haimar,34,RadioShack,+33:29,2011
+26,BONNAFOND Guillaume,24,AG2R La Mondiale,+36:38,2011
+27,CHAVANEL Sylvain,32,Quickstep Cycling Team,+40:02,2011
+28,ROHREGGER Thomas,28,Leopard Trek,+40:40,2011
+29,DE GREEF Francis,26,Omega Pharma-Lotto,+45:16,2011
+30,TXURRUKA Amets,28,Euskaltel - Euskadi,+47:42,2011
+31,BAKELANTS Jan,25,Omega Pharma-Lotto,+48:06,2011
+32,MACHADO Tiago,25,RadioShack,+48:25,2011
+33,ANTÓN Igor,28,Euskaltel - Euskadi,+51:08,2011
+34,KESSIAKOFF Fredrik,31,Pro Team Astana,+51:28,2011
+35,DE LA FUENTE David,30,Geox-TMC Transformers,+1:00:03,2011
+36,VERDUGO Gorka,32,Euskaltel - Euskadi,+1:00:53,2011
+37,MONCOUTIÉ David,36,"Cofidis, le Crédit en Ligne",+1:12:35,2011
+38,NERZ Dominik,22,Liquigas - Cannondale,+1:13:07,2011
+39,DUARTE Fabio,25,Geox-TMC Transformers,+1:13:16,2011
+40,LE MÉVEL Christophe,31,Team Garmin - Cervélo,+1:14:00,2011
+41,KRUIJSWIJK Steven,24,Rabobank Cycling Team,+1:16:19,2011
+42,KARPETS Vladimir,30,Team Katusha,+1:20:57,2011
+43,VORGANOV Eduard,28,Team Katusha,+1:21:57,2011
+44,LASTRAS Pablo,35,Movistar Team,+1:31:16,2011
+45,BARREDO Carlos,30,Rabobank Cycling Team,+1:31:34,2011
+46,LOSADA Alberto,29,Team Katusha,+1:33:08,2011
+47,BLANCO David,36,Geox-TMC Transformers,+1:41:37,2011
+48,ANZÀ Santo,30,Vacansoleil - DCM,+1:45:51,2011
+49,FRÖHLINGER Johannes,26,Skil - Shimano,+1:47:24,2011
+50,OROZ Juan José,31,Euskaltel - Euskadi,+1:47:47,2011
+51,LELAY David,31,AG2R La Mondiale,+1:48:15,2011
+52,LÖFKVIST Thomas,27,Sky Procycling,+1:48:47,2011
+53,SÁNCHEZ Luis León,27,Rabobank Cycling Team,+1:50:11,2011
+54,NIEMIEC Przemysław,31,Lampre - ISD,+1:50:36,2011
+55,MARTÍNEZ Egoi,33,Euskaltel - Euskadi,+1:52:12,2011
+56,MALACARNE Davide,24,Quickstep Cycling Team,+1:53:44,2011
+57,JUFRÉ Josep,36,Pro Team Astana,+1:59:10,2011
+58,GAVAZZI Francesco,27,Lampre - ISD,+1:59:39,2011
+59,MIZUROV Andrey,38,Pro Team Astana,+2:03:48,2011
+60,DESSEL Cyril,36,AG2R La Mondiale,+2:04:38,2011
+61,MARZANO Marco,31,Lampre - ISD,+2:04:58,2011
+62,KAISEN Olivier,28,Omega Pharma-Lotto,+2:08:52,2011
+63,MATÉ Luis Ángel,27,"Cofidis, le Crédit en Ligne",+2:09:06,2011
+64,KANGERT Tanel,24,Pro Team Astana,+2:10:40,2011
+65,PETROV Evgeni,33,Pro Team Astana,+2:13:50,2011
+66,GARATE Juan Manuel,35,Rabobank Cycling Team,+2:14:48,2011
+67,HORRACH Joan Sebastian,37,Team Katusha,+2:16:19,2011
+68,DE KORT Koen,29,Skil - Shimano,+2:18:40,2011
+69,ZANDIO Xabier,34,Sky Procycling,+2:18:45,2011
+70,VANSUMMEREN Johan,30,Team Garmin - Cervélo,+2:18:45,2011
+71,ISASI Iñaki,34,Euskaltel - Euskadi,+2:22:10,2011
+72,PIEDRA Antonio,25,Andalucia - Caja Granada,+2:23:26,2011
+73,SIJMENS Nico,33,"Cofidis, le Crédit en Ligne",+2:24:00,2011
+74,CARUSO Damiano,23,Liquigas - Cannondale,+2:25:50,2011
+75,SLAGTER Tom-Jelte,22,Rabobank Cycling Team,+2:27:27,2011
+76,MONTAGUTI Matteo,27,AG2R La Mondiale,+2:29:14,2011
+77,LANG Sebastian,31,Omega Pharma-Lotto,+2:33:01,2011
+78,GASPAROTTO Enrico,29,Pro Team Astana,+2:35:11,2011
+79,TALANSKY Andrew,22,Team Garmin - Cervélo,+2:35:17,2011
+80,POSSONI Morris,27,Sky Procycling,+2:36:28,2011
+81,GUSTOV Volodymyr,34,Saxo Bank - Sungard,+2:39:11,2011
+82,DE MAAR Marc,27,Quickstep Cycling Team,+2:40:57,2011
+83,VAN AVERMAET Greg,26,BMC Racing Team,+2:44:59,2011
+84,MONDORY Lloyd,29,AG2R La Mondiale,+2:46:03,2011
+85,PAULINHO Sérgio Miguel,31,RadioShack,+2:46:42,2011
+86,INTXAUSTI Beñat,25,Movistar Team,+2:46:45,2011
+87,REYNÉS Vicente,30,Omega Pharma-Lotto,+2:47:40,2011
+88,SANTAMBROGIO Mauro,26,BMC Racing Team,+2:48:01,2011
+89,KASHECHKIN Andrey,31,Pro Team Astana,+2:54:57,2011
+90,BERNABÉU David,36,Andalucia - Caja Granada,+2:57:45,2011
+91,DE WEERT Kevin,29,Quickstep Cycling Team,+2:58:47,2011
+92,DOCKX Gert,23,Omega Pharma-Lotto,+2:59:00,2011
+93,O'GRADY Stuart,38,Leopard Trek,+3:00:13,2011
+94,FRANK Mathias,24,BMC Racing Team,+3:00:40,2011
+95,CHAMPION Dimitri,28,AG2R La Mondiale,+3:01:28,2011
+96,IRIZAR Markel,31,RadioShack,+3:01:37,2011
+97,AZANZA Jorge,29,Euskaltel - Euskadi,+3:03:45,2011
+98,ROLDÁN Jose Luis,25,Andalucia - Caja Granada,+3:04:47,2011
+99,ROSENDO Jesús,29,Andalucia - Caja Granada,+3:05:09,2011
+100,PETACCHI Alessandro,37,Lampre - ISD,+3:07:01,2011
+101,PIDGORNYY Ruslan,34,Vacansoleil - DCM,+3:07:41,2011
+102,DYACHENKO Alexandr,27,Pro Team Astana,+3:08:09,2011
+103,HAUSSLER Heinrich,27,Team Garmin - Cervélo,+3:09:09,2011
+104,VANDEWALLE Kristof,26,Quickstep Cycling Team,+3:10:18,2011
+105,AGNOLI Valerio,26,Liquigas - Cannondale,+3:12:43,2011
+106,PÉREZ Aitor,34,Lampre - ISD,+3:15:08,2011
+107,MORI Manuele,31,Lampre - ISD,+3:15:13,2011
+108,LIGTHART Pim,23,Vacansoleil - DCM,+3:17:01,2011
+109,BELLOTTI Francesco,32,Liquigas - Cannondale,+3:17:09,2011
+110,LEQUATRE Geoffroy,30,RadioShack,+3:20:19,2011
+111,KOHLER Martin,26,BMC Racing Team,+3:24:38,2011
+112,BENNATI Daniele,30,Leopard Trek,+3:25:02,2011
+113,BUSCHE Matthew,26,RadioShack,+3:25:48,2011
+114,PALOMARES Adrián,35,Andalucia - Caja Granada,+3:25:54,2011
+115,GESCHKE Simon,25,Skil - Shimano,+3:28:05,2011
+116,BAGOT Yoann,24,"Cofidis, le Crédit en Ligne",+3:28:44,2011
+117,SANTAROMITA Ivan,27,BMC Racing Team,+3:32:20,2011
+118,OLIVEIRA Nelson,22,RadioShack,+3:32:44,2011
+119,MARTENS Paul,27,Rabobank Cycling Team,+3:32:57,2011
+120,SØRENSEN Nicki,36,Saxo Bank - Sungard,+3:33:58,2011
+121,SAGAN Peter,21,Liquigas - Cannondale,+3:37:24,2011
+122,KOZONTCHUK Dmitry,27,Geox-TMC Transformers,+3:38:45,2011
+123,ALBASINI Michael,30,HTC - High Road,+3:39:23,2011
+124,TROFIMOV Yuri,27,Team Katusha,+3:40:05,2011
+125,VELITS Martin,26,HTC - High Road,+3:42:38,2011
+126,ERVITI Imanol,27,Movistar Team,+3:43:59,2011
+127,VAN DE WALLE Jurgen,34,Omega Pharma-Lotto,+3:47:05,2011
+128,STANNARD Ian,24,Sky Procycling,+3:49:52,2011
+129,HANSEN Adam,30,Omega Pharma-Lotto,+3:50:18,2011
+130,BENÍTEZ José Alberto,29,Andalucia - Caja Granada,+3:51:37,2011
+131,QUINZIATO Manuel,31,BMC Racing Team,+3:51:52,2011
+132,CATALDO Dario,26,Quickstep Cycling Team,+3:52:47,2011
+133,HOUANARD Steve,25,AG2R La Mondiale,+3:53:39,2011
+134,TORIBIO José Vicente,25,Andalucia - Caja Granada,+3:55:35,2011
+135,PAOLINI Luca,34,Team Katusha,+3:58:33,2011
+136,GRABSCH Bert,36,HTC - High Road,+3:59:03,2011
+137,FOUCHARD Julien,25,"Cofidis, le Crédit en Ligne",+4:08:07,2011
+138,MARANGONI Alan,27,Liquigas - Cannondale,+4:13:04,2011
+139,AAEN JØRGENSEN Jonas,25,Saxo Bank - Sungard,+4:14:13,2011
+140,VANMARCKE Sep,23,Team Garmin - Cervélo,+4:15:06,2011
+141,RIGHI Daniele,35,Lampre - ISD,+4:15:54,2011
+142,VIGANÒ Davide,27,Leopard Trek,+4:18:11,2011
+143,KUSCHYNSKI Aleksandr,31,Team Katusha,+4:18:29,2011
+144,DEGENKOLB John,22,HTC - High Road,+4:19:56,2011
+145,CIONI Dario David,36,Sky Procycling,+4:20:20,2011
+146,CARRARA Matteo,32,Vacansoleil - DCM,+4:20:56,2011
+147,DA DALTO Mauro,30,Liquigas - Cannondale,+4:22:32,2011
+148,CAZAUX Pierre,27,Euskaltel - Euskadi,+4:28:14,2011
+149,MARYCZ Jarosław,24,Saxo Bank - Sungard,+4:29:18,2011
+150,DOI Yukihiro,27,Skil - Shimano,+4:30:47,2011
+151,MAES Nikolas,25,Quickstep Cycling Team,+4:36:21,2011
+152,HOWARD Leigh,21,HTC - High Road,+4:38:26,2011
+153,KEIZER Martijn,23,Vacansoleil - DCM,+4:38:27,2011
+154,DEVOLDER Stijn,32,Vacansoleil - DCM,+4:39:00,2011
+155,BRÄNDLE Matthias,21,Geox-TMC Transformers,+4:44:09,2011
+156,CURVERS Roy,31,Skil - Shimano,+4:47:39,2011
+157,HAEDO Juan José,30,Saxo Bank - Sungard,+4:50:26,2011
+158,KLIER Andreas,35,Team Garmin - Cervélo,+4:51:15,2011
+159,GENIEZ Alexandre,23,Skil - Shimano,+4:53:16,2011
+160,CHRISTENSEN Mads,27,Saxo Bank - Sungard,+4:56:20,2011
+161,NUYENS Nick,31,Saxo Bank - Sungard,+4:58:38,2011
+162,WAGNER Robert,28,Leopard Trek,+5:00:07,2011
+163,SUTTON Chris,27,Sky Procycling,+5:00:46,2011
+164,TIMMER Albert,26,Skil - Shimano,+5:07:12,2011
+165,CABELLO Antonio,21,Andalucia - Caja Granada,+5:11:29,2011
+166,SARAMOTINS Aleksejs,29,"Cofidis, le Crédit en Ligne",+5:18:22,2011
+167,VEELERS Tom,26,Skil - Shimano,+5:24:52,2011
+1,CONTADOR Alberto,29,Team Saxo Bank - Tinkoff Bank,84:59:49,2012
+2,VALVERDE Alejandro,32,Movistar Team,+1:16,2012
+3,RODRÍGUEZ Joaquim,33,Team Katusha,+1:37,2012
+4,FROOME Chris,27,Sky Procycling,+10:16,2012
+5,MORENO Daniel,31,Team Katusha,+11:29,2012
+6,GESINK Robert,26,Rabobank Cycling Team,+12:23,2012
+7,TALANSKY Andrew,23,Garmin Sharp,+13:28,2012
+8,TEN DAM Laurens,31,Rabobank Cycling Team,+13:41,2012
+9,ANTÓN Igor,29,Euskaltel - Euskadi,+14:01,2012
+10,INTXAUSTI Beñat,26,Movistar Team,+16:13,2012
+11,VERDUGO Gorka,33,Euskaltel - Euskadi,+16:22,2012
+12,ROCHE Nicolas,28,AG2R La Mondiale,+17:50,2012
+13,MARCZYŃSKI Tomasz,28,Vacansoleil - DCM,+19:14,2012
+14,HENAO Sergio,24,Sky Procycling,+19:59,2012
+15,NIEMIEC Przemysław,32,Lampre - ISD,+20:48,2012
+16,MONFORT Maxime,29,RadioShack - Nissan,+20:50,2012
+17,DE CLERCQ Bart,26,Lotto Belisol Team,+20:56,2012
+18,NOCENTINI Rinaldo,34,AG2R La Mondiale,+22:30,2012
+19,ANACONA Winner,24,Lampre - ISD,+23:38,2012
+20,BOUET Maxime,25,AG2R La Mondiale,+26:30,2012
+21,CARDOSO André,28,Caja Rural,+31:51,2012
+22,BAKELANTS Jan,26,RadioShack - Nissan,+32:45,2012
+23,PAURIOL Rémi,30,FDJ - BigMat,+40:48,2012
+24,PAUWELS Serge,28,Omega Pharma - Quick-Step,+46:26,2012
+25,CAPECCHI Eros,26,Liquigas - Cannondale,+46:54,2012
+26,VELASCO Iván,32,Euskaltel - Euskadi,+48:42,2012
+27,GARCÍA Marcos,25,Caja Rural,+49:29,2012
+28,MOLLEMA Bauke,25,Rabobank Cycling Team,+51:44,2012
+29,URÁN Rigoberto,25,Sky Procycling,+54:40,2012
+30,TXURRUKA Amets,29,Euskaltel - Euskadi,+55:01,2012
+31,LE MÉVEL Christophe,31,Garmin Sharp,+1:00:02,2012
+32,MAJKA Rafał,22,Team Saxo Bank - Tinkoff Bank,+1:05:42,2012
+33,CUNEGO Damiano,30,Lampre - ISD,+1:06:30,2012
+34,KASHECHKIN Andrey,32,Astana Pro Team,+1:08:15,2012
+35,MORABITO Steve,29,BMC Racing Team,+1:15:37,2012
+36,QUINTANA Nairo,22,Movistar Team,+1:15:53,2012
+37,LOSADA Alberto,30,Team Katusha,+1:19:08,2012
+38,TIRALONGO Paolo,35,Astana Pro Team,+1:19:16,2012
+39,SEELDRAEYERS Kevin,25,Astana Pro Team,+1:23:34,2012
+40,MACHADO Tiago,26,RadioShack - Nissan,+1:23:38,2012
+41,DE WEERT Kevin,30,Omega Pharma - Quick-Step,+1:23:39,2012
+42,GARATE Juan Manuel,36,Rabobank Cycling Team,+1:27:15,2012
+43,HERNÁNDEZ BLÁZQUEZ Jesús,30,Team Saxo Bank - Tinkoff Bank,+1:32:30,2012
+44,SICARD Romain,24,Euskaltel - Euskadi,+1:33:05,2012
+45,BUFFAZ Mickaël,33,"Cofidis, le Crédit en Ligne",+1:34:03,2012
+46,LAGUTIN Sergey,31,Vacansoleil - DCM,+1:34:29,2012
+47,MATÉ Luis Ángel,28,"Cofidis, le Crédit en Ligne",+1:37:43,2012
+48,ASTARLOZA Mikel,32,Euskaltel - Euskadi,+1:38:48,2012
+49,SALERNO Cristiano,27,Liquigas - Cannondale,+1:39:07,2012
+50,OROZ Juan José,32,Euskaltel - Euskadi,+1:39:53,2012
+51,CATALDO Dario,27,Omega Pharma - Quick-Step,+1:44:15,2012
+52,ZEITS Andrey,25,Astana Pro Team,+1:44:21,2012
+53,BRÔCO Hernâni,31,Caja Rural,+1:46:40,2012
+54,MENCHOV Denis,34,Team Katusha,+1:47:07,2012
+55,NAVARRO Daniel,29,Team Saxo Bank - Tinkoff Bank,+1:48:44,2012
+56,KOSTYUK Denys,30,Lampre - ISD,+1:49:25,2012
+57,MEERSMAN Gianni,26,Lotto Belisol Team,+1:50:06,2012
+58,SANTAMBROGIO Mauro,27,BMC Racing Team,+1:52:10,2012
+59,GILBERT Philippe,30,BMC Racing Team,+1:53:57,2012
+60,SARMIENTO Cayetano José,25,Liquigas - Cannondale,+1:54:07,2012
+61,KESSIAKOFF Fredrik,32,Astana Pro Team,+1:55:21,2012
+62,DE GENDT Thomas,25,Vacansoleil - DCM,+1:56:19,2012
+63,BALLAN Alessandro,32,BMC Racing Team,+1:57:36,2012
+64,JEANNESSON Arnold,26,FDJ - BigMat,+1:58:26,2012
+65,DE LA FUENTE David,31,Caja Rural,+2:00:10,2012
+66,MORENO Javier,28,Movistar Team,+2:01:31,2012
+67,COBO Juan José,31,Movistar Team,+2:01:42,2012
+68,PORTE Richie,27,Sky Procycling,+2:02:39,2012
+69,LANDA Mikel,22,Euskaltel - Euskadi,+2:03:12,2012
+70,PAULINHO Sérgio Miguel,32,Team Saxo Bank - Tinkoff Bank,+2:03:38,2012
+71,GESCHKE Simon,26,Argos - Shimano,+2:06:42,2012
+72,MONTAGUTI Matteo,28,AG2R La Mondiale,+2:07:21,2012
+73,MARZANO Marco,32,Lampre - ISD,+2:07:22,2012
+74,LASTRAS Pablo,36,Movistar Team,+2:08:50,2012
+75,PÉREZ Rubén,30,Euskaltel - Euskadi,+2:10:05,2012
+76,ŠTYBAR Zdeněk,26,Omega Pharma - Quick-Step,+2:12:01,2012
+77,CLARKE Simon,26,Orica GreenEDGE,+2:12:22,2012
+78,BOOKWALTER Brent,28,BMC Racing Team,+2:14:20,2012
+79,VANSUMMEREN Johan,31,Garmin Sharp,+2:14:56,2012
+80,DUQUE Leonardo Fabio,32,"Cofidis, le Crédit en Ligne",+2:19:04,2012
+81,GASTAUER Ben,24,AG2R La Mondiale,+2:19:20,2012
+82,REYNÉS Vicente,31,Lotto Belisol Team,+2:20:23,2012
+83,FRÖHLINGER Johannes,27,Argos - Shimano,+2:23:38,2012
+84,PIEDRA Antonio,26,Caja Rural,+2:26:02,2012
+85,DE KORT Koen,30,Argos - Shimano,+2:26:59,2012
+86,DIDIER Laurent,28,RadioShack - Nissan,+2:27:07,2012
+87,SIJMENS Nico,34,"Cofidis, le Crédit en Ligne",+2:27:40,2012
+88,WEENING Pieter,31,Orica GreenEDGE,+2:27:56,2012
+89,PATERSKI Maciej,25,Liquigas - Cannondale,+2:29:16,2012
+90,GENIEZ Alexandre,24,Argos - Shimano,+2:31:20,2012
+91,VANDEWALLE Kristof,27,Omega Pharma - Quick-Step,+2:32:24,2012
+92,RAST Grégory,32,RadioShack - Nissan,+2:35:03,2012
+93,IRIZAR Markel,32,RadioShack - Nissan,+2:35:04,2012
+94,CARRASCO Sergio,27,Andalucia - Caja Granada,+2:37:24,2012
+95,VICIOSO Ángel,35,Team Katusha,+2:37:56,2012
+96,KREDER Michel,25,Garmin Sharp,+2:39:18,2012
+97,PIRES Bruno,31,Team Saxo Bank - Tinkoff Bank,+2:39:37,2012
+98,FLECHA Juan Antonio,34,Sky Procycling,+2:42:28,2012
+99,MOINARD Amaël,30,BMC Racing Team,+2:43:28,2012
+100,CLEMENT Stef,29,Rabobank Cycling Team,+2:44:02,2012
+101,GARCÍA Egoitz,26,"Cofidis, le Crédit en Ligne",+2:44:13,2012
+102,KEIZER Martijn,24,Vacansoleil - DCM,+2:46:11,2012
+103,NIERMANN Grischa,36,Rabobank Cycling Team,+2:47:48,2012
+104,MONDORY Lloyd,30,AG2R La Mondiale,+2:48:06,2012
+105,FLORENCIO Xavier,32,Team Katusha,+2:49:28,2012
+106,BRUTT Pavel,30,Team Katusha,+2:51:45,2012
+107,BOOM Lars,26,Rabobank Cycling Team,+2:53:57,2012
+108,NOVAL Benjamín,33,Team Saxo Bank - Tinkoff Bank,+2:54:01,2012
+109,MONCOUTIÉ David,37,"Cofidis, le Crédit en Ligne",+2:54:06,2012
+110,STEEGMANS Gert,31,Omega Pharma - Quick-Step,+2:54:35,2012
+111,STANNARD Ian,25,Sky Procycling,+2:55:45,2012
+112,PALOMARES Adrián,36,Andalucia - Caja Granada,+2:56:11,2012
+113,MOLARD Rudy,22,"Cofidis, le Crédit en Ligne",+2:56:45,2012
+114,CÉSAR VELOSO Gustavo,32,Andalucia - Caja Granada,+2:56:52,2012
+115,PETERSON Tom,25,Garmin Sharp,+2:57:56,2012
+116,LODEWYCK Klaas,24,BMC Racing Team,+2:58:17,2012
+117,SMUKULIS Gatis,25,Team Katusha,+2:58:30,2012
+118,RASCH Gabriel,36,FDJ - BigMat,+3:00:05,2012
+119,EIJSSEN Yannick,23,BMC Racing Team,+3:00:32,2012
+120,RAMÍREZ Javier,34,Andalucia - Caja Granada,+3:01:11,2012
+121,SWIFT Ben,24,Sky Procycling,+3:01:13,2012
+122,SILIN Egor,24,Astana Pro Team,+3:01:50,2012
+123,HANSEN Adam,31,Lotto Belisol Team,+3:03:02,2012
+124,HUPOND Thierry,27,Argos - Shimano,+3:03:24,2012
+125,KVACHUK Oleksandr,29,Lampre - ISD,+3:03:26,2012
+126,LIGTHART Pim,24,Vacansoleil - DCM,+3:06:54,2012
+127,TERPSTRA Niki,28,Omega Pharma - Quick-Step,+3:07:31,2012
+128,VIVIANI Elia,23,Liquigas - Cannondale,+3:07:54,2012
+129,BARLE Florent,26,"Cofidis, le Crédit en Ligne",+3:09:16,2012
+130,DA DALTO Mauro,31,Liquigas - Cannondale,+3:09:41,2012
+131,DEGENKOLB John,23,Argos - Shimano,+3:10:06,2012
+132,ERVITI Imanol,28,Movistar Team,+3:10:07,2012
+133,TORIBIO José Vicente,26,Andalucia - Caja Granada,+3:10:29,2012
+134,FERNÁNDEZ Koldo,30,Garmin Sharp,+3:11:05,2012
+135,TOSATTO Matteo,38,Team Saxo Bank - Tinkoff Bank,+3:11:39,2012
+136,VAUGRENARD Benoît,30,FDJ - BigMat,+3:11:42,2012
+137,DYACHENKO Alexandr,28,Astana Pro Team,+3:12:06,2012
+138,BODNAR Maciej,27,Liquigas - Cannondale,+3:12:07,2012
+139,DOI Yukihiro,28,Argos - Shimano,+3:12:22,2012
+140,DALL'ANTONIA Tiziano,29,Liquigas - Cannondale,+3:13:41,2012
+141,VIGANÒ Davide,28,Lampre - ISD,+3:17:29,2012
+142,WILLEMS Frederik,33,Lotto Belisol Team,+3:17:35,2012
+143,LINDEMAN Bert-Jan,23,Vacansoleil - DCM,+3:17:41,2012
+144,BENNATI Daniele,31,RadioShack - Nissan,+3:18:00,2012
+145,SULZBERGER Wesley,25,Orica GreenEDGE,+3:18:31,2012
+146,TEKLEHAIMANOT Daniel,23,Orica GreenEDGE,+3:18:46,2012
+147,PATE Danny,33,Sky Procycling,+3:19:33,2012
+148,CASTROVIEJO Jonathan,25,Movistar Team,+3:20:17,2012
+149,DEKKER Thomas,28,Garmin Sharp,+3:20:17,2012
+150,MAASKANT Martijn,29,Garmin Sharp,+3:21:03,2012
+151,MOL Wouter,30,Vacansoleil - DCM,+3:21:34,2012
+152,BONNET William,30,FDJ - BigMat,+3:22:45,2012
+153,ROLLIN Dominique,29,FDJ - BigMat,+3:23:10,2012
+154,COURTEILLE Arnaud,23,FDJ - BigMat,+3:24:52,2012
+155,SØRENSEN Nicki,37,Team Saxo Bank - Tinkoff Bank,+3:24:56,2012
+156,CUMMINGS Steve,31,BMC Racing Team,+3:27:18,2012
+157,RABOŇ František,28,Omega Pharma - Quick-Step,+3:28:11,2012
+158,DEAN Julian,37,Orica GreenEDGE,+3:28:32,2012
+159,BRESCHEL Matti,28,Rabobank Cycling Team,+3:34:30,2012
+160,CARDOSO Manuel Antonio Leal,29,Caja Rural,+3:38:31,2012
+161,CHACÓN Javier,27,Andalucia - Caja Granada,+3:39:34,2012
+162,RIBLON Christophe,31,AG2R La Mondiale,+3:41:50,2012
+163,CIMOLAI Davide,23,Lampre - ISD,+3:46:47,2012
+164,VAN WINDEN Dennis,24,Rabobank Cycling Team,+3:47:25,2012
+165,MEYER Travis,23,Orica GreenEDGE,+3:48:16,2012
+166,DOCKER Mitchell,25,Orica GreenEDGE,+3:51:04,2012
+167,DAVIS Allan,32,Orica GreenEDGE,+3:51:06,2012
+168,PETROV Danail Andonov,34,Caja Rural,+3:51:06,2012
+169,KADRI Blel,26,AG2R La Mondiale,+3:51:23,2012
+170,ARAMENDIA Javier,25,Caja Rural,+3:55:45,2012
+171,IGNATIEV Mikhail,27,Team Katusha,+3:55:51,2012
+172,KREDER Raymond,22,Garmin Sharp,+3:58:16,2012
+173,GALDÓS Aitor,32,Caja Rural,+4:06:47,2012
+174,LOBATO Juan José,23,Andalucia - Caja Granada,+4:19:17,2012
+175,JI Cheng,25,Argos - Shimano,+4:32:35,2012
+1,HORNER Chris,41,RadioShack - Leopard,84:36:04,2013
+2,NIBALI Vincenzo,28,Astana Pro Team,+0:37,2013
+3,VALVERDE Alejandro,33,Movistar Team,+1:36,2013
+4,RODRÍGUEZ Joaquim,34,Team Katusha,+3:22,2013
+5,ROCHE Nicolas,29,Team Saxo - Tinkoff,+7:11,2013
+6,POZZOVIVO Domenico,30,AG2R La Mondiale,+8:00,2013
+7,PINOT Thibaut,23,FDJ.fr,+8:41,2013
+8,SÁNCHEZ Samuel,35,Euskaltel - Euskadi,+9:51,2013
+9,KÖNIG Leopold,25,Team NetApp - Endura,+10:11,2013
+10,MORENO Daniel,32,Team Katusha,+13:11,2013
+11,KANGERT Tanel,26,Astana Pro Team,+14:05,2013
+12,HERRADA José,27,Movistar Team,+16:48,2013
+13,ARROYO David,33,Caja Rural - Seguros RGA,+17:34,2013
+14,NERZ Dominik,24,BMC Racing Team,+19:26,2013
+15,SCARPONI Michele,33,Lampre - Merida,+22:04,2013
+16,CARDOSO André,29,Caja Rural - Seguros RGA,+25:03,2013
+17,KIŠERLOVSKI Robert,27,RadioShack - Leopard,+25:06,2013
+18,SØRENSEN Chris Anker,29,Team Saxo - Tinkoff,+27:02,2013
+19,MAJKA Rafał,24,Team Saxo - Tinkoff,+32:52,2013
+20,ANTÓN Igor,30,Euskaltel - Euskadi,+33:05,2013
+21,BAGOT Yoann,26,"Cofidis, Solutions Crédits",+35:22,2013
+22,MENDES José,28,Team NetApp - Endura,+39:25,2013
+23,NIEVE Mikel,29,Euskaltel - Euskadi,+49:36,2013
+24,CAPECCHI Eros,27,Movistar Team,+50:23,2013
+25,TXURRUKA Amets,30,Caja Rural - Seguros RGA,+51:17,2013
+26,BRAJKOVIČ Janez,29,Astana Pro Team,+57:32,2013
+27,URÁN Rigoberto,26,Sky Procycling,+57:49,2013
+28,HENAO Sergio,25,Sky Procycling,+59:55,2013
+29,FUGLSANG Jakob,28,Astana Pro Team,+1:01:08,2013
+30,MARTÍNEZ Egoi,35,Euskaltel - Euskadi,+1:12:18,2013
+31,PAUWELS Serge,29,Omega Pharma - Quick-Step,+1:17:42,2013
+32,ULISSI Diego,24,Lampre - Merida,+1:19:34,2013
+33,ELISSONDE Kenny,22,FDJ.fr,+1:22:43,2013
+34,ROUX Anthony,26,FDJ.fr,+1:25:44,2013
+35,HUZARSKI Bartosz,32,Team NetApp - Endura,+1:26:14,2013
+36,PREIDLER Georg,23,Team Argos - Shimano,+1:28:03,2013
+37,ZAUGG Oliver,32,Team Saxo - Tinkoff,+1:33:54,2013
+38,BARGUIL Warren,21,Team Argos - Shimano,+1:36:49,2013
+39,LANDA Mikel,23,Euskaltel - Euskadi,+1:37:26,2013
+40,COPPEL Jérôme,27,"Cofidis, Solutions Crédits",+1:37:43,2013
+41,DE GREEF Francis,28,Lotto Belisol Team,+1:38:50,2013
+42,MATÉ Luis Ángel,29,"Cofidis, Solutions Crédits",+1:41:15,2013
+43,VALLS Rafael,26,Vacansoleil - DCM,+1:43:02,2013
+44,FLECHA Juan Antonio,35,Vacansoleil - DCM,+1:46:53,2013
+45,SZMYD Sylwester,35,Movistar Team,+1:48:25,2013
+46,OROZ Juan José,33,Euskaltel - Euskadi,+1:48:50,2013
+47,GENIEZ Alexandre,25,FDJ.fr,+1:51:39,2013
+48,SANTAROMITA Ivan,29,BMC Racing Team,+1:52:24,2013
+49,CARUSO Giampaolo,33,Team Katusha,+1:52:54,2013
+50,SERRY Pieter,24,Omega Pharma - Quick-Step,+1:54:14,2013
+51,TIRALONGO Paolo,36,Astana Pro Team,+1:59:16,2013
+52,MOLLEMA Bauke,26,Belkin-Pro Cycling Team,+1:59:34,2013
+53,NOCENTINI Rinaldo,35,AG2R La Mondiale,+2:03:08,2013
+54,PATERSKI Maciej,27,Cannondale Pro Cycling Team,+2:03:20,2013
+55,ZANDIO Xabier,36,Sky Procycling,+2:05:02,2013
+56,CHEREL Mikaël,27,AG2R La Mondiale,+2:05:39,2013
+57,SARMIENTO Cayetano José,26,Cannondale Pro Cycling Team,+2:07:58,2013
+58,MEERSMAN Gianni,27,Omega Pharma - Quick-Step,+2:14:16,2013
+59,FRÖHLINGER Johannes,28,Team Argos - Shimano,+2:16:56,2013
+60,HANSEN Adam,32,Lotto Belisol Team,+2:17:18,2013
+61,HERMANS Ben,27,RadioShack - Leopard,+2:18:16,2013
+62,GUSEV Vladimir,31,Team Katusha,+2:19:34,2013
+63,VERDUGO Gorka,34,Euskaltel - Euskadi,+2:20:01,2013
+64,BUSCHE Matthew,28,RadioShack - Leopard,+2:25:57,2013
+65,GASTAUER Ben,25,AG2R La Mondiale,+2:26:34,2013
+66,KOHLER Martin,28,BMC Racing Team,+2:29:16,2013
+67,CAMAÑO Iker,34,Team NetApp - Endura,+2:32:39,2013
+68,VOß Paul,27,Team NetApp - Endura,+2:32:44,2013
+69,CLARKE Simon,27,Orica GreenEDGE,+2:36:08,2013
+70,MORI Manuele,33,Lampre - Merida,+2:36:45,2013
+71,GARATE Juan Manuel,37,Belkin-Pro Cycling Team,+2:38:19,2013
+72,WYSS Danilo,28,BMC Racing Team,+2:39:35,2013
+73,KIRYIENKA Vasil,32,Sky Procycling,+2:41:03,2013
+74,CATALDO Dario,28,Sky Procycling,+2:43:18,2013
+75,GARCÍA Marcos,26,Caja Rural - Seguros RGA,+2:43:22,2013
+76,MORENO Javier,29,Movistar Team,+2:43:31,2013
+77,RAST Grégory,33,RadioShack - Leopard,+2:49:32,2013
+78,SIJMENS Nico,35,"Cofidis, Solutions Crédits",+2:51:22,2013
+79,KNEES Christian,32,Sky Procycling,+2:51:56,2013
+80,VICIOSO Ángel,36,Team Katusha,+2:52:25,2013
+81,ZEITS Andrey,26,Astana Pro Team,+2:52:37,2013
+82,MEIER Christian,28,Orica GreenEDGE,+2:53:42,2013
+83,EIJSSEN Yannick,24,BMC Racing Team,+2:55:58,2013
+84,BOASSON HAGEN Edvald,26,Sky Procycling,+2:59:04,2013
+85,POPOVYCH Yaroslav,33,RadioShack - Leopard,+3:01:08,2013
+86,IRIZAR Markel,33,RadioShack - Leopard,+3:01:23,2013
+87,INTXAUSTI Beñat,27,Movistar Team,+3:01:24,2013
+88,VANSUMMEREN Johan,32,Garmin Sharp,+3:01:57,2013
+89,LONGO BORGHINI Paolo,32,Cannondale Pro Cycling Team,+3:02:11,2013
+90,AZANZA Jorge,31,Euskaltel - Euskadi,+3:03:39,2013
+91,ZINGLE Romain,26,"Cofidis, Solutions Crédits",+3:05:03,2013
+92,KOZONTCHUK Dmitry,29,Team Katusha,+3:08:27,2013
+93,HOWES Alex,25,Garmin Sharp,+3:08:45,2013
+94,BÉRARD Julien,26,AG2R La Mondiale,+3:10:09,2013
+95,RATTO Daniele,23,Cannondale Pro Cycling Team,+3:11:50,2013
+96,BÁRTA Jan,28,Team NetApp - Endura,+3:12:43,2013
+97,BOLE Grega,28,Vacansoleil - DCM,+3:21:31,2013
+98,JANSE VAN RENSBURG Reinardt,24,Team Argos - Shimano,+3:22:28,2013
+99,WURF Cameron,30,Cannondale Pro Cycling Team,+3:22:56,2013
+100,SØRENSEN Nicki,38,Team Saxo - Tinkoff,+3:24:16,2013
+101,GRIVKO Andrey,30,Astana Pro Team,+3:26:23,2013
+102,ERVITI Imanol,29,Movistar Team,+3:27:15,2013
+103,PINEAU Cédric,28,FDJ.fr,+3:27:59,2013
+104,EDET Nicolas,25,"Cofidis, Solutions Crédits",+3:30:11,2013
+105,ANACONA Winner,25,Lampre - Merida,+3:31:07,2013
+106,TANNER David,28,Belkin-Pro Cycling Team,+3:32:48,2013
+107,PAOLINI Luca,36,Team Katusha,+3:36:53,2013
+108,VANENDERT Dennis,25,Lotto Belisol Team,+3:37:23,2013
+109,PIEDRA Antonio,27,Caja Rural - Seguros RGA,+3:37:49,2013
+110,MATTHEWS Michael,22,Orica GreenEDGE,+3:40:30,2013
+111,DALL'ANTONIA Tiziano,30,Cannondale Pro Cycling Team,+3:46:01,2013
+112,FAIRLY Caleb,26,Garmin Sharp,+3:47:47,2013
+113,VANOTTI Alessandro,32,Astana Pro Team,+3:54:57,2013
+114,MONDORY Lloyd,31,AG2R La Mondiale,+3:57:27,2013
+115,TOSATTO Matteo,39,Team Saxo - Tinkoff,+3:58:50,2013
+116,PETERSON Tom,26,Team Argos - Shimano,+4:00:15,2013
+117,PETROV Evgeni,35,Team Saxo - Tinkoff,+4:03:53,2013
+118,ARAMENDIA Javier,26,Caja Rural - Seguros RGA,+4:04:39,2013
+119,GUTIÉRREZ José Iván,34,Movistar Team,+4:04:54,2013
+120,LODEWYCK Klaas,25,BMC Racing Team,+4:05:49,2013
+121,FERRARI Fabricio,28,Caja Rural - Seguros RGA,+4:05:50,2013
+122,URTASUN Pablo,33,Euskaltel - Euskadi,+4:08:50,2013
+123,WAGNER Robert,30,Belkin-Pro Cycling Team,+4:10:49,2013
+124,FARRAR Tyler,29,Garmin Sharp,+4:12:26,2013
+125,VAN KEIRSBULCK Guillaume,22,Omega Pharma - Quick-Step,+4:14:05,2013
+126,BETANCUR Carlos,23,AG2R La Mondiale,+4:14:27,2013
+127,VAN DER SANDE Tosh,22,Lotto Belisol Team,+4:15:12,2013
+128,MØRKØV Michael,28,Team Saxo - Tinkoff,+4:16:29,2013
+129,DODI Luca,26,Lampre - Merida,+4:16:31,2013
+130,PETIT Adrien,22,"Cofidis, Solutions Crédits",+4:19:20,2013
+131,ISAYCHEV Vladimir,27,Team Katusha,+4:19:31,2013
+132,COURTEILLE Arnaud,24,FDJ.fr,+4:20:39,2013
+133,DEMPSTER Zak,25,Team NetApp - Endura,+4:21:54,2013
+134,RASMUSSEN Alex,29,Garmin Sharp,+4:23:03,2013
+135,DOCKER Mitchell,26,Orica GreenEDGE,+4:23:34,2013
+136,ARNDT Nikias,21,Team Argos - Shimano,+4:24:05,2013
+137,STAMSNIJDER Tom,28,Team Argos - Shimano,+4:27:07,2013
+138,POULHIÈS Stéphane,28,"Cofidis, Solutions Crédits",+4:27:23,2013
+139,HAEDO Lucas Sebastián,30,Cannondale Pro Cycling Team,+4:28:21,2013
+140,LASCA Francesco,25,Caja Rural - Seguros RGA,+4:28:38,2013
+141,RICHEZE Maximiliano,30,Lampre - Merida,+4:30:58,2013
+142,HOWARD Leigh,23,Orica GreenEDGE,+4:47:03,2013
+143,BONO Matteo,29,Lampre - Merida,+4:48:47,2013
+144,GRAZIATO Massimo,24,Lampre - Merida,+4:49:30,2013
+1,CONTADOR Alberto,31,Tinkoff - Saxo,81:25:05,2014
+2,FROOME Chris,29,Team Sky,+1:10,2014
+3,VALVERDE Alejandro,34,Movistar Team,+1:50,2014
+4,RODRÍGUEZ Joaquim,35,Team Katusha,+3:25,2014
+5,ARU Fabio,24,Astana Pro Team,+4:48,2014
+6,SÁNCHEZ Samuel,36,BMC Racing Team,+9:30,2014
+7,MARTIN Dan,28,Garmin Sharp,+10:38,2014
+8,BARGUIL Warren,22,Team Giant - Shimano,+11:50,2014
+9,CARUSO Damiano,26,Cannondale,+12:50,2014
+10,NAVARRO Daniel,31,"Cofidis, Solutions Crédits",+13:02,2014
+11,MORENO Daniel,33,Team Katusha,+16:44,2014
+12,NIEVE Mikel,30,Team Sky,+19:54,2014
+13,SICARD Romain,26,Team Europcar,+24:20,2014
+14,KELDERMAN Wilco,23,Belkin-Pro Cycling Team,+25:04,2014
+15,CARUSO Giampaolo,34,Team Katusha,+25:27,2014
+16,MONFORT Maxime,31,Lotto Belisol,+29:52,2014
+17,PARDILLA Sergio,30,MTN - Qhubeka,+32:00,2014
+18,NERZ Dominik,25,BMC Racing Team,+37:25,2014
+19,MATÉ Luis Ángel,30,"Cofidis, Solutions Crédits",+42:04,2014
+20,ARROYO David,34,Caja Rural - Seguros RGA,+52:51,2014
+21,HERNÁNDEZ BLÁZQUEZ Jesús,32,Tinkoff - Saxo,+55:06,2014
+22,LE MÉVEL Christophe,34,"Cofidis, Solutions Crédits",+55:53,2014
+23,ZAUGG Oliver,33,Tinkoff - Saxo,+57:28,2014
+24,HESJEDAL Ryder,33,Garmin Sharp,+1:05:25,2014
+25,CARDOSO André,30,Garmin Sharp,+1:07:37,2014
+26,NIEMIEC Przemysław,34,Lampre - Merida,+1:11:31,2014
+27,ANACONA Winner,26,Lampre - Merida,+1:11:34,2014
+28,LANDA Mikel,24,Astana Pro Team,+1:11:52,2014
+29,SØRENSEN Chris Anker,30,Tinkoff - Saxo,+1:23:47,2014
+30,AMADOR Andrey,28,Movistar Team,+1:30:29,2014
+31,COPPEL Jérôme,28,"Cofidis, Solutions Crédits",+1:34:08,2014
+32,HERRADA José,28,Movistar Team,+1:37:22,2014
+33,TIRALONGO Paolo,37,Astana Pro Team,+1:37:47,2014
+34,DE CLERCQ Bart,28,Lotto Belisol,+1:41:09,2014
+35,MÉDEREL Maxime,33,Team Europcar,+1:41:12,2014
+36,WYSS Danilo,29,BMC Racing Team,+1:43:06,2014
+37,IZAGIRRE Gorka,26,Movistar Team,+1:43:48,2014
+38,POELS Wout,26,Omega Pharma - Quick-Step,+1:46:07,2014
+39,DEIGNAN Philip,31,Team Sky,+1:48:53,2014
+40,KOLOBNEV Alexandr,33,Team Katusha,+1:50:51,2014
+41,CHAVES Esteban,24,Orica GreenEDGE,+1:51:41,2014
+42,LOSADA Alberto,32,Team Katusha,+1:54:20,2014
+43,SIUTSOU Kanstantsin,32,Team Sky,+1:57:37,2014
+44,TEN DAM Laurens,33,Belkin-Pro Cycling Team,+1:58:47,2014
+45,GILBERT Philippe,32,BMC Racing Team,+1:59:36,2014
+46,VORGANOV Eduard,31,Team Katusha,+2:00:04,2014
+47,TEKLEHAIMANOT Daniel,25,MTN - Qhubeka,+2:01:38,2014
+48,TXURRUKA Amets,31,Caja Rural - Seguros RGA,+2:04:13,2014
+49,LEVARLET Guillaume,29,"Cofidis, Solutions Crédits",+2:06:36,2014
+50,ZEITS Andrey,27,Astana Pro Team,+2:07:00,2014
+51,TALANSKY Andrew,25,Garmin Sharp,+2:13:46,2014
+52,EVANS Cadel,37,BMC Racing Team,+2:15:24,2014
+53,HANSEN Adam,33,Lotto Belisol,+2:15:25,2014
+54,DUPONT Hubert,33,AG2R La Mondiale,+2:18:33,2014
+55,MEINTJES Louis,22,MTN - Qhubeka,+2:19:15,2014
+56,SÁNCHEZ Luis León,30,Caja Rural - Seguros RGA,+2:21:17,2014
+57,PAULINHO Sérgio Miguel,34,Tinkoff - Saxo,+2:21:35,2014
+58,MARTENS Paul,30,Belkin-Pro Cycling Team,+2:24:50,2014
+59,JANSE VAN RENSBURG Jacques,27,MTN - Qhubeka,+2:29:38,2014
+60,BILBAO Pello,24,Caja Rural - Seguros RGA,+2:30:42,2014
+61,REYNÉS Vicente,33,IAM Cycling,+2:38:15,2014
+62,LUDVIGSSON Tobias,23,Team Giant - Shimano,+2:39:09,2014
+63,ERVITI Imanol,30,Movistar Team,+2:40:02,2014
+64,HARDY Romain,26,"Cofidis, Solutions Crédits",+2:41:27,2014
+65,CASTROVIEJO Jonathan,27,Movistar Team,+2:43:30,2014
+66,VERONA Carlos,21,Omega Pharma - Quick-Step,+2:46:03,2014
+67,DE MARCHI Alessandro,28,Cannondale,+2:46:04,2014
+68,QUINZIATO Manuel,34,BMC Racing Team,+2:47:07,2014
+69,CLEMENT Stef,31,Belkin-Pro Cycling Team,+2:50:12,2014
+70,CLARKE Simon,28,Orica GreenEDGE,+2:50:34,2014
+71,KENNAUGH Peter,25,Team Sky,+2:53:30,2014
+72,TROFIMOV Yuri,30,Team Katusha,+2:56:26,2014
+73,HAGA Chad,26,Team Giant - Shimano,+3:00:24,2014
+74,WARBASSE Larry,24,BMC Racing Team,+3:00:48,2014
+75,MATTHEWS Michael,23,Orica GreenEDGE,+3:02:43,2014
+76,CUNEGO Damiano,32,Lampre - Merida,+3:04:25,2014
+77,PINEAU Cédric,29,FDJ.fr,+3:07:43,2014
+78,COUSIN Jérôme,25,Team Europcar,+3:08:26,2014
+79,LE BON Johan,23,FDJ.fr,+3:08:57,2014
+80,KEIZER Martijn,26,Belkin-Pro Cycling Team,+3:09:09,2014
+81,MARTINEZ Yannick,26,Team Europcar,+3:09:21,2014
+82,YATES Adam,22,Orica GreenEDGE,+3:11:27,2014
+83,ZINGLE Romain,27,"Cofidis, Solutions Crédits",+3:11:48,2014
+84,DENNIS Rohan,24,BMC Racing Team,+3:12:44,2014
+85,BROWN Nathan,23,Garmin Sharp,+3:14:12,2014
+86,FERNÁNDEZ Koldo,33,Garmin Sharp,+3:15:57,2014
+87,VANDEWALLE Kristof,29,Trek Factory Racing,+3:17:15,2014
+88,STUYVEN Jasper,22,Trek Factory Racing,+3:17:16,2014
+89,BENNETT George,24,Cannondale,+3:17:54,2014
+90,MORENO Javier,30,Movistar Team,+3:22:38,2014
+91,JÉRÔME Vincent,29,Team Europcar,+3:23:00,2014
+92,KUDUS Merhawi,20,MTN - Qhubeka,+3:23:14,2014
+93,SERPA José Rodolfo,35,Lampre - Merida,+3:27:25,2014
+94,SOUPE Geoffrey,26,FDJ.fr,+3:28:48,2014
+95,KOZONTCHUK Dmitry,30,Team Katusha,+3:28:49,2014
+96,NOCENTINI Rinaldo,36,AG2R La Mondiale,+3:32:16,2014
+97,FRÖHLINGER Johannes,29,Team Giant - Shimano,+3:32:39,2014
+98,ARAMENDIA Javier,27,Caja Rural - Seguros RGA,+3:33:12,2014
+99,PIEDRA Antonio,28,Caja Rural - Seguros RGA,+3:33:54,2014
+100,LUTSENKO Alexey,22,Astana Pro Team,+3:35:42,2014
+101,LONGO BORGHINI Paolo,33,Cannondale,+3:38:05,2014
+102,ARNDT Nikias,22,Team Giant - Shimano,+3:38:13,2014
+103,ARMÉE Sander,28,Lotto Belisol,+3:38:51,2014
+104,SBARAGLI Kristian,24,MTN - Qhubeka,+3:39:25,2014
+105,FELLINE Fabio,24,Trek Factory Racing,+3:39:25,2014
+106,HINAULT Sébastien,40,IAM Cycling,+3:39:43,2014
+107,DEBUSSCHERE Jens,25,Lotto Belisol,+3:40:58,2014
+108,BENNATI Daniele,33,Tinkoff - Saxo,+3:46:15,2014
+109,FAVILLI Elia,25,Lampre - Merida,+3:46:51,2014
+110,KIRYIENKA Vasil,33,Team Sky,+3:47:48,2014
+111,MAES Nikolas,28,Omega Pharma - Quick-Step,+3:48:00,2014
+112,CONTI Valerio,21,Lampre - Merida,+3:48:01,2014
+113,CHERNETSKI Sergei,24,Team Katusha,+3:50:42,2014
+114,MALORI Adriano,26,Movistar Team,+3:50:52,2014
+115,POPOVYCH Yaroslav,34,Trek Factory Racing,+3:51:34,2014
+116,DEGENKOLB John,25,Team Giant - Shimano,+3:51:37,2014
+117,AREGGER Marcel,24,IAM Cycling,+3:51:48,2014
+118,VANSUMMEREN Johan,33,Garmin Sharp,+3:52:21,2014
+119,BAGOT Yoann,27,"Cofidis, Solutions Crédits",+3:54:14,2014
+120,TOSATTO Matteo,40,Tinkoff - Saxo,+3:55:01,2014
+121,MAS Lluís,24,Caja Rural - Seguros RGA,+3:57:07,2014
+122,BODNAR Maciej,29,Cannondale,+4:00:23,2014
+123,VENTER Jaco,27,MTN - Qhubeka,+4:01:04,2014
+124,DOMAGALSKI Karol,25,Caja Rural - Seguros RGA,+4:03:11,2014
+125,KRIZEK Matthias,25,Cannondale,+4:03:19,2014
+126,GRETSCH Patrick,27,AG2R La Mondiale,+4:04:32,2014
+127,LIGTHART Pim,26,Lotto Belisol,+4:08:30,2014
+128,VALGREN Michael,22,Tinkoff - Saxo,+4:09:18,2014
+129,BREEN Vegard,24,Lotto Belisol,+4:11:54,2014
+130,VELITS Martin,29,Omega Pharma - Quick-Step,+4:15:08,2014
+131,SERGENT Jesse,26,Trek Factory Racing,+4:15:10,2014
+132,GAUDIN Damien,28,AG2R La Mondiale,+4:16:59,2014
+133,HENDERSON Gregory,38,Lotto Belisol,+4:18:33,2014
+134,HUTAROVICH Yauheni,30,AG2R La Mondiale,+4:19:04,2014
+135,BEWLEY Sam,27,Orica GreenEDGE,+4:19:58,2014
+136,SINKELDAM Ramon,25,Team Giant - Shimano,+4:20:05,2014
+137,TJALLINGII Maarten,36,Belkin-Pro Cycling Team,+4:23:51,2014
+138,RICHEZE Maximiliano,31,Lampre - Merida,+4:24:33,2014
+139,CIOLEK Gerald,27,MTN - Qhubeka,+4:26:37,2014
+140,CRAVEN Dan,31,Team Europcar,+4:27:05,2014
+141,ROWE Luke,24,Team Sky,+4:27:51,2014
+142,FUMEAUX Jonathan,26,IAM Cycling,+4:28:55,2014
+143,HAAS Nathan,25,Garmin Sharp,+4:29:11,2014
+144,MILLAR David,37,Garmin Sharp,+4:33:28,2014
+145,FERRARI Roberto,31,Lampre - Merida,+4:35:14,2014
+146,LANG Pirmin,29,IAM Cycling,+4:36:02,2014
+147,DOCKER Mitchell,27,Orica GreenEDGE,+4:37:10,2014
+148,BERHANE Natnael,23,Team Europcar,+4:39:01,2014
+149,BOIVIN Guillaume,25,Cannondale,+4:41:16,2014
+150,GUARNIERI Jacopo,27,Astana Pro Team,+4:44:59,2014
+151,WAGNER Robert,31,Belkin-Pro Cycling Team,+4:47:08,2014
+152,JÕEÄÄR Gert,27,"Cofidis, Solutions Crédits",+4:47:19,2014
+153,MANGEL Laurent,33,FDJ.fr,+4:49:48,2014
+154,TURGOT Sébastien,30,AG2R La Mondiale,+4:51:45,2014
+155,THOMSON Jay Robert,28,MTN - Qhubeka,+4:51:54,2014
+156,LASCA Francesco,26,Caja Rural - Seguros RGA,+4:53:04,2014
+157,ENGOULVENT Jimmy,34,Team Europcar,+5:01:15,2014
+158,BETANCUR Carlos,24,AG2R La Mondiale,+5:13:39,2014
+159,GUARDINI Andrea,25,Astana Pro Team,+5:22:23,2014
+1,ARU Fabio,25,Astana Pro Team,85:36:13,2015
+2,RODRÍGUEZ Joaquim,36,Team Katusha,+0:57,2015
+3,MAJKA Rafał,26,Tinkoff - Saxo,+1:09,2015
+4,QUINTANA Nairo,25,Movistar Team,+1:42,2015
+5,CHAVES Esteban,25,Orica GreenEDGE,+3:10,2015
+6,DUMOULIN Tom,24,Team Giant - Alpecin,+3:46,2015
+7,VALVERDE Alejandro,35,Movistar Team,+6:47,2015
+8,NIEVE Mikel,31,Team Sky,+7:06,2015
+9,MORENO Daniel,34,Team Katusha,+7:12,2015
+10,MEINTJES Louis,23,MTN - Qhubeka,+10:26,2015
+11,POZZOVIVO Domenico,32,AG2R La Mondiale,+11:10,2015
+12,ARROYO David,35,Caja Rural - Seguros RGA,+13:29,2015
+13,BRAMBILLA Gianluca,28,Etixx - Quick Step,+15:26,2015
+14,DE CLERCQ Bart,29,Lotto Soudal,+16:34,2015
+15,SICARD Romain,27,Team Europcar,+16:46,2015
+16,ELISSONDE Kenny,24,FDJ,+17:07,2015
+17,JEANDESBOZ Fabrice,30,Team Europcar,+17:10,2015
+18,CARDOSO André,31,Team Cannondale - Garmin,+23:31,2015
+19,VISCONTI Giovanni,32,Movistar Team,+36:19,2015
+20,ROSA Diego,26,Astana Pro Team,+43:27,2015
+21,OLIVEIRA Nelson,26,Lampre - Merida,+44:24,2015
+22,HENAO Sergio,27,Team Sky,+44:30,2015
+23,ZUBELDIA Haimar,38,Trek Factory Racing,+45:19,2015
+24,SCHLECK Fränk,35,Trek Factory Racing,+48:48,2015
+25,LANDA Mikel,25,Astana Pro Team,+51:30,2015
+26,ROCHE Nicolas,31,Team Sky,+53:38,2015
+27,MONFORT Maxime,32,Lotto Soudal,+54:37,2015
+28,BOUET Maxime,28,Etixx - Quick Step,+1:00:14,2015
+29,VERONA Carlos,22,Etixx - Quick Step,+1:02:49,2015
+30,NAVARRO Daniel,32,"Cofidis, Solutions Crédits",+1:06:08,2015
+31,LOSADA Alberto,33,Team Katusha,+1:06:47,2015
+32,TORRES Rodolfo Andrés,28,Team Colombia,+1:12:17,2015
+33,SÁNCHEZ Luis León,31,Astana Pro Team,+1:15:05,2015
+34,GONÇALVES José,26,Caja Rural - Seguros RGA,+1:15:39,2015
+35,POLJAŃSKI Paweł,25,Tinkoff - Saxo,+1:16:20,2015
+36,MACHADO Tiago,29,Team Katusha,+1:25:37,2015
+37,BENNETT George,25,Team LottoNL-Jumbo,+1:26:33,2015
+38,WARBASSE Larry,25,IAM Cycling,+1:31:24,2015
+39,VORGANOV Eduard,32,Team Katusha,+1:32:57,2015
+40,AMADOR Andrey,29,Movistar Team,+1:37:46,2015
+41,MONTAGUTI Matteo,31,AG2R La Mondiale,+1:47:20,2015
+42,CRADDOCK Lawson,23,Team Giant - Alpecin,+1:48:55,2015
+43,ROJAS José Joaquín,30,Movistar Team,+1:52:12,2015
+44,MADRAZO Ángel,27,Caja Rural - Seguros RGA,+1:52:44,2015
+45,PLAZA Rubén,35,Lampre - Merida,+1:53:41,2015
+46,DOMBROWSKI Joe,24,Team Cannondale - Garmin,+1:53:47,2015
+47,CHAVANEL Sylvain,36,IAM Cycling,+1:55:16,2015
+48,VILELA Ricardo,27,Caja Rural - Seguros RGA,+1:55:18,2015
+49,VAN DER SANDE Tosh,24,Lotto Soudal,+1:57:42,2015
+50,ROLLAND Pierre,28,Team Europcar,+1:59:10,2015
+51,CHEREL Mikaël,29,AG2R La Mondiale,+1:59:28,2015
+52,HANSEN Jesper,24,Tinkoff - Saxo,+2:01:46,2015
+53,CANO Alex,32,Team Colombia,+2:03:58,2015
+54,ZOIDL Riccardo,27,Trek Factory Racing,+2:09:40,2015
+55,HANSEN Adam,34,Lotto Soudal,+2:11:06,2015
+56,ATAPUMA Darwin,27,BMC Racing Team,+2:12:42,2015
+57,CATALDO Dario,30,Astana Pro Team,+2:18:30,2015
+58,GAUTIER Cyril,27,Team Europcar,+2:18:40,2015
+59,MOINARD Amaël,33,BMC Racing Team,+2:18:51,2015
+60,DUQUE Leonardo Fabio,35,Team Colombia,+2:19:38,2015
+61,LEMOINE Cyril,32,"Cofidis, Solutions Crédits",+2:21:39,2015
+62,SERRY Pieter,26,Etixx - Quick Step,+2:26:30,2015
+63,ĐURASEK Kristijan,28,Lampre - Merida,+2:29:10,2015
+64,DE KORT Koen,33,Team Giant - Alpecin,+2:29:29,2015
+65,ARASHIRO Yukiya,30,Team Europcar,+2:30:07,2015
+66,MCCARTHY Jay,23,Tinkoff - Saxo,+2:31:13,2015
+67,DUARTE Fabio,29,Team Colombia,+2:31:14,2015
+68,ZEITS Andrey,28,Astana Pro Team,+2:32:07,2015
+69,THOMAS Geraint,29,Team Sky,+2:32:24,2015
+70,RUBIANO Miguel Angel,30,Team Colombia,+2:36:54,2015
+71,BOSWELL Ian,24,Team Sky,+2:36:59,2015
+72,MOSER Moreno,24,Team Cannondale - Garmin,+2:37:11,2015
+73,COUSIN Jérôme,26,Team Europcar,+2:38:40,2015
+74,SIMON Julien,29,"Cofidis, Solutions Crédits",+2:39:01,2015
+75,KING Ben,26,Team Cannondale - Garmin,+2:39:09,2015
+76,KOCHETKOV Pavel,29,Team Katusha,+2:39:39,2015
+77,PUCCIO Salvatore,26,Team Sky,+2:41:05,2015
+78,DE MARCHI Alessandro,29,BMC Racing Team,+2:41:16,2015
+79,BERHANE Natnael,24,MTN - Qhubeka,+2:41:24,2015
+80,MORENO Javier,31,Movistar Team,+2:43:31,2015
+81,VENTOSO Francisco José,33,Movistar Team,+2:44:45,2015
+82,VANENDERT Jelle,30,Lotto Soudal,+2:45:39,2015
+83,KIRYIENKA Vasil,34,Team Sky,+2:49:18,2015
+84,IMPEY Daryl,30,Orica GreenEDGE,+2:50:57,2015
+85,NOCENTINI Rinaldo,37,AG2R La Mondiale,+2:51:47,2015
+86,REYNÉS Vicente,34,IAM Cycling,+2:53:34,2015
+87,VALENCIA Juan Pablo,27,Team Colombia,+2:56:07,2015
+88,FRAILE Omar,25,Caja Rural - Seguros RGA,+2:57:47,2015
+89,IRIZAR Markel,35,Trek Factory Racing,+2:59:18,2015
+90,DEGENKOLB John,26,Team Giant - Alpecin,+2:59:49,2015
+91,KNEES Christian,34,Team Sky,+3:00:10,2015
+92,QUINTERO Carlos,29,Team Colombia,+3:02:35,2015
+93,KEUKELEIRE Jens,26,Orica GreenEDGE,+3:03:40,2015
+94,VILLELLA Davide,24,Team Cannondale - Garmin,+3:04:39,2015
+95,ROOSEN Timo,22,Team LottoNL-Jumbo,+3:08:44,2015
+96,MINARD Sébastien,33,AG2R La Mondiale,+3:09:11,2015
+97,BILBAO Pello,25,Caja Rural - Seguros RGA,+3:09:51,2015
+98,BAGOT Yoann,28,"Cofidis, Solutions Crédits",+3:12:17,2015
+99,LINDEMAN Bert-Jan,26,Team LottoNL-Jumbo,+3:13:18,2015
+100,ERVITI Imanol,31,Movistar Team,+3:13:43,2015
+101,BRUTT Pavel,33,Tinkoff - Saxo,+3:14:23,2015
+102,CUMMINGS Steve,34,MTN - Qhubeka,+3:17:32,2015
+103,VICIOSO Ángel,38,Team Katusha,+3:18:33,2015
+104,TEUNISSEN Mike,23,Team LottoNL-Jumbo,+3:19:28,2015
+105,SBARAGLI Kristian,25,MTN - Qhubeka,+3:19:55,2015
+106,AREGGER Marcel,25,IAM Cycling,+3:23:32,2015
+107,MAES Nikolas,29,Etixx - Quick Step,+3:25:03,2015
+108,MEZGEC Luka,27,Team Giant - Alpecin,+3:27:22,2015
+109,DELAGE Mickaël,30,FDJ,+3:28:04,2015
+110,VAN ASBROECK Tom,25,Team LottoNL-Jumbo,+3:28:33,2015
+111,PICHON Laurent,29,FDJ,+3:30:07,2015
+112,GOUGEARD Alexis,22,AG2R La Mondiale,+3:30:45,2015
+113,REZA Kévin,27,FDJ,+3:31:50,2015
+114,GERRANS Simon,35,Orica GreenEDGE,+3:31:54,2015
+115,VAN WINDEN Dennis,27,Team LottoNL-Jumbo,+3:33:46,2015
+116,ROLLIN Dominique,32,"Cofidis, Solutions Crédits",+3:35:35,2015
+117,VELITS Martin,30,Etixx - Quick Step,+3:37:35,2015
+118,DRUCKER Jempy,29,BMC Racing Team,+3:37:37,2015
+119,PELLAUD Simon,22,IAM Cycling,+3:38:39,2015
+120,LE GAC Olivier,22,FDJ,+3:38:53,2015
+121,VANSUMMEREN Johan,34,AG2R La Mondiale,+3:39:07,2015
+122,VENTER Jaco,28,MTN - Qhubeka,+3:41:39,2015
+123,THOMSON Jay Robert,29,MTN - Qhubeka,+3:43:05,2015
+124,ROSSKOPF Joey,26,BMC Racing Team,+3:43:08,2015
+125,GRMAY Tsgabu,24,Lampre - Merida,+3:43:26,2015
+126,DE BUYST Jasper,21,Lotto Soudal,+3:44:12,2015
+127,RAMIREZ Brayan Steven,22,Team Colombia,+3:44:21,2015
+128,VAN ZYL Johann,24,MTN - Qhubeka,+3:44:36,2015
+129,HOWES Alex,27,Team Cannondale - Garmin,+3:44:42,2015
+130,HAYMAN Mathew,37,Orica GreenEDGE,+3:45:38,2015
+131,BENNATI Daniele,34,Tinkoff - Saxo,+3:48:58,2015
+132,POPOVYCH Yaroslav,35,Trek Factory Racing,+3:49:11,2015
+133,ENGOULVENT Jimmy,35,Team Europcar,+3:51:04,2015
+134,REGUIGUI Youcef,25,MTN - Qhubeka,+3:51:24,2015
+135,VANOTTI Alessandro,34,Astana Pro Team,+3:53:40,2015
+136,PEDRAZA Wálter Fernando,33,Team Colombia,+3:55:04,2015
+137,JIM Songezo,24,MTN - Qhubeka,+3:56:25,2015
+138,DUCHESNE Antoine,24,Team Europcar,+3:57:37,2015
+139,SUTHERLAND Rory,33,Movistar Team,+3:59:04,2015
+140,BODNAR Maciej,30,Tinkoff - Saxo,+3:59:47,2015
+141,VAN POPPEL Danny,22,Trek Factory Racing,+3:59:51,2015
+142,HUPOND Thierry,30,Team Giant - Alpecin,+3:59:53,2015
+143,FRÖHLINGER Johannes,30,Team Giant - Alpecin,+4:00:25,2015
+144,KOSHEVOY Ilia,24,Lampre - Merida,+4:00:30,2015
+145,HUREL Tony,27,Team Europcar,+4:00:53,2015
+146,SMUKULIS Gatis,28,Team Katusha,+4:01:51,2015
+147,HOWSON Damien,23,Orica GreenEDGE,+4:05:19,2015
+148,KEISSE Iljo,32,Etixx - Quick Step,+4:07:06,2015
+149,BARBERO Carlos,24,Caja Rural - Seguros RGA,+4:07:22,2015
+150,KADRI Blel,29,AG2R La Mondiale,+4:10:04,2015
+151,CONTI Valerio,22,Lampre - Merida,+4:11:24,2015
+152,RICHEZE Maximiliano,32,Lampre - Merida,+4:13:33,2015
+153,KEIZER Martijn,27,Team LottoNL-Jumbo,+4:14:01,2015
+154,BAGDONAS Gediminas,29,AG2R La Mondiale,+4:16:22,2015
+155,STAMSNIJDER Tom,30,Team Giant - Alpecin,+4:17:57,2015
+156,FISCHER Murilo Antonio,36,FDJ,+4:21:19,2015
+157,WAEYTENS Zico,23,Team Giant - Alpecin,+4:37:10,2015
+158,VAN POPPEL Boy,27,Trek Factory Racing,+4:57:31,2015
+1,QUINTANA Nairo,26,Movistar Team,83:31:28,2016
+2,FROOME Chris,31,Team Sky,+1:23,2016
+3,CHAVES Esteban,26,ORICA-BikeExchange,+4:08,2016
+4,CONTADOR Alberto,33,Tinkoff,+4:21,2016
+5,TALANSKY Andrew,27,Cannondale-Drapac Pro Cycling Team,+7:43,2016
+6,YATES Simon,24,ORICA-BikeExchange,+8:33,2016
+7,DE LA CRUZ David,27,Etixx - Quick Step,+11:18,2016
+8,MORENO Daniel,35,Movistar Team,+13:04,2016
+9,FORMOLO Davide,23,Cannondale-Drapac Pro Cycling Team,+13:17,2016
+10,BENNETT George,26,Team LottoNL-Jumbo,+14:07,2016
+11,SCARPONI Michele,36,Astana Pro Team,+15:33,2016
+12,VALVERDE Alejandro,36,Movistar Team,+15:57,2016
+13,PERAUD Jean-Christophe,39,AG2R La Mondiale,+18:22,2016
+14,HERMANS Ben,30,BMC Racing Team,+19:10,2016
+15,SILIN Egor,28,Team Katusha,+22:05,2016
+16,MONFORT Maxime,33,Lotto Soudal,+29:37,2016
+17,BAKELANTS Jan,30,AG2R La Mondiale,+36:30,2016
+18,PARDILLA Sergio,32,Caja Rural - Seguros RGA,+38:38,2016
+19,ZUBELDIA Haimar,39,Trek - Segafredo,+40:29,2016
+20,ELISSONDE Kenny,25,FDJ,+42:26,2016
+21,WYSS Marcel,30,IAM Cycling,+44:27,2016
+22,MATÉ Luis Ángel,32,"Cofidis, Solutions Crédits",+57:11,2016
+23,BRAMBILLA Gianluca,29,Etixx - Quick Step,+58:02,2016
+24,MAMYKIN Matvey,21,Team Katusha,+1:00:10,2016
+25,FELLINE Fabio,26,Trek - Segafredo,+1:02:14,2016
+26,SÁNCHEZ Luis León,32,Astana Pro Team,+1:03:25,2016
+27,HARDY Romain,28,"Cofidis, Solutions Crédits",+1:03:36,2016
+28,LATOUR Pierre,22,AG2R La Mondiale,+1:06:12,2016
+29,KÖNIG Leopold,28,Team Sky,+1:06:37,2016
+30,MOLARD Rudy,26,"Cofidis, Solutions Crédits",+1:10:56,2016
+31,ZEITS Andrey,29,Astana Pro Team,+1:17:52,2016
+32,ATAPUMA Darwin,28,BMC Racing Team,+1:21:53,2016
+33,FERNÁNDEZ Rubén,25,Movistar Team,+1:23:10,2016
+34,GESINK Robert,30,Team LottoNL-Jumbo,+1:32:23,2016
+35,TROFIMOV Yuri,32,Tinkoff,+1:32:26,2016
+36,CASTROVIEJO Jonathan,29,Movistar Team,+1:33:19,2016
+37,FRANK Mathias,29,IAM Cycling,+1:34:11,2016
+38,KUDUS Merhawi,22,Team Dimension Data,+1:36:38,2016
+39,KOCHETKOV Pavel,30,Team Katusha,+1:38:27,2016
+40,MEINTJES Louis,24,Lampre - Merida,+1:39:52,2016
+41,CHEVRIER Clément,24,IAM Cycling,+1:42:12,2016
+42,KENNAUGH Peter,27,Team Sky,+1:42:48,2016
+43,HERNÁNDEZ BLÁZQUEZ Jesús,34,Tinkoff,+1:46:35,2016
+44,WYSS Danilo,31,BMC Racing Team,+1:47:15,2016
+45,HOWSON Damien,24,ORICA-BikeExchange,+1:50:00,2016
+46,KING Ben,27,Cannondale-Drapac Pro Cycling Team,+1:50:34,2016
+47,BOUET Maxime,29,Etixx - Quick Step,+1:51:05,2016
+48,DOMONT Axel,26,AG2R La Mondiale,+1:51:11,2016
+49,WARBASSE Larry,26,IAM Cycling,+1:55:15,2016
+50,ROLLAND Pierre,29,Cannondale-Drapac Pro Cycling Team,+2:00:07,2016
+51,CATALDO Dario,31,Astana Pro Team,+2:00:20,2016
+52,LUDVIGSSON Tobias,25,Team Giant - Alpecin,+2:04:20,2016
+53,DE CLERCQ Bart,30,Lotto Soudal,+2:04:34,2016
+54,MENDES José,31,Bora - Argon 18,+2:05:38,2016
+55,SICARD Romain,28,Direct Energie,+2:07:24,2016
+56,VILLELLA Davide,25,Cannondale-Drapac Pro Cycling Team,+2:15:41,2016
+57,BERNARD Julien,24,Trek - Segafredo,+2:20:54,2016
+58,ZOIDL Riccardo,28,Trek - Segafredo,+2:27:28,2016
+59,LOSADA Alberto,34,Team Katusha,+2:27:31,2016
+60,LÓPEZ David,35,Team Sky,+2:28:08,2016
+61,ROSSETTO Stéphane,29,"Cofidis, Solutions Crédits",+2:30:21,2016
+62,GRMAY Tsgabu,25,Lampre - Merida,+2:32:40,2016
+63,ŠTYBAR Zdeněk,30,Etixx - Quick Step,+2:34:57,2016
+64,KEUKELEIRE Jens,27,ORICA-BikeExchange,+2:36:31,2016
+65,DE GENDT Thomas,29,Lotto Soudal,+2:36:55,2016
+66,CONTI Valerio,23,Lampre - Merida,+2:38:36,2016
+67,ĐURASEK Kristijan,29,Lampre - Merida,+2:42:12,2016
+68,GOGL Michael,22,Tinkoff,+2:46:17,2016
+69,FRAILE Omar,26,Team Dimension Data,+2:50:33,2016
+70,CALMEJANE Lilian,23,Direct Energie,+2:51:44,2016
+71,LAGUTIN Sergey,35,Team Katusha,+3:04:49,2016
+72,MOSER Moreno,25,Cannondale-Drapac Pro Cycling Team,+3:05:17,2016
+73,ROSÓN Jaime,23,Caja Rural - Seguros RGA,+3:06:10,2016
+74,QUÉMÉNEUR Perrig,32,Direct Energie,+3:06:15,2016
+75,PFINGSTEN Christoph,28,Bora - Argon 18,+3:08:22,2016
+76,HAGA Chad,28,Team Giant - Alpecin,+3:11:35,2016
+77,EIKING Odd Christian,21,FDJ,+3:11:38,2016
+78,BILBAO Pello,26,Caja Rural - Seguros RGA,+3:11:51,2016
+79,DILLIER Silvan,26,BMC Racing Team,+3:12:18,2016
+80,BOSWELL Ian,25,Team Sky,+3:13:19,2016
+81,LAENGEN Vegard Stake,27,IAM Cycling,+3:14:24,2016
+82,SBARAGLI Kristian,26,Team Dimension Data,+3:14:26,2016
+83,SMUKULIS Gatis,29,Astana Pro Team,+3:16:13,2016
+84,ERVITI Imanol,32,Movistar Team,+3:16:25,2016
+85,MACHADO Tiago,30,Team Katusha,+3:17:48,2016
+86,GERRANS Simon,36,ORICA-BikeExchange,+3:18:18,2016
+87,FRÖHLINGER Johannes,31,Team Giant - Alpecin,+3:18:44,2016
+88,DOMBROWSKI Joe,25,Cannondale-Drapac Pro Cycling Team,+3:18:58,2016
+89,VERVAEKE Louis,22,Lotto Soudal,+3:19:17,2016
+90,ARMÉE Sander,30,Lotto Soudal,+3:19:18,2016
+91,HERRADA José,30,Movistar Team,+3:19:21,2016
+92,WALLAYS Jelle,27,Lotto Soudal,+3:20:26,2016
+93,BENEDETTI Cesare,29,Bora - Argon 18,+3:20:55,2016
+94,BIDARD François,24,AG2R La Mondiale,+3:21:32,2016
+95,JAUREGUI Quentin,22,AG2R La Mondiale,+3:23:23,2016
+96,DE KORT Koen,34,Team Giant - Alpecin,+3:23:49,2016
+97,VANOTTI Alessandro,35,Astana Pro Team,+3:23:51,2016
+98,LADAGNOUS Matthieu,31,FDJ,+3:24:31,2016
+99,ROVNY Ivan,28,Tinkoff,+3:27:22,2016
+100,TEUNS Dylan,24,BMC Racing Team,+3:27:45,2016
+101,DEVENYNS Dries,33,IAM Cycling,+3:31:12,2016
+102,CATTANEO Mattia,25,Lampre - Merida,+3:31:18,2016
+103,TANKINK Bram,37,Team LottoNL-Jumbo,+3:32:41,2016
+104,DIDIER Laurent,32,Trek - Segafredo,+3:33:39,2016
+105,PELLAUD Simon,23,IAM Cycling,+3:34:16,2016
+106,ARASHIRO Yukiya,31,Lampre - Merida,+3:34:56,2016
+107,BENNATI Daniele,35,Tinkoff,+3:35:23,2016
+108,GENIEZ Alexandre,28,FDJ,+3:37:19,2016
+109,VAN DER SANDE Tosh,25,Lotto Soudal,+3:38:33,2016
+110,HANSEN Adam,35,Lotto Soudal,+3:38:58,2016
+111,MEERSMAN Gianni,30,Etixx - Quick Step,+3:43:34,2016
+112,SERRY Pieter,27,Etixx - Quick Step,+3:45:38,2016
+113,LAMPAERT Yves,25,Etixx - Quick Step,+3:47:12,2016
+114,MÜHLBERGER Gregor,22,Bora - Argon 18,+3:48:20,2016
+115,PAULINHO Sérgio Miguel,36,Tinkoff,+3:48:36,2016
+116,THWAITES Scott,26,Bora - Argon 18,+3:51:21,2016
+117,HAIG Jack,23,ORICA-BikeExchange,+3:52:03,2016
+118,GOŁAŚ Michał,32,Team Sky,+3:52:50,2016
+119,GRUZDEV Dmitriy,30,Astana Pro Team,+3:53:38,2016
+120,BEPPU Fumiyuki,33,Trek - Segafredo,+3:56:12,2016
+121,PUCCIO Salvatore,27,Team Sky,+4:00:23,2016
+122,ARROYO David,36,Caja Rural - Seguros RGA,+4:01:27,2016
+123,BOUWMAN Koen,22,Team LottoNL-Jumbo,+4:01:40,2016
+124,KNEES Christian,35,Team Sky,+4:05:41,2016
+125,CARTHY Hugh,22,Caja Rural - Seguros RGA,+4:05:45,2016
+126,DOCKX Gert,28,Lotto Soudal,+4:10:08,2016
+127,PRADES Eduard,29,Caja Rural - Seguros RGA,+4:10:50,2016
+128,RESTREPO Jhonatan,21,Team Katusha,+4:12:28,2016
+129,COUSIN Jérôme,27,"Cofidis, Solutions Crédits",+4:15:35,2016
+130,SUTHERLAND Rory,34,Movistar Team,+4:16:30,2016
+131,STAMSNIJDER Tom,31,Team Giant - Alpecin,+4:17:10,2016
+132,REIJNEN Kiel,30,Trek - Segafredo,+4:18:09,2016
+133,CORT Magnus,23,ORICA-BikeExchange,+4:18:37,2016
+134,BAGDONAS Gediminas,30,AG2R La Mondiale,+4:19:24,2016
+135,LUNKE Sindre,23,Team Giant - Alpecin,+4:20:30,2016
+136,ANDERSON Ryan,29,Direct Energie,+4:22:58,2016
+137,KEIZER Martijn,28,Team LottoNL-Jumbo,+4:26:20,2016
+138,CHETOUT Loïc,23,"Cofidis, Solutions Crédits",+4:30:55,2016
+139,TERPSTRA Niki,32,Etixx - Quick Step,+4:31:57,2016
+140,BEWLEY Sam,29,ORICA-BikeExchange,+4:34:16,2016
+141,BYSTRØM Sven Erik,24,Team Katusha,+4:35:05,2016
+142,DRUCKER Jempy,30,BMC Racing Team,+4:36:07,2016
+143,CAMPENAERTS Victor,24,Team LottoNL-Jumbo,+4:37:31,2016
+144,VAN GENECHTEN Jonas,29,IAM Cycling,+4:40:27,2016
+145,VENTER Jaco,29,Team Dimension Data,+4:40:57,2016
+146,NAULEAU Bryan,28,Direct Energie,+4:43:11,2016
+147,BOARO Manuele,29,Tinkoff,+4:47:36,2016
+148,CARDIS Romain,24,Direct Energie,+4:48:51,2016
+149,MANZIN Lorrenzo,22,FDJ,+4:52:05,2016
+150,MORICE Julien,25,Direct Energie,+4:53:21,2016
+151,KOSHEVOY Ilia,25,Lampre - Merida,+4:53:46,2016
+152,VELITS Martin,31,Etixx - Quick Step,+4:53:56,2016
+153,RIBLON Christophe,35,AG2R La Mondiale,+4:57:13,2016
+154,DOUGALL Nic,23,Team Dimension Data,+4:57:18,2016
+155,FARRAR Tyler,32,Team Dimension Data,+4:57:20,2016
+156,SELIG Rüdiger,27,Bora - Argon 18,+4:59:15,2016
+157,SCHWARZMANN Michael,25,Bora - Argon 18,+5:02:29,2016
+158,TUFT Svein,39,ORICA-BikeExchange,+5:03:49,2016
+159,ARNDT Nikias,24,Team Giant - Alpecin,+5:07:40,2016
+1,FROOME Chris,32,Team Sky,82:30:02,2017
+2,NIBALI Vincenzo,32,Bahrain Merida Pro Cycling Team,+2:15,2017
+3,ZAKARIN Ilnur,27,Team Katusha Alpecin,+2:51,2017
+4,KELDERMAN Wilco,26,Team Sunweb,+3:15,2017
+5,CONTADOR Alberto,34,Trek - Segafredo,+3:18,2017
+6,POELS Wout,29,Team Sky,+6:59,2017
+7,WOODS Michael,30,Cannondale-Drapac Pro Cycling Team,+8:27,2017
+8,LÓPEZ Miguel Ángel,23,Astana Pro Team,+9:13,2017
+9,KRUIJSWIJK Steven,30,Team LottoNL-Jumbo,+11:18,2017
+10,VAN GARDEREN Tejay,29,BMC Racing Team,+15:50,2017
+11,CHAVES Esteban,27,ORICA-Scott,+16:46,2017
+12,MEINTJES Louis,25,UAE Team Emirates,+17:41,2017
+13,ARU Fabio,27,Astana Pro Team,+21:41,2017
+14,ROCHE Nicolas,33,BMC Racing Team,+22:00,2017
+15,PARDILLA Sergio,33,Caja Rural - Seguros RGA,+22:59,2017
+16,NIEVE Mikel,33,Team Sky,+28:00,2017
+17,BARDET Romain,26,AG2R La Mondiale,+31:21,2017
+18,MORENO Daniel,36,Movistar Team,+42:16,2017
+19,ARMÉE Sander,31,Lotto Soudal,+59:01,2017
+20,ATAPUMA Darwin,29,UAE Team Emirates,+1:02:58,2017
+21,HAIG Jack,24,ORICA-Scott,+1:04:48,2017
+22,ROJAS José Joaquín,32,Movistar Team,+1:05:02,2017
+23,BILBAO Pello,27,Astana Pro Team,+1:06:22,2017
+24,MATÉ Luis Ángel,33,"Cofidis, Solutions Crédits",+1:13:27,2017
+25,PELLIZOTTI Franco,39,Bahrain Merida Pro Cycling Team,+1:13:36,2017
+26,ROSÓN Jaime,24,Caja Rural - Seguros RGA,+1:17:12,2017
+27,MOSCON Gianni,23,Team Sky,+1:21:17,2017
+28,TOLHOEK Antwan,23,Team LottoNL-Jumbo,+1:21:46,2017
+29,CLEMENT Stef,34,Team LottoNL-Jumbo,+1:26:13,2017
+30,MOHORIČ Matej,22,UAE Team Emirates,+1:31:24,2017
+31,STETINA Peter,30,Trek - Segafredo,+1:36:35,2017
+32,SÁNCHEZ Luis León,33,Astana Pro Team,+1:36:50,2017
+33,PANTANO Jarlinson,28,Trek - Segafredo,+1:39:27,2017
+34,YATES Adam,25,ORICA-Scott,+1:39:51,2017
+35,ANTÓN Igor,34,Team Dimension Data,+1:42:33,2017
+36,CARAPAZ Richard,24,Movistar Team,+1:43:59,2017
+37,AGUIRRE Hernán Ricardo,21,Manzana Postobon,+1:49:26,2017
+38,POLANC Jan,25,UAE Team Emirates,+1:52:14,2017
+39,MAJKA Rafał,27,BORA - hansgrohe,+1:53:59,2017
+40,DE CLERCQ Bart,31,Lotto Soudal,+1:54:19,2017
+41,BOUWMAN Koen,23,Team LottoNL-Jumbo,+1:55:00,2017
+42,JUNGELS Bob,24,Quick-Step Floors,+1:58:17,2017
+43,COSTA Rui,30,UAE Team Emirates,+1:58:46,2017
+44,YATES Simon,25,ORICA-Scott,+2:02:43,2017
+45,REYES Aldemar,22,Manzana Postobon,+2:03:25,2017
+46,VISCONTI Giovanni,34,Bahrain Merida Pro Cycling Team,+2:11:10,2017
+47,OLIVEIRA Nelson,28,Movistar Team,+2:16:03,2017
+48,SOLER Marc,23,Movistar Team,+2:19:27,2017
+49,SUAZA Bernardo,24,Manzana Postobon,+2:23:21,2017
+50,VILELA Ricardo,29,Manzana Postobon,+2:25:21,2017
+51,PEDRERO Antonio,25,Movistar Team,+2:27:03,2017
+52,ROUX Anthony,30,FDJ,+2:28:01,2017
+53,ROSA Diego,28,Team Sky,+2:31:16,2017
+54,ROSSETTO Stéphane,30,"Cofidis, Solutions Crédits",+2:33:53,2017
+55,MARCZYŃSKI Tomasz,33,Lotto Soudal,+2:34:33,2017
+56,FERRARI Fabricio,32,Caja Rural - Seguros RGA,+2:39:52,2017
+57,DE GENDT Thomas,30,Lotto Soudal,+2:39:53,2017
+58,DENIFL Stefan,29,Aqua Blue Sport,+2:41:15,2017
+59,LUDVIGSSON Tobias,26,FDJ,+2:42:20,2017
+60,OLIVIER Daan,24,Team LottoNL-Jumbo,+2:42:35,2017
+61,CHEVRIER Clément,25,AG2R La Mondiale,+2:42:41,2017
+62,DE TIER Floris,25,Team LottoNL-Jumbo,+2:44:41,2017
+63,MAISON Jérémy,24,FDJ,+2:45:01,2017
+64,HERNÁNDEZ BLÁZQUEZ Jesús,35,Trek - Segafredo,+2:45:39,2017
+65,BUCHMANN Emanuel,24,BORA - hansgrohe,+2:57:29,2017
+66,LÓPEZ David,36,Team Sky,+2:58:17,2017
+67,POLJAŃSKI Paweł,27,BORA - hansgrohe,+2:58:35,2017
+68,ALAPHILIPPE Julian,25,Quick-Step Floors,+2:59:11,2017
+69,BOL Jetse,28,Manzana Postobon,+2:59:17,2017
+70,DE MARCHI Alessandro,31,BMC Racing Team,+3:00:15,2017
+71,MAS Enric,22,Quick-Step Floors,+3:02:34,2017
+72,LOSADA Alberto,35,Team Katusha Alpecin,+3:06:59,2017
+73,VERONA Carlos,24,ORICA-Scott,+3:07:12,2017
+74,CLARKE Simon,31,Cannondale-Drapac Pro Cycling Team,+3:07:58,2017
+75,LUTSENKO Alexey,25,Astana Pro Team,+3:08:08,2017
+76,SÁEZ Héctor,23,Caja Rural - Seguros RGA,+3:09:06,2017
+77,DE KORT Koen,35,Trek - Segafredo,+3:09:17,2017
+78,PUCCIO Salvatore,28,Team Sky,+3:09:44,2017
+79,AGNOLI Valerio,32,Bahrain Merida Pro Cycling Team,+3:09:53,2017
+80,PEREZ Anthony,26,"Cofidis, Solutions Crédits",+3:13:46,2017
+81,NAVARRO Daniel,34,"Cofidis, Solutions Crédits",+3:17:49,2017
+82,JANSE VAN RENSBURG Jacques,30,Team Dimension Data,+3:18:23,2017
+83,MAS Lluís,27,Caja Rural - Seguros RGA,+3:18:29,2017
+84,TRENTIN Matteo,28,Quick-Step Floors,+3:18:41,2017
+85,BERNARD Julien,25,Trek - Segafredo,+3:22:16,2017
+86,NIEMIEC Przemysław,37,UAE Team Emirates,+3:25:48,2017
+87,OSORIO Juan Felipe,22,Manzana Postobon,+3:27:41,2017
+88,BONNAFOND Guillaume,30,"Cofidis, Solutions Crédits",+3:28:17,2017
+89,ARROYO David,37,Caja Rural - Seguros RGA,+3:32:34,2017
+90,MORTON Lachlan,25,Team Dimension Data,+3:32:57,2017
+91,THEUNS Edward,26,Trek - Segafredo,+3:33:03,2017
+92,VENTOSO Francisco José,35,BMC Racing Team,+3:33:37,2017
+93,BOHÓRQUEZ Hernando,25,Manzana Postobon,+3:33:54,2017
+94,CHERNETSKI Sergei,27,Astana Pro Team,+3:35:00,2017
+95,HANSEN Adam,36,Lotto Soudal,+3:37:11,2017
+96,KONRAD Patrick,25,BORA - hansgrohe,+3:37:18,2017
+97,VILLELLA Davide,26,Cannondale-Drapac Pro Cycling Team,+3:37:57,2017
+98,HAGA Chad,29,Team Sunweb,+3:44:08,2017
+99,GOUGEARD Alexis,24,AG2R La Mondiale,+3:46:38,2017
+100,GARCÍA CORTINA Iván,21,Bahrain Merida Pro Cycling Team,+3:47:27,2017
+101,DOMBROWSKI Joe,26,Cannondale-Drapac Pro Cycling Team,+3:47:58,2017
+102,NIBALI Antonio,24,Bahrain Merida Pro Cycling Team,+3:50:02,2017
+103,COURTEILLE Arnaud,28,FDJ,+3:50:13,2017
+104,CAPECCHI Eros,31,Quick-Step Floors,+3:52:20,2017
+105,NOVAK Domen,22,Bahrain Merida Pro Cycling Team,+3:52:56,2017
+106,KRAGH ANDERSEN Søren,23,Team Sunweb,+3:52:58,2017
+107,JUUL-JENSEN Christopher,28,ORICA-Scott,+3:53:31,2017
+108,DUVAL Julien,27,AG2R La Mondiale,+3:54:03,2017
+109,CARUSO Damiano,29,BMC Racing Team,+3:54:23,2017
+110,LINDEMAN Bert-Jan,28,Team LottoNL-Jumbo,+3:55:09,2017
+111,SCHULTZ Nick,22,Caja Rural - Seguros RGA,+3:55:40,2017
+112,VLIEGEN Loïc,23,BMC Racing Team,+3:56:01,2017
+113,CANTY Brendan,25,Cannondale-Drapac Pro Cycling Team,+3:57:55,2017
+114,LOBATO Juan José,28,Team LottoNL-Jumbo,+4:02:01,2017
+115,HOULE Hugo,26,AG2R La Mondiale,+4:03:18,2017
+116,BOARO Manuele,30,Bahrain Merida Pro Cycling Team,+4:03:24,2017
+117,TURGIS Anthony,23,"Cofidis, Solutions Crédits",+4:06:21,2017
+118,HALLER Marco,26,Team Katusha Alpecin,+4:06:31,2017
+119,IRIZAR Markel,37,Trek - Segafredo,+4:07:16,2017
+120,FRÖHLINGER Johannes,32,Team Sunweb,+4:08:43,2017
+121,HAMILTON Chris,22,Team Sunweb,+4:12:42,2017
+122,DE VREESE Laurens,28,Astana Pro Team,+4:12:46,2017
+123,SKUJIŅŠ Toms,26,Cannondale-Drapac Pro Cycling Team,+4:13:16,2017
+124,KNEES Christian,36,Team Sky,+4:13:46,2017
+125,HOELGAARD Daniel,24,FDJ,+4:17:04,2017
+126,CORT Magnus,24,ORICA-Scott,+4:17:37,2017
+127,RUBIO Diego,26,Caja Rural - Seguros RGA,+4:19:46,2017
+128,KREDER Michel,30,Aqua Blue Sport,+4:21:18,2017
+129,DECLERCQ Tim,28,Quick-Step Floors,+4:21:20,2017
+130,TERPSTRA Niki,33,Quick-Step Floors,+4:23:54,2017
+131,MODOLO Sacha,30,UAE Team Emirates,+4:27:08,2017
+132,REIS Rafael,25,Caja Rural - Seguros RGA,+4:27:14,2017
+133,VAN ASBROECK Tom,27,Cannondale-Drapac Pro Cycling Team,+4:29:59,2017
+134,BELKOV Maxim,32,Team Katusha Alpecin,+4:30:01,2017
+135,ORJUELA Fernando,25,Manzana Postobon,+4:31:44,2017
+136,LAMPAERT Yves,26,Quick-Step Floors,+4:32:02,2017
+137,MØRKØV Michael,32,Team Katusha Alpecin,+4:33:01,2017
+138,CHRISTIAN Mark,26,Aqua Blue Sport,+4:36:26,2017
+139,HANSEN Lasse Norman,25,Aqua Blue Sport,+4:38:56,2017
+140,GATE Aaron,26,Aqua Blue Sport,+4:40:07,2017
+141,KONING Peter,26,Aqua Blue Sport,+4:41:00,2017
+142,PFINGSTEN Christoph,29,BORA - hansgrohe,+4:41:29,2017
+143,BEWLEY Sam,30,ORICA-Scott,+4:43:27,2017
+144,SCHILLINGER Andreas,34,BORA - hansgrohe,+4:44:03,2017
+145,STALNOV Nikita,25,Astana Pro Team,+4:44:07,2017
+146,VANBILSEN Kenneth,27,"Cofidis, Solutions Crédits",+4:44:33,2017
+147,TAARAMÄE Rein,30,Team Katusha Alpecin,+4:46:21,2017
+148,STANNARD Ian,30,Team Sky,+4:47:00,2017
+149,ZURLO Federico,23,UAE Team Emirates,+4:47:04,2017
+150,MERTZ Rémy,22,Lotto Soudal,+4:49:50,2017
+151,WALLAYS Jelle,28,Lotto Soudal,+4:53:38,2017
+152,MOLANO Juan Sebastián,22,Manzana Postobon,+4:54:27,2017
+153,SCULLY Tom,27,Cannondale-Drapac Pro Cycling Team,+4:56:59,2017
+154,SCHWARZMANN Michael,26,BORA - hansgrohe,+4:57:10,2017
+155,BLYTHE Adam,27,Aqua Blue Sport,+4:58:28,2017
+156,MANZIN Lorrenzo,23,FDJ,+5:01:29,2017
+157,CLARKE Will,32,Cannondale-Drapac Pro Cycling Team,+5:03:10,2017
+158,DUNNE Conor,25,Aqua Blue Sport,+5:16:23,2017
+1,YATES Simon,26,Mitchelton-Scott,82:05:58,2018
+2,MAS Enric,23,Quick-Step Floors,+1:46,2018
+3,LÓPEZ Miguel Ángel,24,Astana Pro Team,+2:04,2018
+4,KRUIJSWIJK Steven,31,Team LottoNL-Jumbo,+2:54,2018
+5,VALVERDE Alejandro,38,Movistar Team,+4:28,2018
+6,PINOT Thibaut,28,Groupama - FDJ,+5:57,2018
+7,URÁN Rigoberto,31,Team EF Education First-Drapac p/b Cannondale,+6:07,2018
+8,QUINTANA Nairo,28,Movistar Team,+6:51,2018
+9,IZAGIRRE Ion,29,Bahrain Merida Pro Cycling Team,+11:09,2018
+10,KELDERMAN Wilco,27,Team Sunweb,+11:11,2018
+11,GALLOPIN Tony,30,AG2R La Mondiale,+12:10,2018
+12,BUCHMANN Emanuel,25,BORA - hansgrohe,+14:06,2018
+13,MAJKA Rafał,29,BORA - hansgrohe,+17:57,2018
+14,MOLARD Rudy,28,Groupama - FDJ,+25:40,2018
+15,DE LA CRUZ David,29,Team Sky,+28:02,2018
+16,BRAMBILLA Gianluca,31,Trek - Segafredo,+30:00,2018
+17,BIZKARRA Mikel,29,Euskadi - Murias,+35:46,2018
+18,CARAPAZ Richard,25,Movistar Team,+39:53,2018
+19,HAIG Jack,25,Mitchelton-Scott,+45:32,2018
+20,ZAKARIN Ilnur,29,Team Katusha Alpecin,+51:36,2018
+21,HERRADA Jesús,28,"Cofidis, Solutions Crédits",+57:15,2018
+22,FORMOLO Davide,25,BORA - hansgrohe,+57:29,2018
+23,ARU Fabio,28,UAE Team Emirates,+1:03:07,2018
+24,KING Ben,29,Team Dimension Data,+1:03:40,2018
+25,RODRÍGUEZ Cristián,23,Caja Rural - Seguros RGA,+1:06:26,2018
+26,DUPONT Hubert,37,AG2R La Mondiale,+1:11:04,2018
+27,BILBAO Pello,28,Astana Pro Team,+1:12:49,2018
+28,HENAO Sergio,30,Team Sky,+1:13:07,2018
+29,IZAGIRRE Gorka,30,Bahrain Merida Pro Cycling Team,+1:14:48,2018
+30,MOLLEMA Bauke,31,Trek - Segafredo,+1:17:39,2018
+31,KUDUS Merhawi,24,Team Dimension Data,+1:19:54,2018
+32,HINDLEY Jai,22,Team Sunweb,+1:21:38,2018
+33,TEUNS Dylan,26,BMC Racing Team,+1:22:46,2018
+34,WOODS Michael,31,Team EF Education First-Drapac p/b Cannondale,+1:23:13,2018
+35,BENNETT George,28,Team LottoNL-Jumbo,+1:24:17,2018
+36,GASTAUER Ben,30,AG2R La Mondiale,+1:28:52,2018
+37,GHEBREIGZABHIER Amanuel,24,Team Dimension Data,+1:30:43,2018
+38,MORENO Daniel,37,Team EF Education First-Drapac p/b Cannondale,+1:32:59,2018
+39,RAVASI Edward,24,UAE Team Emirates,+1:34:57,2018
+40,ROCHE Nicolas,34,BMC Racing Team,+1:36:40,2018
+41,DE TIER Floris,26,Team LottoNL-Jumbo,+1:42:58,2018
+42,MONFORT Maxime,35,Lotto Soudal,+1:43:23,2018
+43,KWIATKOWSKI Michał,28,Team Sky,+1:43:49,2018
+44,ANTÓN Igor,35,Team Dimension Data,+1:52:53,2018
+45,YATES Adam,26,Mitchelton-Scott,+1:54:33,2018
+46,CLARKE Simon,32,Team EF Education First-Drapac p/b Cannondale,+1:55:01,2018
+47,MAS Lluís,28,Caja Rural - Seguros RGA,+1:56:06,2018
+48,VILLELLA Davide,27,Astana Pro Team,+1:57:26,2018
+49,PARDILLA Sergio,34,Caja Rural - Seguros RGA,+1:57:41,2018
+50,PELLIZOTTI Franco,40,Bahrain Merida Pro Cycling Team,+1:58:18,2018
+51,RODRÍGUEZ Óscar,23,Euskadi - Murias,+1:58:53,2018
+52,ZEITS Andrey,31,Astana Pro Team,+2:01:13,2018
+53,KOCHETKOV Pavel,32,Team Katusha Alpecin,+2:01:36,2018
+54,ROSSETTO Stéphane,31,"Cofidis, Solutions Crédits",+2:01:43,2018
+55,HOLLENSTEIN Reto,33,Team Katusha Alpecin,+2:04:03,2018
+56,ROLLAND Pierre,31,Team EF Education First-Drapac p/b Cannondale,+2:04:34,2018
+57,HERRADA José,32,"Cofidis, Solutions Crédits",+2:05:41,2018
+58,MEINTJES Louis,26,Team Dimension Data,+2:06:00,2018
+59,NIBALI Vincenzo,33,Bahrain Merida Pro Cycling Team,+2:08:54,2018
+60,CONTI Valerio,25,UAE Team Emirates,+2:09:59,2018
+61,FELLINE Fabio,28,Trek - Segafredo,+2:11:02,2018
+62,GEOGHEGAN HART Tao,23,Team Sky,+2:13:56,2018
+63,FRAILE Omar,28,Astana Pro Team,+2:14:33,2018
+64,CATALDO Dario,33,Astana Pro Team,+2:18:54,2018
+65,KUSS Sepp,24,Team LottoNL-Jumbo,+2:20:11,2018
+66,BOOKWALTER Brent,34,BMC Racing Team,+2:21:43,2018
+67,DE GENDT Thomas,31,Lotto Soudal,+2:22:10,2018
+68,PRADES Eduard,31,Euskadi - Murias,+2:24:10,2018
+69,ANACONA Winner,30,Movistar Team,+2:25:25,2018
+70,HOWSON Damien,26,Mitchelton-Scott,+2:29:16,2018
+71,OLIVEIRA Nelson,29,Movistar Team,+2:30:07,2018
+72,PETERS Nans,24,AG2R La Mondiale,+2:30:11,2018
+73,ARMÉE Sander,32,Lotto Soudal,+2:30:18,2018
+74,HIRT Jan,27,Astana Pro Team,+2:35:49,2018
+75,SCHULTZ Nick,24,Caja Rural - Seguros RGA,+2:39:38,2018
+76,DE MARCHI Alessandro,32,BMC Racing Team,+2:40:14,2018
+77,VINCENT Léo,22,Groupama - FDJ,+2:43:29,2018
+78,BAGÜES Aritz,29,Euskadi - Murias,+2:45:48,2018
+79,MACHADO Tiago,32,Team Katusha Alpecin,+2:48:38,2018
+80,TUSVELD Martijn,25,Team Sunweb,+2:49:31,2018
+81,ROSSKOPF Joey,29,BMC Racing Team,+2:51:48,2018
+82,GIBBONS Ryan,24,Team Dimension Data,+2:55:03,2018
+83,MENDES José,33,Burgos-BH,+2:57:10,2018
+84,PORTE Richie,33,BMC Racing Team,+2:57:17,2018
+85,SÁEZ Héctor,24,Euskadi - Murias,+2:57:30,2018
+86,CABEDO Óscar,23,Burgos-BH,+2:58:27,2018
+87,VAN ASBROECK Tom,28,Team EF Education First-Drapac p/b Cannondale,+2:59:30,2018
+88,SERRY Pieter,29,Quick-Step Floors,+3:00:05,2018
+89,CUBERO Jorge,25,Burgos-BH,+3:03:35,2018
+90,GENIEZ Alexandre,30,AG2R La Mondiale,+3:04:42,2018
+91,MCCARTHY Jay,26,BORA - hansgrohe,+3:05:02,2018
+92,ERVITI Imanol,34,Movistar Team,+3:10:45,2018
+93,AMADOR Andrey,32,Movistar Team,+3:10:46,2018
+94,DEVENYNS Dries,35,Quick-Step Floors,+3:14:01,2018
+95,BENOOT Tiesj,24,Lotto Soudal,+3:14:12,2018
+96,PUCCIO Salvatore,29,Team Sky,+3:15:09,2018
+97,CHEREL Mikaël,32,AG2R La Mondiale,+3:21:54,2018
+98,EZQUERRA Jesús,27,Burgos-BH,+3:27:49,2018
+99,GARCÍA CORTINA Iván,22,Bahrain Merida Pro Cycling Team,+3:28:51,2018
+100,CASTROVIEJO Jonathan,31,Team Sky,+3:30:00,2018
+101,BOL Jetse,29,Burgos-BH,+3:35:55,2018
+102,CAMPENAERTS Victor,26,Lotto Soudal,+3:43:36,2018
+103,ITURRIA Mikel,26,Euskadi - Murias,+3:45:05,2018
+104,STALNOV Nikita,27,Astana Pro Team,+3:46:29,2018
+105,RESTREPO Jhonatan,23,Team Katusha Alpecin,+3:47:21,2018
+106,MATÉ Luis Ángel,34,"Cofidis, Solutions Crédits",+3:55:56,2018
+107,LAENGEN Vegard Stake,29,UAE Team Emirates,+3:56:34,2018
+108,ARANBURU Alex,22,Caja Rural - Seguros RGA,+3:57:33,2018
+109,TEUNISSEN Mike,26,Team Sunweb,+3:58:38,2018
+110,LE TURNIER Mathias,23,"Cofidis, Solutions Crédits",+4:00:26,2018
+111,VENTOSO Francisco José,36,BMC Racing Team,+4:02:14,2018
+112,DELAGE Mickaël,33,Groupama - FDJ,+4:02:45,2018
+113,BYSTRØM Sven Erik,26,UAE Team Emirates,+4:06:25,2018
+114,VAN DER SANDE Tosh,27,Lotto Soudal,+4:08:34,2018
+115,FRÖHLINGER Johannes,33,Team Sunweb,+4:11:01,2018
+116,BRAVO Garikoitz,29,Euskadi - Murias,+4:12:25,2018
+117,STORER Michael,21,Team Sunweb,+4:12:32,2018
+118,ALBASINI Michael,37,Mitchelton-Scott,+4:15:40,2018
+119,SAGAN Peter,28,BORA - hansgrohe,+4:16:05,2018
+120,MOLINA Antonio,27,Caja Rural - Seguros RGA,+4:18:48,2018
+121,THOMAS Benjamin,23,Groupama - FDJ,+4:22:41,2018
+122,VAN ZYL Johann,27,Team Dimension Data,+4:22:54,2018
+123,LASTRA Jonathan,25,Caja Rural - Seguros RGA,+4:26:51,2018
+124,CUMMINGS Steve,37,Team Dimension Data,+4:27:54,2018
+125,TRENTIN Matteo,29,Mitchelton-Scott,+4:28:10,2018
+126,BOSWELL Ian,27,Team Katusha Alpecin,+4:28:13,2018
+127,DUCHESNE Antoine,27,Groupama - FDJ,+4:29:30,2018
+128,LANGEVELD Sebastian,33,Team EF Education First-Drapac p/b Cannondale,+4:31:50,2018
+129,TORRES Pablo,30,Burgos-BH,+4:34:43,2018
+130,IRIZAR Markel,38,Trek - Segafredo,+4:37:11,2018
+131,SARREAU Marc,25,Groupama - FDJ,+4:38:36,2018
+132,VAN POPPEL Danny,25,Team LottoNL-Jumbo,+4:38:47,2018
+133,BENNATI Daniele,37,Movistar Team,+4:45:32,2018
+134,ASGREEN Kasper,23,Quick-Step Floors,+4:48:07,2018
+135,REIJNEN Kiel,32,Trek - Segafredo,+4:49:50,2018
+136,LINDEMAN Bert-Jan,29,Team LottoNL-Jumbo,+4:52:40,2018
+137,VANBILSEN Kenneth,28,"Cofidis, Solutions Crédits",+4:53:07,2018
+138,RUBIO Diego,27,Burgos-BH,+4:53:48,2018
+139,LEEZER Tom,32,Team LottoNL-Jumbo,+4:53:56,2018
+140,NIZZOLO Giacomo,29,Trek - Segafredo,+4:54:29,2018
+141,MEZGEC Luka,30,Mitchelton-Scott,+4:55:25,2018
+142,PIBERNIK Luka,24,Bahrain Merida Pro Cycling Team,+4:56:19,2018
+143,WALLAYS Jelle,29,Lotto Soudal,+4:56:42,2018
+144,CHETOUT Loïc,25,"Cofidis, Solutions Crédits",+5:00:35,2018
+145,VIVIANI Elia,29,Quick-Step Floors,+5:01:37,2018
+146,ABERASTURI Jon,29,Euskadi - Murias,+5:01:45,2018
+147,CONSONNI Simone,24,UAE Team Emirates,+5:02:02,2018
+148,MØRKØV Michael,33,Quick-Step Floors,+5:07:42,2018
+149,BURGHARDT Marcus,35,BORA - hansgrohe,+5:09:59,2018
+150,SCHWARZMANN Michael,27,BORA - hansgrohe,+5:10:42,2018
+151,DOCKER Mitchell,31,Team EF Education First-Drapac p/b Cannondale,+5:13:26,2018
+152,SABATINI Fabio,33,Quick-Step Floors,+5:13:46,2018
+153,BOOM Lars,32,Team LottoNL-Jumbo,+5:19:07,2018
+154,SOTO Nelson Andrés,24,Caja Rural - Seguros RGA,+5:20:28,2018
+155,EDMONDSON Alex,24,Mitchelton-Scott,+5:24:24,2018
+156,WALSCHEID Max,25,Team Sunweb,+5:25:57,2018
+157,DUVAL Julien,28,AG2R La Mondiale,+5:42:01,2018
+158,BRÄNDLE Matthias,28,Trek - Segafredo,+5:53:31,2018
+1,ROGLIČ Primož,29,Team Jumbo-Visma,83:07:14,2019
+2,VALVERDE Alejandro,39,Movistar Team,+2:33,2019
+3,POGAČAR Tadej,20,UAE Team Emirates,+2:55,2019
+4,QUINTANA Nairo,29,Movistar Team,+3:46,2019
+5,LÓPEZ Miguel Ángel,25,Astana Pro Team,+4:48,2019
+6,MAJKA Rafał,30,BORA - hansgrohe,+7:33,2019
+7,KELDERMAN Wilco,28,Team Sunweb,+10:04,2019
+8,HAGEN Carl Fredrik,27,Lotto Soudal,+12:54,2019
+9,SOLER Marc,25,Movistar Team,+22:27,2019
+10,NIEVE Mikel,35,Mitchelton-Scott,+22:34,2019
+11,KNOX James,23,Deceuninck - Quick Step,+22:55,2019
+12,TEUNS Dylan,27,Bahrain Merida,+24:06,2019
+13,FUGLSANG Jakob,34,Astana Pro Team,+26:49,2019
+14,HIGUITA Sergio,22,EF Education First,+32:17,2019
+15,PERNSTEINER Hermann,29,Bahrain Merida,+33:40,2019
+16,IZAGIRRE Ion,30,Astana Pro Team,+42:00,2019
+17,GUERREIRO Ruben,25,Team Katusha Alpecin,+42:05,2019
+18,EDET Nicolas,31,"Cofidis, Solutions Crédits",+46:24,2019
+19,CHAVES Esteban,29,Mitchelton-Scott,+53:03,2019
+20,GEOGHEGAN HART Tao,24,Team INEOS,+1:04:21,2019
+21,FRANKINY Kilian,25,Groupama - FDJ,+1:11:42,2019
+22,RODRÍGUEZ Óscar,24,Euskadi Basque Country - Murias,+1:13:14,2019
+23,SÁNCHEZ Luis León,35,Astana Pro Team,+1:17:09,2019
+24,BIDARD François,27,AG2R La Mondiale,+1:25:44,2019
+25,O'CONNOR Ben,23,Team Dimension Data,+1:25:53,2019
+26,TUSVELD Martijn,26,Team Sunweb,+1:27:32,2019
+27,GESINK Robert,33,Team Jumbo-Visma,+1:29:07,2019
+28,STETINA Peter,32,Trek - Segafredo,+1:32:25,2019
+29,KUSS Sepp,25,Team Jumbo-Visma,+1:35:33,2019
+30,ROJAS José Joaquín,34,Movistar Team,+1:44:02,2019
+31,POWLESS Neilson,23,Team Jumbo-Visma,+1:48:21,2019
+32,GILBERT Philippe,37,Deceuninck - Quick Step,+1:50:02,2019
+33,BENNETT George,29,Team Jumbo-Visma,+1:55:19,2019
+34,POELS Wout,31,Team INEOS,+1:58:10,2019
+35,LATOUR Pierre,25,AG2R La Mondiale,+1:59:04,2019
+36,GROßSCHARTNER Felix,25,BORA - hansgrohe,+2:03:33,2019
+37,EG Niklas,24,Trek - Segafredo,+2:04:41,2019
+38,KING Ben,30,Team Dimension Data,+2:10:03,2019
+39,HENAO Sebastián,26,Team INEOS,+2:12:22,2019
+40,NAVARRO Daniel,36,Team Katusha Alpecin,+2:12:29,2019
+41,MARTÍNEZ Daniel Felipe,23,EF Education First,+2:13:20,2019
+42,BRAMBILLA Gianluca,32,Trek - Segafredo,+2:16:17,2019
+43,PEDRERO Antonio,27,Movistar Team,+2:20:11,2019
+44,LUDVIGSSON Tobias,28,Groupama - FDJ,+2:20:23,2019
+45,HENAO Sergio,31,UAE Team Emirates,+2:20:29,2019
+46,OLIVEIRA Nelson,30,Movistar Team,+2:21:16,2019
+47,BOUCHARD Geoffrey,27,AG2R La Mondiale,+2:25:49,2019
+48,BIZKARRA Mikel,30,Euskadi Basque Country - Murias,+2:28:43,2019
+49,HOWSON Damien,27,Mitchelton-Scott,+2:29:32,2019
+50,RODRÍGUEZ Cristián,24,Caja Rural - Seguros RGA,+2:29:33,2019
+51,MEINTJES Louis,27,Team Dimension Data,+2:34:53,2019
+52,CAVAGNA Rémi,24,Deceuninck - Quick Step,+2:35:04,2019
+53,IZAGIRRE Gorka,31,Astana Pro Team,+2:37:30,2019
+54,FABBRO Matteo,24,Team Katusha Alpecin,+2:37:58,2019
+55,ŠTYBAR Zdeněk,33,Deceuninck - Quick Step,+2:39:31,2019
+56,DE GENDT Thomas,32,Lotto Soudal,+2:40:02,2019
+57,POLJAŃSKI Paweł,29,BORA - hansgrohe,+2:44:06,2019
+58,CHEVRIER Clément,27,AG2R La Mondiale,+2:49:02,2019
+59,CRADDOCK Lawson,27,EF Education First,+2:49:16,2019
+60,KOCH Jonas,26,CCC Team,+2:51:21,2019
+61,ATAPUMA Darwin,31,"Cofidis, Solutions Crédits",+2:51:36,2019
+62,GRMAY Tsgabu,28,Mitchelton-Scott,+2:52:26,2019
+63,SCHULTZ Nick,25,Mitchelton-Scott,+2:52:42,2019
+64,ERVITI Imanol,35,Movistar Team,+2:53:02,2019
+65,VAN DER SANDE Tosh,28,Lotto Soudal,+2:53:26,2019
+66,DE LA CRUZ David,30,Team INEOS,+2:53:50,2019
+67,MORABITO Steve,36,Groupama - FDJ,+3:02:11,2019
+68,CATALDO Dario,34,Astana Pro Team,+3:06:30,2019
+69,ARNDT Nikias,27,Team Sunweb,+3:06:44,2019
+70,CONTI Valerio,26,UAE Team Emirates,+3:08:00,2019
+71,DOULL Owain,26,Team INEOS,+3:08:12,2019
+72,DILLIER Silvan,29,AG2R La Mondiale,+3:09:54,2019
+73,ARMÉE Sander,33,Lotto Soudal,+3:10:27,2019
+74,MARCZYŃSKI Tomasz,35,Lotto Soudal,+3:15:09,2019
+75,HERRADA José,33,"Cofidis, Solutions Crédits",+3:20:26,2019
+76,CRAS Steff,23,Team Katusha Alpecin,+3:21:04,2019
+77,GODON Dorian,23,AG2R La Mondiale,+3:22:00,2019
+78,DECLERCQ Tim,30,Deceuninck - Quick Step,+3:27:05,2019
+79,FRAILE Omar,29,Astana Pro Team,+3:27:25,2019
+80,SEIGLE Romain,24,Groupama - FDJ,+3:28:02,2019
+81,JAUREGUI Quentin,25,AG2R La Mondiale,+3:28:13,2019
+82,SÁEZ Héctor,25,Euskadi Basque Country - Murias,+3:28:53,2019
+83,SMITH Dion,26,Mitchelton-Scott,+3:29:59,2019
+84,PADUN Mark,23,Bahrain Merida,+3:30:25,2019
+85,MOSCA Jacopo,26,Trek - Segafredo,+3:30:55,2019
+86,BARTHE Cyril,23,Euskadi Basque Country - Murias,+3:31:36,2019
+87,ITURRIA Mikel,27,Euskadi Basque Country - Murias,+3:31:50,2019
+88,PARDILLA Sergio,35,Caja Rural - Seguros RGA,+3:32:24,2019
+89,PUCCIO Salvatore,30,Team INEOS,+3:33:38,2019
+90,VENTURINI Clément,25,AG2R La Mondiale,+3:37:27,2019
+91,ARMIRAIL Bruno,25,Groupama - FDJ,+3:38:04,2019
+92,POWER Robert,24,Team Sunweb,+3:38:42,2019
+93,ARCAS Jorge,27,Movistar Team,+3:39:12,2019
+94,ARANBURU Alex,23,Caja Rural - Seguros RGA,+3:39:43,2019
+95,BARCELÓ Fernando,23,Euskadi Basque Country - Murias,+3:40:19,2019
+96,BOASSON HAGEN Edvald,32,Team Dimension Data,+3:40:52,2019
+97,VENTOSO Francisco José,37,CCC Team,+3:41:38,2019
+98,KOCHETKOV Pavel,33,Team Katusha Alpecin,+3:42:27,2019
+99,STORER Michael,22,Team Sunweb,+3:50:04,2019
+100,BEWLEY Sam,32,Mitchelton-Scott,+3:51:31,2019
+101,LASTRA Jonathan,26,Caja Rural - Seguros RGA,+3:57:29,2019
+102,MATÉ Luis Ángel,35,"Cofidis, Solutions Crédits",+3:57:38,2019
+103,PEDERSEN Casper,23,Team Sunweb,+4:00:14,2019
+104,BOL Jetse,30,Burgos-BH,+4:04:01,2019
+105,VILELA Ricardo,31,Burgos-BH,+4:04:41,2019
+106,STANNARD Ian,32,Team INEOS,+4:05:25,2019
+107,DLAMINI Nic,24,Team Dimension Data,+4:05:44,2019
+108,TOUZÉ Damien,23,"Cofidis, Solutions Crédits",+4:08:25,2019
+109,PIBERNIK Luka,25,Bahrain Merida,+4:12:17,2019
+110,ARASHIRO Yukiya,34,Bahrain Merida,+4:13:18,2019
+111,CHERNETSKI Sergei,29,Caja Rural - Seguros RGA,+4:14:38,2019
+112,SAMITIER Sergio,24,Euskadi Basque Country - Murias,+4:16:49,2019
+113,BATTAGLIN Enrico,29,Team Katusha Alpecin,+4:18:37,2019
+114,VAN HOOYDONCK Nathan,23,CCC Team,+4:20:35,2019
+115,VANHOUCKE Harm,22,Lotto Soudal,+4:20:46,2019
+116,CABEDO Óscar,24,Burgos-BH,+4:21:49,2019
+117,BAGÜES Aritz,30,Euskadi Basque Country - Murias,+4:22:14,2019
+118,SMIT Willie,26,Team Katusha Alpecin,+4:23:33,2019
+119,MADRAZO Ángel,31,Burgos-BH,+4:24:11,2019
+120,EZQUERRA Jesús,28,Burgos-BH,+4:26:12,2019
+121,CAPECCHI Eros,33,Deceuninck - Quick Step,+4:26:16,2019
+122,DOCKER Mitchell,32,EF Education First,+4:26:59,2019
+123,NOVAK Domen,24,Bahrain Merida,+4:27:28,2019
+124,DEGENKOLB John,30,Trek - Segafredo,+4:28:32,2019
+125,KIRSCH Alex,27,Trek - Segafredo,+4:29:56,2019
+126,OWEN Logan,24,EF Education First,+4:31:27,2019
+127,ROSSETTO Stéphane,32,"Cofidis, Solutions Crédits",+4:31:47,2019
+128,BOARO Manuele,32,Astana Pro Team,+4:32:50,2019
+129,VENTER Jaco,32,Team Dimension Data,+4:33:59,2019
+130,TILLER Rasmus,23,Team Dimension Data,+4:34:22,2019
+131,BARTA Will,23,CCC Team,+4:36:26,2019
+132,HAUSSLER Heinrich,35,Bahrain Merida,+4:37:44,2019
+133,THEUNS Edward,28,Trek - Segafredo,+4:39:26,2019
+134,BENNETT Sam,28,BORA - hansgrohe,+4:41:44,2019
+135,SERRANO Gonzalo,25,Caja Rural - Seguros RGA,+4:42:56,2019
+136,CUBERO Jorge,26,Burgos-BH,+4:45:34,2019
+137,WALSCHEID Max,26,Team Sunweb,+4:46:52,2019
+138,KUZNETSOV Viacheslav,30,Team Katusha Alpecin,+4:50:26,2019
+139,SARREAU Marc,26,Groupama - FDJ,+4:56:21,2019
+140,ABERASTURI Jon,30,Caja Rural - Seguros RGA,+4:59:08,2019
+141,REIJNEN Kiel,33,Trek - Segafredo,+4:59:41,2019
+142,SAJNOK Szymon,22,CCC Team,+5:01:03,2019
+143,MOLANO Juan Sebastián,24,UAE Team Emirates,+5:01:03,2019
+144,WALLAYS Jelle,30,Lotto Soudal,+5:03:52,2019
+145,JAKOBSEN Fabio,23,Deceuninck - Quick Step,+5:06:45,2019
+146,RUBIO Diego,28,Burgos-BH,+5:07:04,2019
+147,GAVIRIA Fernando,25,UAE Team Emirates,+5:11:32,2019
+148,RICHEZE Maximiliano,36,Deceuninck - Quick Step,+5:20:32,2019
+149,BERNAS Paweł,29,CCC Team,+5:22:19,2019
+150,TROIA Oliviero,25,UAE Team Emirates,+5:25:27,2019
+151,ARCHBOLD Shane,30,BORA - hansgrohe,+5:30:01,2019
+152,HOFSTEDE Lennard,24,Team Jumbo-Visma,+5:40:23,2019
+153,BICO Nuno,25,Burgos-BH,+5:56:19,2019
+1,ROGLIČ Primož,31,Team Jumbo-Visma,72:46:12,2020
+2,CARAPAZ Richard,27,INEOS Grenadiers,+0:24,2020
+3,CARTHY Hugh,26,EF Pro Cycling,+1:15,2020
+4,MARTIN Dan,34,Israel Start-Up Nation,+2:43,2020
+5,MAS Enric,25,Movistar Team,+3:36,2020
+6,POELS Wout,33,Bahrain - McLaren,+7:16,2020
+7,DE LA CRUZ David,31,UAE Team Emirates,+7:35,2020
+8,GAUDU David,24,Groupama - FDJ,+7:45,2020
+9,GROßSCHARTNER Felix,26,BORA - hansgrohe,+8:15,2020
+10,VALVERDE Alejandro,40,Movistar Team,+9:34,2020
+11,VLASOV Aleksandr,24,Astana Pro Team,+9:36,2020
+12,BENNETT George,30,Team Jumbo-Visma,+14:04,2020
+13,NIEVE Mikel,36,Mitchelton-Scott,+14:47,2020
+14,MARTIN Guillaume,27,Cofidis,+15:07,2020
+15,HENAO Sergio,32,UAE Team Emirates,+15:36,2020
+16,KUSS Sepp,26,Team Jumbo-Visma,+16:26,2020
+17,CATTANEO Mattia,30,Deceuninck - Quick Step,+17:45,2020
+18,SOLER Marc,26,Movistar Team,+21:01,2020
+19,IZAGIRRE Gorka,33,Astana Pro Team,+21:46,2020
+20,MÄDER Gino,23,NTT Pro Cycling,+43:39,2020
+21,ZIMMERMANN Georg,23,CCC Team,+45:40,2020
+22,BARTA Will,24,CCC Team,+50:04,2020
+23,MATÉ Luis Ángel,36,Cofidis,+55:06,2020
+24,GOOSSENS Kobe,24,Lotto Soudal,+1:02:57,2020
+25,SCHULTZ Nick,26,Mitchelton-Scott,+1:03:46,2020
+26,HERRADA José,35,Cofidis,+1:05:17,2020
+27,CHAVES Esteban,30,Mitchelton-Scott,+1:09:51,2020
+28,ARMIRAIL Bruno,26,Groupama - FDJ,+1:10:22,2020
+29,IZAGIRRE Ion,31,Astana Pro Team,+1:12:12,2020
+30,VERONA Carlos,28,Movistar Team,+1:13:22,2020
+31,CHAMPOUSSIN Clément,22,AG2R La Mondiale,+1:21:20,2020
+32,ROJAS José Joaquín,35,Movistar Team,+1:22:36,2020
+33,VALGREN Michael,28,NTT Pro Cycling,+1:29:17,2020
+34,WOODS Michael,34,EF Pro Cycling,+1:29:26,2020
+35,GESINK Robert,34,Team Jumbo-Visma,+1:30:31,2020
+36,PETERS Nans,26,AG2R La Mondiale,+1:30:35,2020
+37,POWER Robert,25,Team Sunweb,+1:33:58,2020
+38,GODON Dorian,24,AG2R La Mondiale,+1:42:00,2020
+39,OLIVEIRA Nelson,31,Movistar Team,+1:42:02,2020
+40,STORER Michael,23,Team Sunweb,+1:43:56,2020
+41,ARENSMAN Thymen,20,Team Sunweb,+1:49:10,2020
+42,LÓPEZ Juan Pedro,23,Trek - Segafredo,+1:51:00,2020
+43,MADRAZO Ángel,32,Burgos-BH,+1:54:24,2020
+44,COSTA Rui,34,UAE Team Emirates,+1:54:48,2020
+45,SICARD Romain,32,Team Total Direct Energie,+1:55:44,2020
+46,VINGEGAARD Jonas,23,Team Jumbo-Visma,+1:57:00,2020
+47,ERVITI Imanol,36,Movistar Team,+1:57:22,2020
+48,DONOVAN Mark,21,Team Sunweb,+1:58:52,2020
+49,VAN BAARLE Dylan,28,INEOS Grenadiers,+1:59:36,2020
+50,AMEZQUETA Julen,27,Caja Rural - Seguros RGA,+1:59:58,2020
+51,HOFSTEDE Lennard,25,Team Jumbo-Visma,+1:59:59,2020
+52,AMADOR Andrey,34,INEOS Grenadiers,+2:10:34,2020
+53,BUITRAGO Santiago,21,Bahrain - McLaren,+2:14:34,2020
+54,GRMAY Tsgabu,29,Mitchelton-Scott,+2:15:16,2020
+55,SÜTTERLIN Jasha,28,Team Sunweb,+2:16:38,2020
+56,HIRT Jan,29,CCC Team,+2:20:00,2020
+57,SERRANO Gonzalo,26,Caja Rural - Seguros RGA,+2:20:05,2020
+58,KUDUS Merhawi,26,Astana Pro Team,+2:20:11,2020
+59,EG Niklas,25,Trek - Segafredo,+2:24:36,2020
+60,RIES Michel,22,Trek - Segafredo,+2:25:50,2020
+61,LASTRA Jonathan,27,Caja Rural - Seguros RGA,+2:29:21,2020
+62,SOSA Iván Ramiro,23,INEOS Grenadiers,+2:30:01,2020
+63,CABEDO Óscar,25,Burgos-BH,+2:30:26,2020
+64,FRAILE Omar,30,Astana Pro Team,+2:33:31,2020
+65,SIMON Julien,35,Team Total Direct Energie,+2:35:29,2020
+66,ROUX Anthony,33,Groupama - FDJ,+2:36:06,2020
+67,CORT Magnus,27,EF Pro Cycling,+2:38:21,2020
+68,LE GAC Olivier,27,Groupama - FDJ,+2:41:22,2020
+69,SCHELLING Ide,22,BORA - hansgrohe,+2:46:53,2020
+70,DEWULF Stan,22,Lotto Soudal,+2:48:18,2020
+71,GARCÍA Jhojan,22,Caja Rural - Seguros RGA,+2:48:52,2020
+72,HOLLENSTEIN Reto,35,Israel Start-Up Nation,+2:51:56,2020
+73,SMIT Willie,27,Burgos-BH,+2:52:11,2020
+74,SMITH Dion,27,Mitchelton-Scott,+2:54:19,2020
+75,ARANBURU Alex,25,Astana Pro Team,+2:54:43,2020
+76,STANNARD Robert,22,Mitchelton-Scott,+2:56:02,2020
+77,ARCAS Jorge,28,Movistar Team,+2:58:22,2020
+78,WELLENS Tim,29,Lotto Soudal,+3:05:52,2020
+79,OURSELIN Paul,26,Team Total Direct Energie,+3:06:13,2020
+80,BOL Jetse,31,Burgos-BH,+3:13:59,2020
+81,LAFAY Victor,24,Cofidis,+3:18:11,2020
+82,DE KORT Koen,38,Trek - Segafredo,+3:18:29,2020
+83,STEIMLE Jannik,24,Deceuninck - Quick Step,+3:18:31,2020
+84,CAVAGNA Rémi,25,Deceuninck - Quick Step,+3:18:33,2020
+85,PHILIPSEN Jasper,22,UAE Team Emirates,+3:21:10,2020
+86,HIVERT Jonathan,35,Team Total Direct Energie,+3:22:59,2020
+87,FERRON Valentin,22,Team Total Direct Energie,+3:24:10,2020
+88,SCOTSON Callum,24,Mitchelton-Scott,+3:24:18,2020
+89,EZQUERRA Jesús,29,Burgos-BH,+3:25:04,2020
+90,RIABUSHENKO Alexandr,25,UAE Team Emirates,+3:26:12,2020
+91,WRIGHT Fred,21,Bahrain - McLaren,+3:27:20,2020
+92,BAGÜES Aritz,31,Caja Rural - Seguros RGA,+3:29:48,2020
+93,GRUZDEV Dmitriy,34,Astana Pro Team,+3:30:29,2020
+94,DE BOD Stefan,23,NTT Pro Cycling,+3:30:39,2020
+95,WURF Cameron,37,INEOS Grenadiers,+3:31:14,2020
+96,VAN DER SANDE Tosh,29,Lotto Soudal,+3:31:47,2020
+97,PÉRICHON Pierre-Luc,33,Cofidis,+3:32:01,2020
+98,FROOME Chris,35,INEOS Grenadiers,+3:32:14,2020
+99,VILELA Ricardo,32,Burgos-BH,+3:32:34,2020
+100,VAN MOER Brent,22,Lotto Soudal,+3:33:40,2020
+101,OLIVEIRA Ivo,24,UAE Team Emirates,+3:38:14,2020
+102,ŠTYBAR Zdeněk,34,Deceuninck - Quick Step,+3:43:45,2020
+103,JANSE VAN RENSBURG Reinardt,31,NTT Pro Cycling,+3:43:49,2020
+104,MERTZ Rémy,25,Lotto Soudal,+3:44:39,2020
+105,OWEN Logan,25,EF Pro Cycling,+3:45:14,2020
+106,GOLDSTEIN Omer,24,Israel Start-Up Nation,+3:45:59,2020
+107,BARBERO Carlos,29,NTT Pro Cycling,+3:46:30,2020
+108,MARCZYŃSKI Tomasz,36,Lotto Soudal,+3:48:30,2020
+109,MARTENS Paul,37,Team Jumbo-Visma,+3:48:59,2020
+110,BADILATTI Matteo,28,Israel Start-Up Nation,+3:49:49,2020
+111,DAVIES Scott,25,Bahrain - McLaren,+3:52:18,2020
+112,KANTER Max,23,Team Sunweb,+3:53:44,2020
+113,VAN GARDEREN Tejay,32,EF Pro Cycling,+3:56:19,2020
+114,OSORIO Juan Felipe,25,Burgos-BH,+3:56:27,2020
+115,WIŚNIOWSKI Łukasz,28,CCC Team,+3:57:14,2020
+116,CEPEDA Jefferson Alveiro,24,Caja Rural - Seguros RGA,+3:57:46,2020
+117,ABERASTURI Jon,31,Caja Rural - Seguros RGA,+3:59:53,2020
+118,PALUTA Michał,25,CCC Team,+4:02:49,2020
+119,OLIVEIRA Rui,24,UAE Team Emirates,+4:03:39,2020
+120,GASPAROTTO Enrico,38,NTT Pro Cycling,+4:05:45,2020
+121,MØRKØV Michael,35,Deceuninck - Quick Step,+4:06:02,2020
+122,SCHWARZMANN Michael,29,BORA - hansgrohe,+4:06:11,2020
+123,SCHILLINGER Andreas,37,BORA - hansgrohe,+4:06:15,2020
+124,LIEPIŅŠ Emīls,28,Trek - Segafredo,+4:07:22,2020
+125,PICCOLI James,29,Israel Start-Up Nation,+4:08:40,2020
+126,VAN DEN BERG Julius,24,EF Pro Cycling,+4:09:53,2020
+127,GARRISON Ian,22,Deceuninck - Quick Step,+4:10:26,2020
+128,MOLENAAR Alex,21,Burgos-BH,+4:12:35,2020
+129,SUTHERLAND Rory,38,Israel Start-Up Nation,+4:14:17,2020
+130,DYBALL Benjamin,31,NTT Pro Cycling,+4:16:20,2020
+131,ACKERMANN Pascal,26,BORA - hansgrohe,+4:16:49,2020
+132,DOCKER Mitchell,34,EF Pro Cycling,+4:17:56,2020
+133,MANZIN Lorrenzo,26,Team Total Direct Energie,+4:19:58,2020
+134,MORIN Emmanuel,25,Cofidis,+4:20:39,2020
+135,EDMONDSON Alex,26,Mitchelton-Scott,+4:23:51,2020
+136,TERPSTRA Niki,36,Team Total Direct Energie,+4:36:59,2020
+137,BENNETT Sam,30,Deceuninck - Quick Step,+4:39:06,2020
+138,INKELAAR Kevin,23,Bahrain - McLaren,+4:39:48,2020
+139,RÄIM Mihkel,27,Israel Start-Up Nation,+4:46:31,2020
+140,LAAS Martin,27,BORA - hansgrohe,+4:55:40,2020
+141,SELIG Rüdiger,31,BORA - hansgrohe,+5:00:37,2020
+142,DELAGE Mickaël,35,Groupama - FDJ,+5:04:17,2020
+1,ROGLIČ Primož,31,Team Jumbo-Visma,83:55:29,2021
+2,MAS Enric,26,Movistar Team,+4:42,2021
+3,HAIG Jack,27,Bahrain - Victorious,+7:40,2021
+4,YATES Adam,29,INEOS Grenadiers,+9:06,2021
+5,MÄDER Gino,24,Bahrain - Victorious,+11:33,2021
+6,BERNAL Egan,24,INEOS Grenadiers,+13:27,2021
+7,DE LA CRUZ David,32,UAE Team Emirates,+18:33,2021
+8,KUSS Sepp,26,Team Jumbo-Visma,+18:55,2021
+9,MARTIN Guillaume,28,Cofidis,+20:27,2021
+10,GROßSCHARTNER Felix,27,BORA - hansgrohe,+22:22,2021
+11,EIKING Odd Christian,26,Intermarché - Wanty - Gobert Matériaux,+25:14,2021
+12,KRUIJSWIJK Steven,34,Team Jumbo-Visma,+26:42,2021
+13,LÓPEZ Juan Pedro,24,Trek - Segafredo,+31:21,2021
+14,BOUCHARD Geoffrey,29,AG2R Citroën Team,+49:09,2021
+15,ROCHAS Rémy,25,Cofidis,+52:32,2021
+16,CHAMPOUSSIN Clément,23,AG2R Citroën Team,+57:29,2021
+17,CARUSO Damiano,33,Bahrain - Victorious,+1:05:31,2021
+18,OOMEN Sam,26,Team Jumbo-Visma,+1:09:25,2021
+19,CABEDO Óscar,26,Burgos-BH,+1:12:43,2021
+20,CRAS Steff,25,Lotto Soudal,+1:22:06,2021
+21,MAJKA Rafał,31,UAE Team Emirates,+1:22:14,2021
+22,BRAMBILLA Gianluca,34,Trek - Segafredo,+1:22:38,2021
+23,POELS Wout,33,Bahrain - Victorious,+1:34:52,2021
+24,NAVARRO Daniel,38,Burgos-BH,+1:37:26,2021
+25,BARDET Romain,30,Team DSM,+1:37:27,2021
+26,IZAGIRRE Ion,32,Astana - Premier Tech,+1:37:47,2021
+27,IZAGIRRE Gorka,33,Astana - Premier Tech,+1:39:03,2021
+28,HIRT Jan,30,Intermarché - Wanty - Gobert Matériaux,+1:42:39,2021
+29,PETILLI Simone,28,Intermarché - Wanty - Gobert Matériaux,+1:45:51,2021
+30,MATÉ Luis Ángel,37,Euskaltel - Euskadi,+1:48:17,2021
+31,NIEVE Mikel,37,Team BikeExchange,+1:56:31,2021
+32,CEPEDA Jefferson Alveiro,25,Caja Rural - Seguros RGA,+1:58:54,2021
+33,CALMEJANE Lilian,28,AG2R Citroën Team,+2:03:52,2021
+34,TUSVELD Martijn,27,Team DSM,+2:04:06,2021
+35,SIVAKOV Pavel,24,INEOS Grenadiers,+2:04:47,2021
+36,GIBBONS Ryan,27,UAE Team Emirates,+2:05:50,2021
+37,MARTÍN Gotzon,25,Euskaltel - Euskadi,+2:10:39,2021
+38,HERRADA Jesús,31,Cofidis,+2:16:48,2021
+39,DOMBROWSKI Joe,30,UAE Team Emirates,+2:17:20,2021
+40,STORER Michael,24,Team DSM,+2:22:45,2021
+41,POLANC Jan,29,UAE Team Emirates,+2:22:55,2021
+42,BOUWMAN Koen,27,Team Jumbo-Visma,+2:24:30,2021
+43,AMEZQUETA Julen,28,Caja Rural - Seguros RGA,+2:25:16,2021
+44,ZEITS Andrey,34,Team BikeExchange,+2:27:52,2021
+45,CHEREL Mikaël,35,AG2R Citroën Team,+2:30:26,2021
+46,BIZKARRA Mikel,32,Euskaltel - Euskadi,+2:30:33,2021
+47,ZWIEHOFF Ben,27,BORA - hansgrohe,+2:32:29,2021
+48,DE TIER Floris,29,Alpecin-Fenix,+2:37:18,2021
+49,SCHULTZ Nick,26,Team BikeExchange,+2:39:13,2021
+50,KEUKELEIRE Jens,32,EF Education - Nippo,+2:48:20,2021
+51,ARU Fabio,31,Team Qhubeka NextHash,+2:49:04,2021
+52,PRODHOMME Nicolas,24,AG2R Citroën Team,+2:53:05,2021
+53,CAMARGO Diego Andrés,23,EF Education - Nippo,+2:53:47,2021
+54,HAMILTON Lucas,25,Team BikeExchange,+2:56:47,2021
+55,TAARAMÄE Rein,34,Intermarché - Wanty - Gobert Matériaux,+2:58:46,2021
+56,ROJAS José Joaquín,36,Movistar Team,+3:02:19,2021
+57,HERRADA José,35,Cofidis,+3:05:54,2021
+58,ROUX Anthony,34,Groupama - FDJ,+3:07:54,2021
+59,PADUN Mark,25,Bahrain - Victorious,+3:09:46,2021
+60,ITURRIA Mikel,29,Euskaltel - Euskadi,+3:14:26,2021
+61,ARENSMAN Thymen,21,Team DSM,+3:14:59,2021
+62,GESINK Robert,35,Team Jumbo-Visma,+3:15:18,2021
+63,MADRAZO Ángel,33,Burgos-BH,+3:15:38,2021
+64,HAMILTON Chris,26,Team DSM,+3:18:33,2021
+65,DEWULF Stan,23,AG2R Citroën Team,+3:21:21,2021
+66,ERVITI Imanol,37,Movistar Team,+3:28:24,2021
+67,PIDCOCK Thomas,22,INEOS Grenadiers,+3:31:54,2021
+68,KRON Andreas,23,Lotto Soudal,+3:34:35,2021
+69,CRADDOCK Lawson,29,EF Education - Nippo,+3:36:48,2021
+70,MATTHEWS Michael,30,Team BikeExchange,+3:39:31,2021
+71,BOL Jetse,31,Burgos-BH,+3:39:48,2021
+72,OLIVEIRA Nelson,32,Movistar Team,+3:39:49,2021
+73,VINE Jay,25,Alpecin-Fenix,+3:40:31,2021
+74,OLIVEIRA Rui,25,UAE Team Emirates,+3:42:10,2021
+75,OKAMIKA Ander,28,Burgos-BH,+3:43:42,2021
+76,LE GAC Olivier,28,Groupama - FDJ,+3:44:56,2021
+77,CORT Magnus,28,EF Education - Nippo,+3:46:48,2021
+78,CUADROS Álvaro,26,Caja Rural - Seguros RGA,+3:46:50,2021
+79,TOUZÉ Damien,25,AG2R Citroën Team,+3:47:28,2021
+80,TRENTIN Matteo,32,UAE Team Emirates,+3:47:40,2021
+81,SOTO Antonio Jesús,26,Euskaltel - Euskadi,+3:50:05,2021
+82,VAN HOOYDONCK Nathan,25,Team Jumbo-Visma,+3:50:19,2021
+83,MONIQUET Sylvain,23,Lotto Soudal,+3:52:10,2021
+84,SÁNCHEZ Pelayo,21,Burgos-BH,+3:52:29,2021
+85,GENIETS Kevin,24,Groupama - FDJ,+3:52:41,2021
+86,PICCOLI James,30,Israel Start-Up Nation,+3:52:52,2021
+87,BAGÜES Aritz,32,Caja Rural - Seguros RGA,+3:53:02,2021
+88,VAN GILS Maxim,21,Lotto Soudal,+3:53:55,2021
+89,BARCELÓ Fernando,25,Cofidis,+3:55:36,2021
+90,BAGIOLI Andrea,22,Deceuninck - Quick Step,+3:58:45,2021
+91,NATAROV Yuriy,24,Astana - Premier Tech,+4:02:04,2021
+92,FINÉ Eddy,23,Cofidis,+4:04:47,2021
+93,NIV Guy,27,Israel Start-Up Nation,+4:06:37,2021
+94,TRATNIK Jan,31,Bahrain - Victorious,+4:07:22,2021
+95,HOWSON Damien,29,Team BikeExchange,+4:10:16,2021
+96,DÉMARE Arnaud,30,Groupama - FDJ,+4:16:42,2021
+97,VENTURINI Clément,27,AG2R Citroën Team,+4:18:28,2021
+98,PUCCIO Salvatore,32,INEOS Grenadiers,+4:18:54,2021
+99,LUDVIGSSON Tobias,30,Groupama - FDJ,+4:19:24,2021
+100,KNOX James,25,Deceuninck - Quick Step,+4:20:47,2021
+101,VANSEVENANT Mauri,22,Deceuninck - Quick Step,+4:21:19,2021
+102,PALZER Anton,28,BORA - hansgrohe,+4:22:19,2021
+103,BOU Joan,24,Euskaltel - Euskadi,+4:22:43,2021
+104,SUNDERLAND Dylan,25,Team Qhubeka NextHash,+4:24:21,2021
+105,CLAEYS Dimitri,34,Team Qhubeka NextHash,+4:27:40,2021
+106,CANAL Carlos,20,Burgos-BH,+4:28:30,2021
+107,BENEDETTI Cesare,34,BORA - hansgrohe,+4:30:10,2021
+108,NIBALI Antonio,28,Trek - Segafredo,+4:30:22,2021
+109,MEZGEC Luka,33,Team BikeExchange,+4:30:30,2021
+110,KREDER Wesley,30,Intermarché - Wanty - Gobert Matériaux,+4:34:38,2021
+111,AZPARREN Xabier Mikel,22,Euskaltel - Euskadi,+4:36:40,2021
+112,GAMPER Patrick,24,BORA - hansgrohe,+4:38:23,2021
+113,HAGA Chad,33,Team DSM,+4:38:46,2021
+114,DENZ Nico,27,Team DSM,+4:42:09,2021
+115,VANHOUCKE Harm,24,Lotto Soudal,+4:42:31,2021
+116,ARASHIRO Yukiya,36,Bahrain - Victorious,+4:42:59,2021
+117,KRIEGER Alexander,29,Alpecin-Fenix,+4:47:15,2021
+118,SÉNÉCHAL Florian,28,Deceuninck - Quick Step,+4:48:14,2021
+119,STANNARD Robert,22,Team BikeExchange,+4:48:56,2021
+120,KIRSCH Alex,29,Trek - Segafredo,+4:50:22,2021
+121,VERMEERSCH Florian,22,Lotto Soudal,+4:57:09,2021
+122,PLANCKAERT Edward,26,Alpecin-Fenix,+5:03:10,2021
+123,ALLEGAERT Piet,26,Cofidis,+5:03:48,2021
+124,SIMMONS Quinn,20,Trek - Segafredo,+5:06:02,2021
+125,SCULLY Tom,31,EF Education - Nippo,+5:09:47,2021
+126,VAN MELSEN Kévin,34,Intermarché - Wanty - Gobert Matériaux,+5:10:04,2021
+127,SINKELDAM Ramon,32,Groupama - FDJ,+5:16:27,2021
+128,HOFSTEDE Lennard,26,Team Jumbo-Visma,+5:20:45,2021
+129,DAINESE Alberto,23,Team DSM,+5:20:50,2021
+130,BROWN Connor,23,Team Qhubeka NextHash,+5:22:42,2021
+131,LINDEMAN Bert-Jan,32,Team Qhubeka NextHash,+5:26:43,2021
+132,ABERASTURI Jon,32,Caja Rural - Seguros RGA,+5:29:29,2021
+133,ŠTYBAR Zdeněk,35,Deceuninck - Quick Step,+5:34:14,2021
+134,THWAITES Scott,31,Alpecin-Fenix,+5:36:20,2021
+135,BERWICK Sebastian,21,Israel Start-Up Nation,+5:37:10,2021
+136,LOBATO Juan José,32,Euskaltel - Euskadi,+5:45:39,2021
+137,VAN LERBERGHE Bert,28,Deceuninck - Quick Step,+5:48:13,2021
+138,MINALI Riccardo,26,Intermarché - Wanty - Gobert Matériaux,+5:50:15,2021
+139,MEEUS Jordi,23,BORA - hansgrohe,+5:53:36,2021
+140,LAAS Martin,27,BORA - hansgrohe,+6:00:28,2021
+141,JAKOBSEN Fabio,25,Deceuninck - Quick Step,+6:01:24,2021
+142,ČERNÝ Josef,28,Deceuninck - Quick Step,+6:03:50,2021
+1,EVENEPOEL Remco,22,Quick-Step Alpha Vinyl Team,80:26:59,2022
+2,MAS Enric,27,Movistar Team,+2:02,2022
+3,AYUSO Juan,19,UAE Team Emirates,+4:57,2022
+4,LÓPEZ Miguel Ángel,28,Astana Qazaqstan Team,+5:56,2022
+5,ALMEIDA João,24,UAE Team Emirates,+7:24,2022
+6,ARENSMAN Thymen,22,Team DSM,+7:45,2022
+7,RODRÍGUEZ Carlos,21,INEOS Grenadiers,+7:57,2022
+8,O'CONNOR Ben,26,AG2R Citroën Team,+10:30,2022
+9,URÁN Rigoberto,35,EF Education-EasyPost,+11:04,2022
+10,HINDLEY Jai,26,BORA - hansgrohe,+12:01,2022
+11,MEINTJES Louis,30,Intermarché - Wanty - Gobert Matériaux,+15:41,2022
+12,POLANC Jan,30,UAE Team Emirates,+21:39,2022
+13,VALVERDE Alejandro,42,Movistar Team,+25:39,2022
+14,CARAPAZ Richard,29,INEOS Grenadiers,+29:19,2022
+15,LANDA Mikel,32,Bahrain - Victorious,+44:13,2022
+16,SÁNCHEZ Luis León,38,Bahrain - Victorious,+45:49,2022
+17,PINOT Thibaut,32,Groupama - FDJ,+46:20,2022
+18,KELDERMAN Wilco,31,BORA - hansgrohe,+48:37,2022
+19,GEOGHEGAN HART Tao,27,INEOS Grenadiers,+49:11,2022
+20,MÄDER Gino,25,Bahrain - Victorious,+52:25,2022
+21,DE LA CRUZ David,33,Astana Qazaqstan Team,+1:00:15,2022
+22,CABEDO Óscar,27,Burgos-BH,+1:00:54,2022
+23,HIGUITA Sergio,25,BORA - hansgrohe,+1:01:23,2022
+24,REICHENBACH Sébastien,33,Groupama - FDJ,+1:01:39,2022
+25,CARTHY Hugh,28,EF Education-EasyPost,+1:04:31,2022
+26,PARRA José Félix,25,Equipo Kern Pharma,+1:05:02,2022
+27,SOLER Marc,28,UAE Team Emirates,+1:17:08,2022
+28,BIZKARRA Mikel,33,Euskaltel - Euskadi,+1:20:34,2022
+29,BAKELANTS Jan,36,Intermarché - Wanty - Gobert Matériaux,+1:21:33,2022
+30,OOMEN Sam,27,Jumbo-Visma,+1:22:43,2022
+31,MOLARD Rudy,32,Groupama - FDJ,+1:23:20,2022
+32,CHAMPOUSSIN Clément,24,AG2R Citroën Team,+1:24:39,2022
+33,HARPER Chris,27,Jumbo-Visma,+1:25:40,2022
+34,HAGEN Carl Fredrik,30,Israel - Premier Tech,+1:26:35,2022
+35,VERONA Carlos,29,Movistar Team,+1:28:33,2022
+36,ZAMBANINI Edoardo,21,Bahrain - Victorious,+1:31:40,2022
+37,OLIVEIRA Nelson,33,Movistar Team,+1:31:42,2022
+38,PRONSKIY Vadim,24,Astana Qazaqstan Team,+1:35:03,2022
+39,MEURISSE Xandro,30,Alpecin-Deceuninck,+1:42:47,2022
+40,VAN WILDER Ilan,22,Quick-Step Alpha Vinyl Team,+1:45:24,2022
+41,GESINK Robert,36,Jumbo-Visma,+1:47:49,2022
+42,GESBERT Élie,27,Team Arkéa Samsic,+1:55:17,2022
+43,DÍAZ José Manuel,27,Burgos-BH,+1:55:36,2022
+44,NAVARRO Daniel,39,Burgos-BH,+2:04:57,2022
+45,NIBALI Vincenzo,37,Astana Qazaqstan Team,+2:05:45,2022
+46,PADUN Mark,26,EF Education-EasyPost,+2:14:34,2022
+47,GARCÍA PIERNA Raúl,21,Equipo Kern Pharma,+2:15:48,2022
+48,ROJAS José Joaquín,37,Movistar Team,+2:17:50,2022
+49,VAN BAARLE Dylan,30,INEOS Grenadiers,+2:18:25,2022
+50,MÜHLBERGER Gregor,28,Movistar Team,+2:25:08,2022
+51,JUNGELS Bob,29,AG2R Citroën Team,+2:30:17,2022
+52,DENNIS Rohan,32,Jumbo-Visma,+2:30:38,2022
+53,VILLELLA Davide,31,Cofidis,+2:31:31,2022
+54,FABBRO Matteo,27,BORA - hansgrohe,+2:32:05,2022
+55,CRADDOCK Lawson,30,Team BikeExchange - Jayco,+2:32:14,2022
+56,HERRADA Jesús,32,Cofidis,+2:35:06,2022
+57,MASNADA Fausto,28,Quick-Step Alpha Vinyl Team,+2:38:11,2022
+58,VERVAEKE Louis,28,Quick-Step Alpha Vinyl Team,+2:38:29,2022
+59,FERNÁNDEZ Rubén,31,Cofidis,+2:39:15,2022
+60,GUGLIELMI Simon,25,Team Arkéa Samsic,+2:40:00,2022
+61,PETERS Nans,28,AG2R Citroën Team,+2:43:45,2022
+62,MATÉ Luis Ángel,38,Euskaltel - Euskadi,+2:44:52,2022
+63,GOLDSTEIN Omer,26,Israel - Premier Tech,+2:51:38,2022
+64,ELISSONDE Kenny,31,Trek - Segafredo,+3:00:24,2022
+65,TEJADA Harold,25,Astana Qazaqstan Team,+3:01:54,2022
+66,BERRADE Urko,24,Equipo Kern Pharma,+3:06:38,2022
+67,WRIGHT Fred,23,Bahrain - Victorious,+3:07:51,2022
+68,EZQUERRA Jesús,31,Burgos-BH,+3:09:07,2022
+69,CAICEDO Jonathan Klever,29,EF Education-EasyPost,+3:10:33,2022
+70,MCNULTY Brandon,24,UAE Team Emirates,+3:13:18,2022
+71,LUTSENKO Alexey,30,Astana Qazaqstan Team,+3:14:22,2022
+72,TURNER Ben,23,INEOS Grenadiers,+3:15:34,2022
+73,PRODHOMME Nicolas,25,AG2R Citroën Team,+3:16:03,2022
+74,BRENNER Marco,20,Team DSM,+3:19:54,2022
+75,BEVIN Patrick,31,Israel - Premier Tech,+3:20:37,2022
+76,MARTÍN Gotzon,26,Euskaltel - Euskadi,+3:22:03,2022
+77,ŘEPA Vojtěch,22,Equipo Kern Pharma,+3:27:42,2022
+78,HAMILTON Lucas,26,Team BikeExchange - Jayco,+3:28:54,2022
+79,KUDUS Merhawi,28,EF Education-EasyPost,+3:30:00,2022
+80,DE GENDT Thomas,35,Lotto Soudal,+3:33:27,2022
+81,STANNARD Robert,23,Alpecin-Deceuninck,+3:33:44,2022
+82,VERMEERSCH Gianni,29,Alpecin-Deceuninck,+3:42:48,2022
+83,BOU Joan,25,Euskaltel - Euskadi,+3:43:14,2022
+84,CANAL Carlos,21,Euskaltel - Euskadi,+3:43:36,2022
+85,SÜTTERLIN Jasha,29,Bahrain - Victorious,+3:44:28,2022
+86,AZURMENDI Ibai,26,Euskaltel - Euskadi,+3:48:06,2022
+87,SHAW James,26,EF Education-EasyPost,+3:48:57,2022
+88,BERNARD Julien,30,Trek - Segafredo,+3:51:02,2022
+89,BOL Jetse,33,Burgos-BH,+3:51:27,2022
+90,OWSIAN Łukasz,32,Team Arkéa Samsic,+3:51:50,2022
+91,TEUNISSEN Mike,30,Jumbo-Visma,+3:52:29,2022
+92,TIBERI Antonio,21,Trek - Segafredo,+3:52:58,2022
+93,ITURRIA Mikel,30,Euskaltel - Euskadi,+3:57:28,2022
+94,AZPARREN Xabier Mikel,23,Euskaltel - Euskadi,+3:59:57,2022
+95,PLAPP Luke,21,INEOS Grenadiers,+4:00:04,2022
+96,OKAMIKA Ander,29,Burgos-BH,+4:01:39,2022
+97,LÓPEZ Juan Pedro,25,Trek - Segafredo,+4:03:39,2022
+98,CHAMPION Thomas,23,Cofidis,+4:07:57,2022
+99,KOCH Jonas,29,BORA - hansgrohe,+4:08:48,2022
+100,DEVENYNS Dries,39,Quick-Step Alpha Vinyl Team,+4:09:15,2022
+101,IMPEY Daryl,37,Israel - Premier Tech,+4:10:52,2022
+102,PEDERSEN Mads,26,Trek - Segafredo,+4:14:48,2022
+103,DE MARCHI Alessandro,36,Israel - Premier Tech,+4:16:06,2022
+104,CAVAGNA Rémi,27,Quick-Step Alpha Vinyl Team,+4:16:33,2022
+105,GALVÁN Francisco,24,Equipo Kern Pharma,+4:16:50,2022
+106,NIEUWENHUIS Joris,26,Team DSM,+4:19:29,2022
+107,JANSSENS Jimmy,33,Alpecin-Deceuninck,+4:23:20,2022
+108,BEULLENS Cedric,25,Lotto Soudal,+4:25:23,2022
+109,SCOTSON Miles,28,Groupama - FDJ,+4:27:35,2022
+110,HVIDEBERG Jonas Iversby,23,Team DSM,+4:33:12,2022
+111,ACKERMANN Pascal,28,UAE Team Emirates,+4:33:23,2022
+112,DURBRIDGE Luke,31,Team BikeExchange - Jayco,+4:35:38,2022
+113,GROVES Kaden,23,Team BikeExchange - Jayco,+4:38:00,2022
+114,FROOME Chris,37,Israel - Premier Tech,+4:39:31,2022
+115,RAUGEL Antoine,23,AG2R Citroën Team,+4:41:39,2022
+116,RUSSO Clément,27,Team Arkéa Samsic,+4:42:15,2022
+117,CATALDO Dario,37,Trek - Segafredo,+4:48:07,2022
+118,HEPBURN Michael,31,Team BikeExchange - Jayco,+4:48:17,2022
+119,KIRSCH Alex,30,Trek - Segafredo,+4:50:17,2022
+120,MCLAY Daniel,30,Team Arkéa Samsic,+4:50:41,2022
+121,VAN POPPEL Danny,29,BORA - hansgrohe,+4:51:49,2022
+122,LIENHARD Fabian,29,Groupama - FDJ,+4:53:56,2022
+123,FEDOROV Yevgeniy,22,Astana Qazaqstan Team,+4:54:32,2022
+124,DEGENKOLB John,33,Team DSM,+4:56:40,2022
+125,MAŁECKI Kamil,26,Lotto Soudal,+5:00:05,2022
+126,MOLANO Juan Sebastián,27,UAE Team Emirates,+5:09:31,2022
+127,TAMINIAUX Lionel,26,Alpecin-Deceuninck,+5:11:20,2022
+128,MULLEN Ryan,28,BORA - hansgrohe,+5:13:47,2022
+129,JOHANSEN Julius,22,Intermarché - Wanty - Gobert Matériaux,+5:14:17,2022
+130,VAN DEN BERG Julius,25,EF Education-EasyPost,+5:15:43,2022
+131,OLIVEIRA Ivo,26,UAE Team Emirates,+5:19:55,2022
+132,MERLIER Tim,29,Alpecin-Deceuninck,+5:21:23,2022
+133,MAS Lluís,32,Movistar Team,+5:27:42,2022
+134,CIMOLAI Davide,33,Cofidis,+5:31:26,2022

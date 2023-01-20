@@ -1,0 +1,902 @@
+Rnk,Rider,Age,Team,Points,year
+1.0,OSA Aitor,29.0,iBanesto.com,107.0,2002
+2.0,HERAS Roberto,28.0,US Postal Service,99.0,2002
+3.0,FLECHA Juan Antonio,25.0,iBanesto.com,90.0,2002
+4.0,SIMONI Gilberto,31.0,Saeco - Longoni Sport,81.0,2002
+5.0,BLANCO Santiago,28.0,iBanesto.com,79.0,2002
+6.0,GARCÍA CASAS Felix Manuel,33.0,BigMat - Auber 93,67.0,2002
+7.0,PEREIRO Óscar,25.0,Phonak Hearing Systems,62.0,2002
+8.0,MARTÍN PERDIGUERO Miguel Ángel,29.0,Acqua & Sapone,54.0,2002
+9.0,CAUCCHIOLI Pietro,27.0,Alessio,54.0,2002
+10.0,SEVILLA Óscar,25.0,Kelme - Costa Blanca,51.0,2002
+11.0,LAGUNA Oscar,24.0,Colchon Relax - Fuenlabrada,49.0,2002
+12.0,BELOKI Joseba,29.0,O.N.C.E. - Eroski,49.0,2002
+13.0,MAYO Iban,25.0,Euskaltel - Euskadi,49.0,2002
+14.0,CLAIN Médéric,25.0,Cofidis,42.0,2002
+15.0,GONZÁLEZ Aitor,27.0,Kelme - Costa Blanca,39.0,2002
+16.0,TRENTIN Guido,26.0,Cofidis,30.0,2002
+17.0,SOUSA Rui,26.0,Milaneza - Mss,30.0,2002
+18.0,GUTIÉRREZ José Iván,23.0,iBanesto.com,30.0,2002
+19.0,CASAGRANDE Francesco,32.0,Fassa Bortolo,28.0,2002
+20.0,JEKER Fabian,33.0,Milaneza - Mss,26.0,2002
+21.0,ZUBELDIA Haimar,25.0,Euskaltel - Euskadi,22.0,2002
+22.0,GARCÍA ACOSTA José Vicente,30.0,iBanesto.com,21.0,2002
+23.0,FLORES Iker,26.0,Euskaltel - Euskadi,20.0,2002
+24.0,BRUYLANDTS Dave,26.0,Domo - Farm Frites,20.0,2002
+25.0,PÉREZ Luis,28.0,Team Coast,18.0,2002
+1.0,MONCOUTIÉ David,33.0,"Cofidis, le Crédit par Téléphone",149.0,2008
+2.0,KERN Christophe,27.0,Crédit Agricole,106.0,2008
+3.0,CONTADOR Alberto,25.0,Astana,99.0,2008
+4.0,GARATE Juan Manuel,32.0,Quickstep - Innergetic,89.0,2008
+5.0,LEIPHEIMER Levi,34.0,Astana,65.0,2008
+6.0,MOSQUERA Ezequiel,32.0,Xacobeo-Galicia,56.0,2008
+7.0,RODRÍGUEZ Joaquim,29.0,Caisse d'Epargne,51.0,2008
+8.0,VALVERDE Alejandro,28.0,Caisse d'Epargne,48.0,2008
+9.0,LANDALUZE Iñigo,31.0,Euskaltel - Euskadi,46.0,2008
+10.0,TJALLINGII Maarten,30.0,Silence - Lotto,43.0,2008
+11.0,ESKOV Nikita,25.0,Tinkoff Credit Systems,38.0,2008
+12.0,SASTRE Carlos,33.0,CSC ProTeam,36.0,2008
+13.0,JURČO Matej,24.0,Milram,36.0,2008
+14.0,DE MAAR Marc,24.0,Rabobank ProTeam,31.0,2008
+15.0,VAN GOOLEN Jurgen,27.0,CSC ProTeam,27.0,2008
+16.0,CASAR Sandy,29.0,Française des Jeux,26.0,2008
+17.0,ARROYO David,28.0,Caisse d'Epargne,25.0,2008
+18.0,GUSTOV Volodymyr,31.0,CSC ProTeam,22.0,2008
+19.0,KIRYIENKA Vasil,27.0,Tinkoff Credit Systems,22.0,2008
+20.0,GESINK Robert,22.0,Rabobank ProTeam,21.0,2008
+21.0,IGNATIEV Mikhail,23.0,Tinkoff Credit Systems,18.0,2008
+22.0,ROSENDO Jesús,26.0,Andalucia-Caja Sur,17.0,2008
+23.0,MAYOZ Iban,26.0,Xacobeo-Galicia,17.0,2008
+24.0,ARRIETA José Luis,37.0,AG2R La Mondiale,16.0,2008
+25.0,GARCÍA DAPENA David,30.0,Xacobeo-Galicia,16.0,2008
+26.0,MINARD Sébastien,26.0,"Cofidis, le Crédit par Téléphone",15.0,2008
+27.0,MARTÍNEZ Egoi,30.0,Euskaltel - Euskadi,14.0,2008
+28.0,LOSADA Alberto,26.0,Caisse d'Epargne,14.0,2008
+29.0,TIRALONGO Paolo,31.0,Lampre,13.0,2008
+30.0,HINAULT Sébastien,34.0,Crédit Agricole,12.0,2008
+31.0,LOUBET Julien,23.0,AG2R La Mondiale,12.0,2008
+32.0,VELITS Martin,23.0,Milram,11.0,2008
+33.0,MORENO Daniel,27.0,Caisse d'Epargne,10.0,2008
+34.0,PASAMONTES Luis,28.0,Caisse d'Epargne,10.0,2008
+35.0,FLORENCIO Xavier,28.0,Bouygues Telecom,10.0,2008
+36.0,VAN AVERMAET Greg,23.0,Silence - Lotto,10.0,2008
+37.0,PÉREZ Alan,26.0,Euskaltel - Euskadi,10.0,2008
+38.0,BRUSEGHIN Marzio,34.0,Lampre,9.0,2008
+39.0,PAULINHO Sérgio Miguel,28.0,Astana,9.0,2008
+40.0,ZANDIO Xabier,31.0,Caisse d'Epargne,9.0,2008
+41.0,DUQUE Leonardo Fabio,28.0,"Cofidis, le Crédit par Téléphone",9.0,2008
+42.0,MARTÍNEZ Serafín,24.0,Xacobeo-Galicia,8.0,2008
+43.0,ZAUGG Oliver,27.0,Gerolsteiner,8.0,2008
+44.0,PEDRAZA Wálter Fernando,26.0,Tinkoff Credit Systems,8.0,2008
+45.0,VIGANÒ Davide,24.0,Quickstep - Innergetic,8.0,2008
+46.0,ORTEGA Manuel,27.0,Andalucia-Caja Sur,7.0,2008
+47.0,MORENO Javier,24.0,Andalucia-Caja Sur,7.0,2008
+48.0,RUBIERA José Luis,35.0,Astana,7.0,2008
+49.0,NOVAL Benjamín,29.0,Astana,7.0,2008
+50.0,MARTÍNEZ Francisco José,25.0,Andalucia-Caja Sur,7.0,2008
+51.0,CUESTA Iñigo,39.0,CSC ProTeam,6.0,2008
+52.0,BRESCHEL Matti,24.0,CSC ProTeam,6.0,2008
+53.0,SANTAROMITA Ivan,24.0,Liquigas,6.0,2008
+54.0,TXURRUKA Amets,25.0,Euskaltel - Euskadi,5.0,2008
+55.0,FLECHA Juan Antonio,31.0,Rabobank ProTeam,5.0,2008
+56.0,MURAVYEV Dmitriy,28.0,Astana,5.0,2008
+57.0,GRIVKO Andrey,25.0,Milram,4.0,2008
+58.0,VELASCO Iván,28.0,Euskaltel - Euskadi,4.0,2008
+59.0,LEMOINE Cyril,25.0,Crédit Agricole,4.0,2008
+60.0,BAZAYEV Assan,27.0,Astana,4.0,2008
+61.0,NIERMANN Grischa,32.0,Rabobank ProTeam,3.0,2008
+62.0,VAITKUS Tomas,26.0,Astana,3.0,2008
+63.0,FRANZOI Enrico,26.0,Liquigas,3.0,2008
+64.0,AGNOLI Valerio,23.0,Liquigas,3.0,2008
+65.0,BINDI Emanuele,26.0,Lampre,3.0,2008
+66.0,KLÖDEN Andreas,33.0,Astana,2.0,2008
+67.0,NOCENTINI Rinaldo,30.0,AG2R La Mondiale,2.0,2008
+68.0,PÉREZ Rubén,26.0,Euskaltel - Euskadi,2.0,2008
+69.0,ERVITI Imanol,24.0,Caisse d'Epargne,2.0,2008
+70.0,VANENDERT Jelle,23.0,Française des Jeux,2.0,2008
+71.0,ASTARLOZA Mikel,28.0,Euskaltel - Euskadi,1.0,2008
+72.0,BONNAIRE Olivier,25.0,Bouygues Telecom,1.0,2008
+73.0,MORI Massimiliano,34.0,Lampre,1.0,2008
+74.0,CARRASCO José Luis,26.0,Andalucia-Caja Sur,1.0,2008
+1.0,MONCOUTIÉ David,34.0,"Cofidis, le Crédit en Ligne",186.0,2009
+2.0,DE LA FUENTE David,28.0,Fuji-Servetto,99.0,2009
+3.0,SÁNCHEZ Julián,29.0,Contentpolis - Ampo,73.0,2009
+4.0,VALVERDE Alejandro,29.0,Caisse d'Epargne,67.0,2009
+5.0,MOSQUERA Ezequiel,33.0,Xacobeo-Galicia,61.0,2009
+6.0,WEENING Pieter,28.0,Rabobank ProTeam,60.0,2009
+7.0,RAMÍREZ Javier,31.0,Andalucia-Caja Sur,59.0,2009
+8.0,GESINK Robert,23.0,Rabobank ProTeam,58.0,2009
+9.0,HOOGERLAND Johnny,26.0,Vacansoleil,54.0,2009
+10.0,SÁNCHEZ Samuel,31.0,Euskaltel - Euskadi,52.0,2009
+11.0,FERNÁNDEZ Bingen,36.0,"Cofidis, le Crédit en Ligne",51.0,2009
+12.0,EVANS Cadel,32.0,Silence - Lotto,45.0,2009
+13.0,VORGANOV Eduard,26.0,Xacobeo-Galicia,34.0,2009
+14.0,TAARAMÄE Rein,22.0,"Cofidis, le Crédit en Ligne",34.0,2009
+15.0,MARTIN Dan,23.0,Team Garmin - Slipstream,32.0,2009
+16.0,BASSO Ivan,31.0,Liquigas,32.0,2009
+17.0,FUGLSANG Jakob,24.0,Saxo Bank,32.0,2009
+18.0,GARCÍA DAPENA David,31.0,Xacobeo-Galicia,29.0,2009
+19.0,CÉSAR VELOSO Gustavo,29.0,Xacobeo-Galicia,25.0,2009
+20.0,RIBLON Christophe,28.0,AG2R La Mondiale,24.0,2009
+21.0,BOOM Lars,23.0,Rabobank ProTeam,22.0,2009
+22.0,EL FARES Julien,24.0,"Cofidis, le Crédit en Ligne",21.0,2009
+23.0,TXURRUKA Amets,26.0,Euskaltel - Euskadi,20.0,2009
+24.0,COBO Juan José,28.0,Fuji-Servetto,19.0,2009
+25.0,MOERENHOUT Koos,35.0,Rabobank ProTeam,19.0,2009
+26.0,RODRÍGUEZ Joaquim,30.0,Caisse d'Epargne,18.0,2009
+27.0,MARTÍNEZ Serafín,25.0,Xacobeo-Galicia,17.0,2009
+28.0,BOŽIČ Borut,29.0,Vacansoleil,16.0,2009
+29.0,ANTÓN Igor,26.0,Euskaltel - Euskadi,14.0,2009
+30.0,DEIGNAN Philip,26.0,Cervelo Test Team,13.0,2009
+31.0,PALOMARES Adrián,33.0,Contentpolis - Ampo,13.0,2009
+32.0,HERNÁNDEZ Aitor,27.0,Euskaltel - Euskadi,12.0,2009
+33.0,RABUÑAL Gonzalo,25.0,Xacobeo-Galicia,12.0,2009
+34.0,VÁZQUEZ Manuel,28.0,Contentpolis - Ampo,12.0,2009
+35.0,KREUZIGER Roman,23.0,Liquigas,11.0,2009
+36.0,PÉREZ Alan,27.0,Euskaltel - Euskadi,11.0,2009
+37.0,TIRALONGO Paolo,32.0,Lampre - NGC,10.0,2009
+38.0,HERRERO David,29.0,Xacobeo-Galicia,10.0,2009
+39.0,VALJAVEC Tadej,32.0,AG2R La Mondiale,10.0,2009
+40.0,DEL NERO Jesús,27.0,Fuji-Servetto,10.0,2009
+41.0,HINAULT Sébastien,35.0,AG2R La Mondiale,10.0,2009
+42.0,GARATE Juan Manuel,33.0,Rabobank ProTeam,9.0,2009
+43.0,PÉREZ Aitor,32.0,Contentpolis - Ampo,9.0,2009
+44.0,KESSIAKOFF Fredrik,29.0,Fuji-Servetto,8.0,2009
+45.0,VOß Paul,23.0,Milram,8.0,2009
+46.0,DE GREEF Francis,24.0,Silence - Lotto,7.0,2009
+47.0,INTXAUSTI Beñat,23.0,Fuji-Servetto,7.0,2009
+48.0,ROSENDO Jesús,27.0,Andalucia-Caja Sur,6.0,2009
+49.0,HERNÁNDEZ BLÁZQUEZ Jesús,27.0,Astana,6.0,2009
+50.0,KNEES Christian,28.0,Milram,6.0,2009
+51.0,MARTÍNEZ Egoi,31.0,Euskaltel - Euskadi,6.0,2009
+52.0,KOLOBNEV Alexandr,28.0,Saxo Bank,5.0,2009
+53.0,ZANDIO Xabier,32.0,Caisse d'Epargne,5.0,2009
+54.0,GARCÍA ACOSTA José Vicente,37.0,Caisse d'Epargne,5.0,2009
+55.0,DE WEERT Kevin,27.0,Quickstep - Innergetic,4.0,2009
+56.0,BONNET William,27.0,Bbox Bouygues Telecom,4.0,2009
+57.0,KIRYIENKA Vasil,28.0,Caisse d'Epargne,3.0,2009
+58.0,SZMYD Sylwester,31.0,Liquigas,3.0,2009
+59.0,MOINARD Amaël,27.0,"Cofidis, le Crédit en Ligne",3.0,2009
+60.0,CHEREL Mikaël,23.0,Française des Jeux,3.0,2009
+61.0,TANKINK Bram,30.0,Rabobank ProTeam,3.0,2009
+62.0,DURÁN Arkaitz,23.0,Fuji-Servetto,3.0,2009
+63.0,ISASI Iñaki,32.0,Euskaltel - Euskadi,3.0,2009
+64.0,DEVOLDER Stijn,30.0,Quickstep - Innergetic,3.0,2009
+65.0,PÉREZ Francisco,31.0,Caisse d'Epargne,3.0,2009
+66.0,VELITS Martin,24.0,Milram,3.0,2009
+67.0,LAGUTIN Sergey,28.0,Vacansoleil,3.0,2009
+68.0,PRONK Matthé,35.0,Vacansoleil,3.0,2009
+69.0,DUQUE Leonardo Fabio,29.0,"Cofidis, le Crédit en Ligne",2.0,2009
+70.0,DEMARET Jean-Eudes,25.0,"Cofidis, le Crédit en Ligne",2.0,2009
+71.0,MORENO Daniel,28.0,Caisse d'Epargne,1.0,2009
+72.0,NAVARRO Daniel,26.0,Astana,1.0,2009
+73.0,FLORENCIO Xavier,29.0,Cervelo Test Team,1.0,2009
+74.0,ROELS Dominik,22.0,Milram,1.0,2009
+75.0,REYNÉS Vicente,28.0,Team Columbia - HTC,1.0,2009
+1.0,MONCOUTIÉ David,35.0,"Cofidis, le Crédit en Ligne",51.0,2010
+2.0,MARTÍNEZ Serafín,26.0,Xacobeo-Galicia,43.0,2010
+3.0,MOSQUERA Ezequiel,34.0,Xacobeo-Galicia,36.0,2010
+4.0,RODRÍGUEZ Joaquim,31.0,Team Katusha,29.0,2010
+5.0,NIBALI Vincenzo,25.0,Liquigas - Doimo,26.0,2010
+6.0,SÁNCHEZ Luis León,26.0,Caisse d'Epargne,25.0,2010
+7.0,RABUÑAL Gonzalo,26.0,Xacobeo-Galicia,25.0,2010
+8.0,NIEVE Mikel,26.0,Euskaltel - Euskadi,21.0,2010
+9.0,TSCHOPP Johann,28.0,Bbox Bouygues Telecom,18.0,2010
+10.0,SCHLECK Fränk,30.0,Saxo Bank,17.0,2010
+11.0,BARREDO Carlos,29.0,Quickstep - Innergetic,15.0,2010
+12.0,GILBERT Philippe,28.0,Omega Pharma-Lotto,15.0,2010
+13.0,TONDO Xavier,31.0,Cervelo Test Team,15.0,2010
+14.0,TERPSTRA Niki,26.0,Milram,14.0,2010
+15.0,PLAZA Rubén,30.0,Caisse d'Epargne,11.0,2010
+16.0,LE MÉVEL Christophe,30.0,Francaise des Jeux,10.0,2010
+17.0,PUJOL Óscar,26.0,Cervelo Test Team,10.0,2010
+18.0,DE WEERT Kevin,28.0,Quickstep - Innergetic,10.0,2010
+19.0,SIJMENS Nico,32.0,"Cofidis, le Crédit en Ligne",10.0,2010
+20.0,MILLAR David,33.0,Team Garmin - Transitions,9.0,2010
+21.0,GALLOPIN Tony,22.0,"Cofidis, le Crédit en Ligne",9.0,2010
+22.0,CATALDO Dario,25.0,Quickstep - Innergetic,8.0,2010
+23.0,CUESTA Iñigo,41.0,Cervelo Test Team,8.0,2010
+24.0,TURPIN Ludovic,35.0,AG2R La Mondiale,6.0,2010
+25.0,MORENO Javier,26.0,Andalucia-Caja Sur,6.0,2010
+26.0,VELITS Martin,25.0,Team HTC - Columbia,6.0,2010
+27.0,GARCÍA DAPENA David,32.0,Xacobeo-Galicia,5.0,2010
+28.0,KARPETS Vladimir,29.0,Team Katusha,5.0,2010
+29.0,MORI Manuele,30.0,Lampre - Farnese Vini,5.0,2010
+30.0,KADRI Blel,24.0,AG2R La Mondiale,5.0,2010
+31.0,CARRASCO Sergio,25.0,Andalucia-Caja Sur,5.0,2010
+32.0,DAVIS Allan,30.0,Astana,4.0,2010
+33.0,ROCHE Nicolas,26.0,AG2R La Mondiale,4.0,2010
+34.0,BRUSEGHIN Marzio,36.0,Caisse d'Epargne,4.0,2010
+35.0,TXURRUKA Amets,27.0,Euskaltel - Euskadi,4.0,2010
+36.0,MARZANO Marco,30.0,Lampre - Farnese Vini,4.0,2010
+37.0,VAN AVERMAET Greg,25.0,Omega Pharma-Lotto,4.0,2010
+38.0,CHEREL Mikaël,24.0,Francaise des Jeux,4.0,2010
+39.0,FINETTO Mauro,25.0,Liquigas - Doimo,4.0,2010
+40.0,CARUSO Giampaolo,30.0,Team Katusha,3.0,2010
+41.0,MONTENEGRO Jorge Martín,27.0,Andalucia-Caja Sur,3.0,2010
+42.0,CÉSAR VELOSO Gustavo,30.0,Xacobeo-Galicia,3.0,2010
+43.0,URÁN Rigoberto,23.0,Caisse d'Epargne,2.0,2010
+44.0,PERAUD Jean-Christophe,33.0,Omega Pharma-Lotto,2.0,2010
+45.0,BONNAFOND Guillaume,23.0,AG2R La Mondiale,2.0,2010
+46.0,RAMÍREZ Javier,32.0,Andalucia-Caja Sur,2.0,2010
+47.0,CAZAUX Pierre,26.0,Francaise des Jeux,2.0,2010
+48.0,PEDERSEN Martin,27.0,Footon-Servetto,2.0,2010
+49.0,GUSEV Vladimir,28.0,Team Katusha,1.0,2010
+50.0,PETERSON Tom,23.0,Team Garmin - Transitions,1.0,2010
+51.0,KREUZIGER Roman,24.0,Liquigas - Doimo,1.0,2010
+52.0,LÓPEZ David,29.0,Caisse d'Epargne,1.0,2010
+53.0,PASAMONTES Luis,30.0,Caisse d'Epargne,1.0,2010
+54.0,ERVITI Imanol,26.0,Caisse d'Epargne,1.0,2010
+55.0,BAZAYEV Assan,29.0,Astana,1.0,2010
+56.0,ZINGLE Romain,23.0,"Cofidis, le Crédit en Ligne",1.0,2010
+57.0,WILLEMS Frederik,31.0,Liquigas - Doimo,1.0,2010
+58.0,QUÉMÉNEUR Perrig,26.0,Bbox Bouygues Telecom,1.0,2010
+59.0,KAISEN Olivier,27.0,Omega Pharma-Lotto,1.0,2010
+60.0,ISAYCHEV Vladimir,24.0,Xacobeo-Galicia,1.0,2010
+61.0,WALKER Johnnie,23.0,Footon-Servetto,1.0,2010
+1.0,MONCOUTIÉ David,36.0,"Cofidis, le Crédit en Ligne",63.0,2011
+2.0,MONTAGUTI Matteo,27.0,AG2R La Mondiale,56.0,2011
+3.0,COBO Juan José,30.0,Geox-TMC Transformers,42.0,2011
+4.0,MARTIN Dan,25.0,Team Garmin - Cervélo,33.0,2011
+5.0,MORENO Daniel,30.0,Team Katusha,32.0,2011
+6.0,DE LA FUENTE David,30.0,Geox-TMC Transformers,24.0,2011
+7.0,SIJMENS Nico,33.0,"Cofidis, le Crédit en Ligne",22.0,2011
+8.0,FROOME Chris,26.0,Sky Procycling,21.0,2011
+9.0,SØRENSEN Chris Anker,27.0,Saxo Bank - Sungard,20.0,2011
+10.0,DE KORT Koen,29.0,Skil - Shimano,19.0,2011
+11.0,MORI Manuele,31.0,Lampre - ISD,18.0,2011
+12.0,MOLLEMA Bauke,24.0,Rabobank Cycling Team,16.0,2011
+13.0,POELS Wout,23.0,Vacansoleil - DCM,14.0,2011
+14.0,INTXAUSTI Beñat,25.0,Movistar Team,13.0,2011
+15.0,BARREDO Carlos,30.0,Rabobank Cycling Team,12.0,2011
+16.0,ANTÓN Igor,28.0,Euskaltel - Euskadi,12.0,2011
+17.0,BRUSEGHIN Marzio,37.0,Movistar Team,12.0,2011
+18.0,LELAY David,31.0,AG2R La Mondiale,10.0,2011
+19.0,VORGANOV Eduard,28.0,Team Katusha,10.0,2011
+20.0,BONNAFOND Guillaume,24.0,AG2R La Mondiale,9.0,2011
+21.0,VERDUGO Gorka,32.0,Euskaltel - Euskadi,9.0,2011
+22.0,PIDGORNYY Ruslan,34.0,Vacansoleil - DCM,9.0,2011
+23.0,PAULINHO Sérgio Miguel,31.0,RadioShack,9.0,2011
+24.0,SÁNCHEZ Luis León,27.0,Rabobank Cycling Team,9.0,2011
+25.0,LASTRAS Pablo,35.0,Movistar Team,8.0,2011
+26.0,WIGGINS Bradley,31.0,Sky Procycling,8.0,2011
+27.0,RODRÍGUEZ Joaquim,32.0,Team Katusha,8.0,2011
+28.0,TXURRUKA Amets,28.0,Euskaltel - Euskadi,8.0,2011
+29.0,HAUSSLER Heinrich,27.0,Team Garmin - Cervélo,7.0,2011
+30.0,FOUCHARD Julien,25.0,"Cofidis, le Crédit en Ligne",7.0,2011
+31.0,MENCHOV Denis,33.0,Geox-TMC Transformers,6.0,2011
+32.0,SASTRE Carlos,36.0,Geox-TMC Transformers,6.0,2011
+33.0,ROHREGGER Thomas,28.0,Leopard Trek,6.0,2011
+34.0,LE MÉVEL Christophe,31.0,Team Garmin - Cervélo,6.0,2011
+35.0,PALOMARES Adrián,35.0,Andalucia - Caja Granada,6.0,2011
+36.0,RIGHI Daniele,35.0,Lampre - ISD,6.0,2011
+37.0,GESCHKE Simon,25.0,Skil - Shimano,5.0,2011
+38.0,CHAVANEL Sylvain,32.0,Quickstep Cycling Team,5.0,2011
+39.0,DE MAAR Marc,27.0,Quickstep Cycling Team,5.0,2011
+40.0,BAGOT Yoann,24.0,"Cofidis, le Crédit en Ligne",5.0,2011
+41.0,NIEMIEC Przemysław,31.0,Lampre - ISD,4.0,2011
+42.0,FRANK Mathias,24.0,BMC Racing Team,4.0,2011
+43.0,IRIZAR Markel,31.0,RadioShack,3.0,2011
+44.0,MARTENS Paul,27.0,Rabobank Cycling Team,3.0,2011
+45.0,DE GREEF Francis,26.0,Omega Pharma-Lotto,3.0,2011
+46.0,MATÉ Luis Ángel,27.0,"Cofidis, le Crédit en Ligne",3.0,2011
+47.0,CARUSO Damiano,23.0,Liquigas - Cannondale,3.0,2011
+48.0,SLAGTER Tom-Jelte,22.0,Rabobank Cycling Team,3.0,2011
+49.0,TALANSKY Andrew,22.0,Team Garmin - Cervélo,3.0,2011
+50.0,HANSEN Adam,30.0,Omega Pharma-Lotto,3.0,2011
+51.0,LAGUTIN Sergey,30.0,Vacansoleil - DCM,2.0,2011
+52.0,ROCHE Nicolas,27.0,AG2R La Mondiale,2.0,2011
+53.0,MARTÍNEZ Egoi,33.0,Euskaltel - Euskadi,2.0,2011
+54.0,ROSENDO Jesús,29.0,Andalucia - Caja Granada,2.0,2011
+55.0,KIŠERLOVSKI Robert,25.0,Pro Team Astana,1.0,2011
+56.0,SEELDRAEYERS Kevin,24.0,Quickstep Cycling Team,1.0,2011
+57.0,KANGERT Tanel,24.0,Pro Team Astana,1.0,2011
+58.0,ISASI Iñaki,34.0,Euskaltel - Euskadi,1.0,2011
+59.0,BERNABÉU David,36.0,Andalucia - Caja Granada,1.0,2011
+60.0,CHAMPION Dimitri,28.0,AG2R La Mondiale,1.0,2011
+61.0,ROLDÁN Jose Luis,25.0,Andalucia - Caja Granada,1.0,2011
+62.0,DYACHENKO Alexandr,27.0,Pro Team Astana,1.0,2011
+63.0,VANDEWALLE Kristof,26.0,Quickstep Cycling Team,1.0,2011
+64.0,ALBASINI Michael,30.0,HTC - High Road,1.0,2011
+65.0,HOWARD Leigh,21.0,HTC - High Road,1.0,2011
+1.0,CLARKE Simon,26.0,Orica GreenEDGE,63.0,2012
+2.0,DE LA FUENTE David,31.0,Caja Rural,40.0,2012
+3.0,RODRÍGUEZ Joaquim,33.0,Team Katusha,36.0,2012
+1.0,EDET Nicolas,25.0,"Cofidis, Solutions Crédits",46.0,2013
+2.0,HORNER Chris,41.0,RadioShack - Leopard,32.0,2013
+3.0,RATTO Daniele,23.0,Cannondale Pro Cycling Team,30.0,2013
+4.0,CARDOSO André,29.0,Caja Rural - Seguros RGA,26.0,2013
+5.0,NIBALI Vincenzo,28.0,Astana Pro Team,23.0,2013
+6.0,TXURRUKA Amets,30.0,Caja Rural - Seguros RGA,22.0,2013
+7.0,ELISSONDE Kenny,22.0,FDJ.fr,21.0,2013
+8.0,ROCHE Nicolas,29.0,Team Saxo - Tinkoff,19.0,2013
+9.0,KIRYIENKA Vasil,32.0,Sky Procycling,18.0,2013
+10.0,SCARPONI Michele,33.0,Lampre - Merida,17.0,2013
+11.0,GENIEZ Alexandre,25.0,FDJ.fr,17.0,2013
+12.0,ULISSI Diego,24.0,Lampre - Merida,16.0,2013
+13.0,VALVERDE Alejandro,33.0,Movistar Team,16.0,2013
+14.0,CHEREL Mikaël,27.0,AG2R La Mondiale,16.0,2013
+15.0,BARGUIL Warren,21.0,Team Argos - Shimano,14.0,2013
+16.0,HANSEN Adam,32.0,Lotto Belisol Team,13.0,2013
+17.0,MORENO Daniel,32.0,Team Katusha,13.0,2013
+18.0,KÖNIG Leopold,25.0,Team NetApp - Endura,12.0,2013
+19.0,TIRALONGO Paolo,36.0,Astana Pro Team,10.0,2013
+20.0,RODRÍGUEZ Joaquim,34.0,Team Katusha,10.0,2013
+21.0,PREIDLER Georg,23.0,Team Argos - Shimano,9.0,2013
+22.0,SØRENSEN Chris Anker,29.0,Team Saxo - Tinkoff,9.0,2013
+23.0,MARTÍNEZ Egoi,35.0,Euskaltel - Euskadi,9.0,2013
+24.0,BOASSON HAGEN Edvald,26.0,Sky Procycling,8.0,2013
+25.0,PAUWELS Serge,29.0,Omega Pharma - Quick-Step,8.0,2013
+26.0,POZZOVIVO Domenico,30.0,AG2R La Mondiale,7.0,2013
+27.0,ARAMENDIA Javier,26.0,Caja Rural - Seguros RGA,7.0,2013
+28.0,SIJMENS Nico,35.0,"Cofidis, Solutions Crédits",6.0,2013
+29.0,NERZ Dominik,24.0,BMC Racing Team,6.0,2013
+30.0,URÁN Rigoberto,26.0,Sky Procycling,6.0,2013
+31.0,ANACONA Winner,25.0,Lampre - Merida,5.0,2013
+32.0,HUZARSKI Bartosz,32.0,Team NetApp - Endura,4.0,2013
+33.0,ZINGLE Romain,26.0,"Cofidis, Solutions Crédits",3.0,2013
+34.0,FLECHA Juan Antonio,35.0,Vacansoleil - DCM,3.0,2013
+35.0,PINOT Thibaut,23.0,FDJ.fr,2.0,2013
+36.0,HERRADA José,27.0,Movistar Team,2.0,2013
+37.0,DE GREEF Francis,28.0,Lotto Belisol Team,2.0,2013
+38.0,OROZ Juan José,33.0,Euskaltel - Euskadi,2.0,2013
+39.0,NOCENTINI Rinaldo,35.0,AG2R La Mondiale,2.0,2013
+40.0,KOHLER Martin,28.0,BMC Racing Team,2.0,2013
+41.0,WYSS Danilo,28.0,BMC Racing Team,2.0,2013
+42.0,PIEDRA Antonio,27.0,Caja Rural - Seguros RGA,2.0,2013
+43.0,FERRARI Fabricio,28.0,Caja Rural - Seguros RGA,2.0,2013
+44.0,SÁNCHEZ Samuel,35.0,Euskaltel - Euskadi,1.0,2013
+45.0,ARROYO David,33.0,Caja Rural - Seguros RGA,1.0,2013
+46.0,FUGLSANG Jakob,28.0,Astana Pro Team,1.0,2013
+47.0,PINEAU Cédric,28.0,FDJ.fr,1.0,2013
+48.0,RASMUSSEN Alex,29.0,Garmin Sharp,1.0,2013
+1.0,SÁNCHEZ Luis León,30.0,Caja Rural - Seguros RGA,58.0,2014
+2.0,CONTADOR Alberto,31.0,Tinkoff - Saxo,45.0,2014
+3.0,VALVERDE Alejandro,34.0,Movistar Team,40.0,2014
+4.0,NIEMIEC Przemysław,34.0,Lampre - Merida,33.0,2014
+5.0,FROOME Chris,29.0,Team Sky,33.0,2014
+6.0,MAS Lluís,24.0,Caja Rural - Seguros RGA,20.0,2014
+7.0,ARU Fabio,24.0,Astana Pro Team,19.0,2014
+8.0,RODRÍGUEZ Joaquim,35.0,Team Katusha,19.0,2014
+9.0,ANACONA Winner,26.0,Lampre - Merida,18.0,2014
+10.0,DE MARCHI Alessandro,28.0,Cannondale,18.0,2014
+11.0,HESJEDAL Ryder,33.0,Garmin Sharp,16.0,2014
+12.0,POELS Wout,26.0,Omega Pharma - Quick-Step,15.0,2014
+13.0,COUSIN Jérôme,25.0,Team Europcar,13.0,2014
+14.0,LUTSENKO Alexey,22.0,Astana Pro Team,11.0,2014
+15.0,BILBAO Pello,24.0,Caja Rural - Seguros RGA,11.0,2014
+16.0,CUNEGO Damiano,32.0,Lampre - Merida,11.0,2014
+17.0,MÉDEREL Maxime,33.0,Team Europcar,9.0,2014
+18.0,ZAUGG Oliver,33.0,Tinkoff - Saxo,8.0,2014
+19.0,DENNIS Rohan,24.0,BMC Racing Team,8.0,2014
+20.0,MORENO Javier,30.0,Movistar Team,7.0,2014
+21.0,TXURRUKA Amets,31.0,Caja Rural - Seguros RGA,7.0,2014
+22.0,COPPEL Jérôme,28.0,"Cofidis, Solutions Crédits",7.0,2014
+23.0,WYSS Danilo,29.0,BMC Racing Team,7.0,2014
+24.0,MARTINEZ Yannick,26.0,Team Europcar,6.0,2014
+25.0,LIGTHART Pim,26.0,Lotto Belisol,6.0,2014
+26.0,DUPONT Hubert,33.0,AG2R La Mondiale,5.0,2014
+27.0,DE CLERCQ Bart,28.0,Lotto Belisol,4.0,2014
+28.0,ERVITI Imanol,30.0,Movistar Team,4.0,2014
+29.0,LE BON Johan,23.0,FDJ.fr,4.0,2014
+30.0,MALORI Adriano,26.0,Movistar Team,4.0,2014
+31.0,KIRYIENKA Vasil,33.0,Team Sky,3.0,2014
+32.0,HAAS Nathan,25.0,Garmin Sharp,3.0,2014
+33.0,JANSE VAN RENSBURG Jacques,27.0,MTN - Qhubeka,3.0,2014
+34.0,YATES Adam,22.0,Orica GreenEDGE,3.0,2014
+35.0,VANDEWALLE Kristof,29.0,Trek Factory Racing,3.0,2014
+36.0,ROWE Luke,24.0,Team Sky,3.0,2014
+37.0,MANGEL Laurent,33.0,FDJ.fr,3.0,2014
+38.0,BARGUIL Warren,22.0,Team Giant - Shimano,2.0,2014
+39.0,PARDILLA Sergio,30.0,MTN - Qhubeka,2.0,2014
+40.0,KOLOBNEV Alexandr,33.0,Team Katusha,2.0,2014
+41.0,SIUTSOU Kanstantsin,32.0,Team Sky,2.0,2014
+42.0,SBARAGLI Kristian,24.0,MTN - Qhubeka,2.0,2014
+43.0,FAVILLI Elia,25.0,Lampre - Merida,2.0,2014
+44.0,THOMSON Jay Robert,28.0,MTN - Qhubeka,2.0,2014
+45.0,ENGOULVENT Jimmy,34.0,Team Europcar,2.0,2014
+46.0,SÁNCHEZ Samuel,36.0,BMC Racing Team,1.0,2014
+47.0,SICARD Romain,26.0,Team Europcar,1.0,2014
+48.0,DEIGNAN Philip,31.0,Team Sky,1.0,2014
+49.0,LOSADA Alberto,32.0,Team Katusha,1.0,2014
+50.0,HANSEN Adam,33.0,Lotto Belisol,1.0,2014
+51.0,MEINTJES Louis,22.0,MTN - Qhubeka,1.0,2014
+52.0,CLEMENT Stef,31.0,Belkin-Pro Cycling Team,1.0,2014
+53.0,ARAMENDIA Javier,27.0,Caja Rural - Seguros RGA,1.0,2014
+54.0,CONTI Valerio,21.0,Lampre - Merida,1.0,2014
+1.0,FRAILE Omar,25.0,Caja Rural - Seguros RGA,82.0,2015
+2.0,PLAZA Rubén,35.0,Lampre - Merida,63.0,2015
+3.0,SCHLECK Fränk,35.0,Trek Factory Racing,30.0,2015
+4.0,DE MARCHI Alessandro,29.0,BMC Racing Team,28.0,2015
+5.0,LANDA Mikel,25.0,Astana Pro Team,25.0,2015
+6.0,GONÇALVES José,26.0,Caja Rural - Seguros RGA,24.0,2015
+7.0,TORRES Rodolfo Andrés,28.0,Team Colombia,22.0,2015
+8.0,ROLLAND Pierre,28.0,Team Europcar,20.0,2015
+9.0,ROJAS José Joaquín,30.0,Movistar Team,19.0,2015
+10.0,CHEREL Mikaël,29.0,AG2R La Mondiale,18.0,2015
+11.0,LINDEMAN Bert-Jan,26.0,Team LottoNL-Jumbo,16.0,2015
+12.0,RODRÍGUEZ Joaquim,36.0,Team Katusha,15.0,2015
+13.0,PUCCIO Salvatore,26.0,Team Sky,15.0,2015
+14.0,DUMOULIN Tom,24.0,Team Giant - Alpecin,13.0,2015
+15.0,ROCHE Nicolas,31.0,Team Sky,13.0,2015
+16.0,ARU Fabio,25.0,Astana Pro Team,13.0,2015
+17.0,VISCONTI Giovanni,32.0,Movistar Team,12.0,2015
+18.0,VERONA Carlos,22.0,Etixx - Quick Step,12.0,2015
+19.0,MOSER Moreno,24.0,Team Cannondale - Garmin,12.0,2015
+20.0,ELISSONDE Kenny,24.0,FDJ,11.0,2015
+21.0,SICARD Romain,27.0,Team Europcar,11.0,2015
+22.0,ERVITI Imanol,31.0,Movistar Team,10.0,2015
+23.0,OLIVEIRA Nelson,26.0,Lampre - Merida,9.0,2015
+24.0,BOSWELL Ian,24.0,Team Sky,9.0,2015
+25.0,BOUET Maxime,28.0,Etixx - Quick Step,8.0,2015
+26.0,MADRAZO Ángel,27.0,Caja Rural - Seguros RGA,8.0,2015
+27.0,MAJKA Rafał,26.0,Tinkoff - Saxo,8.0,2015
+28.0,ZUBELDIA Haimar,38.0,Trek Factory Racing,8.0,2015
+29.0,ATAPUMA Darwin,27.0,BMC Racing Team,8.0,2015
+30.0,PEDRAZA Wálter Fernando,33.0,Team Colombia,7.0,2015
+31.0,BENNETT George,25.0,Team LottoNL-Jumbo,7.0,2015
+32.0,BERHANE Natnael,24.0,MTN - Qhubeka,7.0,2015
+33.0,KOSHEVOY Ilia,24.0,Lampre - Merida,7.0,2015
+34.0,GOUGEARD Alexis,22.0,AG2R La Mondiale,6.0,2015
+35.0,CHAVES Esteban,25.0,Orica GreenEDGE,6.0,2015
+36.0,MORENO Daniel,34.0,Team Katusha,6.0,2015
+37.0,VENTOSO Francisco José,33.0,Movistar Team,6.0,2015
+38.0,ROLLIN Dominique,32.0,"Cofidis, Solutions Crédits",5.0,2015
+39.0,MONFORT Maxime,32.0,Lotto Soudal,4.0,2015
+40.0,WARBASSE Larry,25.0,IAM Cycling,4.0,2015
+41.0,CHAVANEL Sylvain,36.0,IAM Cycling,4.0,2015
+42.0,ARASHIRO Yukiya,30.0,Team Europcar,4.0,2015
+43.0,QUINTERO Carlos,29.0,Team Colombia,4.0,2015
+44.0,POLJAŃSKI Paweł,25.0,Tinkoff - Saxo,3.0,2015
+45.0,GAUTIER Cyril,27.0,Team Europcar,3.0,2015
+46.0,BILBAO Pello,25.0,Caja Rural - Seguros RGA,3.0,2015
+47.0,HOWES Alex,27.0,Team Cannondale - Garmin,3.0,2015
+48.0,AMADOR Andrey,29.0,Movistar Team,3.0,2015
+49.0,SERRY Pieter,26.0,Etixx - Quick Step,3.0,2015
+50.0,RUBIANO Miguel Angel,30.0,Team Colombia,3.0,2015
+51.0,QUINTANA Nairo,25.0,Movistar Team,2.0,2015
+52.0,ARROYO David,35.0,Caja Rural - Seguros RGA,2.0,2015
+53.0,DE CLERCQ Bart,29.0,Lotto Soudal,2.0,2015
+54.0,HENAO Sergio,27.0,Team Sky,2.0,2015
+55.0,LOSADA Alberto,33.0,Team Katusha,2.0,2015
+56.0,ĐURASEK Kristijan,28.0,Lampre - Merida,2.0,2015
+57.0,COUSIN Jérôme,26.0,Team Europcar,2.0,2015
+58.0,KNEES Christian,34.0,Team Sky,2.0,2015
+59.0,VILLELLA Davide,24.0,Team Cannondale - Garmin,2.0,2015
+60.0,CARDOSO André,31.0,Team Cannondale - Garmin,1.0,2015
+61.0,NAVARRO Daniel,32.0,"Cofidis, Solutions Crédits",1.0,2015
+62.0,MONTAGUTI Matteo,31.0,AG2R La Mondiale,1.0,2015
+63.0,VILELA Ricardo,27.0,Caja Rural - Seguros RGA,1.0,2015
+64.0,HANSEN Adam,34.0,Lotto Soudal,1.0,2015
+65.0,BAGOT Yoann,28.0,"Cofidis, Solutions Crédits",1.0,2015
+1.0,FRAILE Omar,26.0,Team Dimension Data,58.0,2016
+2.0,ELISSONDE Kenny,25.0,FDJ,57.0,2016
+3.0,GESINK Robert,30.0,Team LottoNL-Jumbo,37.0,2016
+4.0,GENIEZ Alexandre,28.0,FDJ,28.0,2016
+5.0,QUINTANA Nairo,26.0,Movistar Team,27.0,2016
+6.0,SILIN Egor,28.0,Team Katusha,23.0,2016
+7.0,LAGUTIN Sergey,35.0,Team Katusha,22.0,2016
+8.0,DE GENDT Thomas,29.0,Lotto Soudal,19.0,2016
+9.0,BRAMBILLA Gianluca,29.0,Etixx - Quick Step,18.0,2016
+10.0,MATÉ Luis Ángel,32.0,"Cofidis, Solutions Crédits",18.0,2016
+11.0,FROOME Chris,31.0,Team Sky,16.0,2016
+12.0,ATAPUMA Darwin,28.0,BMC Racing Team,16.0,2016
+13.0,LATOUR Pierre,22.0,AG2R La Mondiale,15.0,2016
+14.0,MOLARD Rudy,26.0,"Cofidis, Solutions Crédits",15.0,2016
+15.0,FRANK Mathias,29.0,IAM Cycling,14.0,2016
+16.0,LÓPEZ David,35.0,Team Sky,12.0,2016
+17.0,FELLINE Fabio,26.0,Trek - Segafredo,10.0,2016
+18.0,DE LA CRUZ David,27.0,Etixx - Quick Step,9.0,2016
+19.0,BENNETT George,26.0,Team LottoNL-Jumbo,9.0,2016
+20.0,SÁNCHEZ Luis León,32.0,Astana Pro Team,9.0,2016
+21.0,KÖNIG Leopold,28.0,Team Sky,9.0,2016
+22.0,SBARAGLI Kristian,26.0,Team Dimension Data,8.0,2016
+23.0,DEVENYNS Dries,33.0,IAM Cycling,8.0,2016
+24.0,BAKELANTS Jan,30.0,AG2R La Mondiale,8.0,2016
+25.0,DOMONT Axel,26.0,AG2R La Mondiale,8.0,2016
+26.0,VALVERDE Alejandro,36.0,Movistar Team,7.0,2016
+27.0,BILBAO Pello,26.0,Caja Rural - Seguros RGA,7.0,2016
+28.0,CALMEJANE Lilian,23.0,Direct Energie,5.0,2016
+29.0,BEPPU Fumiyuki,33.0,Trek - Segafredo,5.0,2016
+30.0,PFINGSTEN Christoph,28.0,Bora - Argon 18,5.0,2016
+31.0,SERRY Pieter,27.0,Etixx - Quick Step,5.0,2016
+32.0,PELLAUD Simon,23.0,IAM Cycling,4.0,2016
+33.0,YATES Simon,24.0,ORICA-BikeExchange,4.0,2016
+34.0,BERNARD Julien,24.0,Trek - Segafredo,4.0,2016
+35.0,QUÉMÉNEUR Perrig,32.0,Direct Energie,4.0,2016
+36.0,LAENGEN Vegard Stake,27.0,IAM Cycling,4.0,2016
+37.0,MACHADO Tiago,30.0,Team Katusha,3.0,2016
+38.0,ZEITS Andrey,29.0,Astana Pro Team,3.0,2016
+39.0,FERNÁNDEZ Rubén,25.0,Movistar Team,3.0,2016
+40.0,TROFIMOV Yuri,32.0,Tinkoff,3.0,2016
+41.0,ROLLAND Pierre,29.0,Cannondale-Drapac Pro Cycling Team,3.0,2016
+42.0,CONTI Valerio,23.0,Lampre - Merida,3.0,2016
+43.0,ARMÉE Sander,30.0,Lotto Soudal,3.0,2016
+44.0,BENEDETTI Cesare,29.0,Bora - Argon 18,3.0,2016
+45.0,ZUBELDIA Haimar,39.0,Trek - Segafredo,2.0,2016
+46.0,KENNAUGH Peter,27.0,Team Sky,2.0,2016
+47.0,VILLELLA Davide,25.0,Cannondale-Drapac Pro Cycling Team,2.0,2016
+48.0,ROSSETTO Stéphane,29.0,"Cofidis, Solutions Crédits",2.0,2016
+49.0,MOSER Moreno,25.0,Cannondale-Drapac Pro Cycling Team,2.0,2016
+50.0,CATTANEO Mattia,25.0,Lampre - Merida,2.0,2016
+51.0,STAMSNIJDER Tom,31.0,Team Giant - Alpecin,2.0,2016
+52.0,CARDIS Romain,24.0,Direct Energie,2.0,2016
+53.0,CONTADOR Alberto,33.0,Tinkoff,1.0,2016
+54.0,MORENO Daniel,35.0,Movistar Team,1.0,2016
+55.0,PARDILLA Sergio,32.0,Caja Rural - Seguros RGA,1.0,2016
+56.0,KING Ben,27.0,Cannondale-Drapac Pro Cycling Team,1.0,2016
+57.0,CATALDO Dario,31.0,Astana Pro Team,1.0,2016
+58.0,SMUKULIS Gatis,29.0,Astana Pro Team,1.0,2016
+59.0,ERVITI Imanol,32.0,Movistar Team,1.0,2016
+60.0,WALLAYS Jelle,27.0,Lotto Soudal,1.0,2016
+61.0,JAUREGUI Quentin,22.0,AG2R La Mondiale,1.0,2016
+62.0,LADAGNOUS Matthieu,31.0,FDJ,1.0,2016
+63.0,DIDIER Laurent,32.0,Trek - Segafredo,1.0,2016
+64.0,BYSTRØM Sven Erik,24.0,Team Katusha,1.0,2016
+65.0,CAMPENAERTS Victor,24.0,Team LottoNL-Jumbo,1.0,2016
+66.0,NAULEAU Bryan,28.0,Direct Energie,1.0,2016
+1.0,VILLELLA Davide,26.0,Cannondale-Drapac Pro Cycling Team,67.0,2017
+2.0,LÓPEZ Miguel Ángel,23.0,Astana Pro Team,47.0,2017
+3.0,FROOME Chris,32.0,Team Sky,35.0,2017
+4.0,ROJAS José Joaquín,32.0,Movistar Team,33.0,2017
+5.0,DE GENDT Thomas,30.0,Lotto Soudal,30.0,2017
+6.0,MARCZYŃSKI Tomasz,33.0,Lotto Soudal,28.0,2017
+7.0,MAJKA Rafał,27.0,BORA - hansgrohe,28.0,2017
+8.0,DENIFL Stefan,29.0,Aqua Blue Sport,28.0,2017
+9.0,CONTADOR Alberto,34.0,Trek - Segafredo,27.0,2017
+10.0,BARDET Romain,26.0,AG2R La Mondiale,25.0,2017
+11.0,ZAKARIN Ilnur,27.0,Team Katusha Alpecin,24.0,2017
+12.0,SOLER Marc,23.0,Movistar Team,21.0,2017
+13.0,ARMÉE Sander,31.0,Lotto Soudal,18.0,2017
+14.0,ATAPUMA Darwin,29.0,UAE Team Emirates,18.0,2017
+15.0,YATES Adam,25.0,ORICA-Scott,16.0,2017
+16.0,CHAVES Esteban,27.0,ORICA-Scott,15.0,2017
+17.0,NIBALI Vincenzo,32.0,Bahrain Merida Pro Cycling Team,14.0,2017
+18.0,KELDERMAN Wilco,26.0,Team Sunweb,14.0,2017
+19.0,POLANC Jan,25.0,UAE Team Emirates,14.0,2017
+20.0,MAS Lluís,27.0,Caja Rural - Seguros RGA,11.0,2017
+21.0,POELS Wout,29.0,Team Sky,10.0,2017
+22.0,ROSSETTO Stéphane,30.0,"Cofidis, Solutions Crédits",9.0,2017
+23.0,LUTSENKO Alexey,25.0,Astana Pro Team,9.0,2017
+24.0,CANTY Brendan,25.0,Cannondale-Drapac Pro Cycling Team,9.0,2017
+25.0,ALAPHILIPPE Julian,25.0,Quick-Step Floors,8.0,2017
+26.0,DE MARCHI Alessandro,31.0,BMC Racing Team,8.0,2017
+27.0,TRENTIN Matteo,28.0,Quick-Step Floors,8.0,2017
+28.0,KRUIJSWIJK Steven,30.0,Team LottoNL-Jumbo,7.0,2017
+29.0,MAS Enric,22.0,Quick-Step Floors,7.0,2017
+30.0,WOODS Michael,30.0,Cannondale-Drapac Pro Cycling Team,6.0,2017
+31.0,MORENO Daniel,36.0,Movistar Team,6.0,2017
+32.0,COSTA Rui,30.0,UAE Team Emirates,6.0,2017
+33.0,OSORIO Juan Felipe,22.0,Manzana Postobon,6.0,2017
+34.0,JANSE VAN RENSBURG Jacques,30.0,Team Dimension Data,5.0,2017
+35.0,NIEMIEC Przemysław,37.0,UAE Team Emirates,5.0,2017
+36.0,MOHORIČ Matej,22.0,UAE Team Emirates,4.0,2017
+37.0,DE VREESE Laurens,28.0,Astana Pro Team,4.0,2017
+38.0,ROSÓN Jaime,24.0,Caja Rural - Seguros RGA,4.0,2017
+39.0,FERRARI Fabricio,32.0,Caja Rural - Seguros RGA,4.0,2017
+40.0,ROCHE Nicolas,33.0,BMC Racing Team,3.0,2017
+41.0,GARCÍA CORTINA Iván,21.0,Bahrain Merida Pro Cycling Team,3.0,2017
+42.0,LUDVIGSSON Tobias,26.0,FDJ,3.0,2017
+43.0,POLJAŃSKI Paweł,27.0,BORA - hansgrohe,3.0,2017
+44.0,GOUGEARD Alexis,24.0,AG2R La Mondiale,3.0,2017
+45.0,MATÉ Luis Ángel,33.0,"Cofidis, Solutions Crédits",2.0,2017
+46.0,PELLIZOTTI Franco,39.0,Bahrain Merida Pro Cycling Team,2.0,2017
+47.0,PANTANO Jarlinson,28.0,Trek - Segafredo,2.0,2017
+48.0,YATES Simon,25.0,ORICA-Scott,2.0,2017
+49.0,VISCONTI Giovanni,34.0,Bahrain Merida Pro Cycling Team,2.0,2017
+50.0,CHEVRIER Clément,25.0,AG2R La Mondiale,2.0,2017
+51.0,DE TIER Floris,25.0,Team LottoNL-Jumbo,2.0,2017
+52.0,CLARKE Simon,31.0,Cannondale-Drapac Pro Cycling Team,2.0,2017
+53.0,KRAGH ANDERSEN Søren,23.0,Team Sunweb,2.0,2017
+54.0,LINDEMAN Bert-Jan,28.0,Team LottoNL-Jumbo,2.0,2017
+55.0,SKUJIŅŠ Toms,26.0,Cannondale-Drapac Pro Cycling Team,2.0,2017
+56.0,RUBIO Diego,26.0,Caja Rural - Seguros RGA,2.0,2017
+57.0,ORJUELA Fernando,25.0,Manzana Postobon,2.0,2017
+58.0,TOLHOEK Antwan,23.0,Team LottoNL-Jumbo,1.0,2017
+59.0,OLIVEIRA Nelson,28.0,Movistar Team,1.0,2017
+60.0,VILELA Ricardo,29.0,Manzana Postobon,1.0,2017
+61.0,ROSA Diego,28.0,Team Sky,1.0,2017
+62.0,BUCHMANN Emanuel,24.0,BORA - hansgrohe,1.0,2017
+63.0,VENTOSO Francisco José,35.0,BMC Racing Team,1.0,2017
+64.0,KONRAD Patrick,25.0,BORA - hansgrohe,1.0,2017
+65.0,COURTEILLE Arnaud,28.0,FDJ,1.0,2017
+66.0,CORT Magnus,24.0,ORICA-Scott,1.0,2017
+67.0,REIS Rafael,25.0,Caja Rural - Seguros RGA,1.0,2017
+1.0,DE GENDT Thomas,31.0,Lotto Soudal,95.0,2018
+2.0,MOLLEMA Bauke,31.0,Trek - Segafredo,83.0,2018
+3.0,MATÉ Luis Ángel,34.0,"Cofidis, Solutions Crédits",64.0,2018
+4.0,KING Ben,29.0,Team Dimension Data,56.0,2018
+5.0,LÓPEZ Miguel Ángel,24.0,Astana Pro Team,45.0,2018
+6.0,YATES Simon,26.0,Mitchelton-Scott,38.0,2018
+7.0,PINOT Thibaut,28.0,Groupama - FDJ,36.0,2018
+8.0,ROLLAND Pierre,31.0,Team EF Education First-Drapac p/b Cannondale,31.0,2018
+9.0,WOODS Michael,31.0,Team EF Education First-Drapac p/b Cannondale,21.0,2018
+10.0,KWIATKOWSKI Michał,28.0,Team Sky,20.0,2018
+11.0,MAS Enric,23.0,Quick-Step Floors,18.0,2018
+12.0,VALVERDE Alejandro,38.0,Movistar Team,17.0,2018
+13.0,TEUNS Dylan,26.0,BMC Racing Team,16.0,2018
+14.0,MAJKA Rafał,29.0,BORA - hansgrohe,15.0,2018
+15.0,RODRÍGUEZ Óscar,23.0,Euskadi - Murias,12.0,2018
+16.0,HERRADA Jesús,28.0,"Cofidis, Solutions Crédits",10.0,2018
+17.0,KRUIJSWIJK Steven,31.0,Team LottoNL-Jumbo,8.0,2018
+18.0,GASTAUER Ben,30.0,AG2R La Mondiale,7.0,2018
+19.0,ROCHE Nicolas,34.0,BMC Racing Team,7.0,2018
+20.0,DE MARCHI Alessandro,32.0,BMC Racing Team,6.0,2018
+21.0,QUINTANA Nairo,28.0,Movistar Team,6.0,2018
+22.0,STALNOV Nikita,27.0,Astana Pro Team,6.0,2018
+23.0,ROSSETTO Stéphane,31.0,"Cofidis, Solutions Crédits",5.0,2018
+24.0,NIBALI Vincenzo,33.0,Bahrain Merida Pro Cycling Team,5.0,2018
+25.0,SÁEZ Héctor,24.0,Euskadi - Murias,4.0,2018
+26.0,URÁN Rigoberto,31.0,Team EF Education First-Drapac p/b Cannondale,4.0,2018
+27.0,DE LA CRUZ David,29.0,Team Sky,4.0,2018
+28.0,BENNETT George,28.0,Team LottoNL-Jumbo,4.0,2018
+29.0,CLARKE Simon,32.0,Team EF Education First-Drapac p/b Cannondale,4.0,2018
+30.0,FRAILE Omar,28.0,Astana Pro Team,4.0,2018
+31.0,PETERS Nans,24.0,AG2R La Mondiale,4.0,2018
+32.0,PORTE Richie,33.0,BMC Racing Team,4.0,2018
+33.0,CUBERO Jorge,25.0,Burgos-BH,4.0,2018
+34.0,HAIG Jack,25.0,Mitchelton-Scott,3.0,2018
+35.0,DE TIER Floris,26.0,Team LottoNL-Jumbo,3.0,2018
+36.0,PELLIZOTTI Franco,40.0,Bahrain Merida Pro Cycling Team,3.0,2018
+37.0,BOOKWALTER Brent,34.0,BMC Racing Team,3.0,2018
+38.0,BUCHMANN Emanuel,25.0,BORA - hansgrohe,2.0,2018
+39.0,FORMOLO Davide,25.0,BORA - hansgrohe,2.0,2018
+40.0,CONTI Valerio,25.0,UAE Team Emirates,2.0,2018
+41.0,SCHULTZ Nick,24.0,Caja Rural - Seguros RGA,2.0,2018
+42.0,SERRY Pieter,29.0,Quick-Step Floors,2.0,2018
+43.0,GENIEZ Alexandre,30.0,AG2R La Mondiale,2.0,2018
+44.0,RESTREPO Jhonatan,23.0,Team Katusha Alpecin,2.0,2018
+45.0,BRAMBILLA Gianluca,31.0,Trek - Segafredo,1.0,2018
+46.0,ZAKARIN Ilnur,29.0,Team Katusha Alpecin,1.0,2018
+47.0,HENAO Sergio,30.0,Team Sky,1.0,2018
+48.0,MAS Lluís,28.0,Caja Rural - Seguros RGA,1.0,2018
+49.0,VILLELLA Davide,27.0,Astana Pro Team,1.0,2018
+50.0,CATALDO Dario,33.0,Astana Pro Team,1.0,2018
+51.0,VINCENT Léo,22.0,Groupama - FDJ,1.0,2018
+52.0,MACHADO Tiago,32.0,Team Katusha Alpecin,1.0,2018
+53.0,GARCÍA CORTINA Iván,22.0,Bahrain Merida Pro Cycling Team,1.0,2018
+54.0,BOOM Lars,32.0,Team LottoNL-Jumbo,1.0,2018
+1.0,BOUCHARD Geoffrey,27.0,AG2R La Mondiale,76.0,2019
+2.0,MADRAZO Ángel,31.0,Burgos-BH,44.0,2019
+3.0,SAMITIER Sergio,24.0,Euskadi Basque Country - Murias,42.0,2019
+4.0,POGAČAR Tadej,20.0,UAE Team Emirates,38.0,2019
+5.0,GEOGHEGAN HART Tao,24.0,Team INEOS,35.0,2019
+6.0,POELS Wout,31.0,Team INEOS,31.0,2019
+7.0,VALVERDE Alejandro,39.0,Movistar Team,29.0,2019
+8.0,HENAO Sergio,31.0,UAE Team Emirates,27.0,2019
+9.0,FUGLSANG Jakob,34.0,Astana Pro Team,24.0,2019
+10.0,BIZKARRA Mikel,30.0,Euskadi Basque Country - Murias,22.0,2019
+11.0,ROGLIČ Primož,29.0,Team Jumbo-Visma,22.0,2019
+12.0,SOLER Marc,25.0,Movistar Team,21.0,2019
+13.0,GUERREIRO Ruben,25.0,Team Katusha Alpecin,16.0,2019
+14.0,HERRADA José,33.0,"Cofidis, Solutions Crédits",14.0,2019
+15.0,GILBERT Philippe,37.0,Deceuninck - Quick Step,13.0,2019
+16.0,HIGUITA Sergio,22.0,EF Education First,12.0,2019
+17.0,KUSS Sepp,25.0,Team Jumbo-Visma,12.0,2019
+18.0,QUINTANA Nairo,29.0,Movistar Team,12.0,2019
+19.0,LÓPEZ Miguel Ángel,25.0,Astana Pro Team,12.0,2019
+20.0,PERNSTEINER Hermann,29.0,Bahrain Merida,11.0,2019
+21.0,BOL Jetse,30.0,Burgos-BH,11.0,2019
+22.0,SÁNCHEZ Luis León,35.0,Astana Pro Team,10.0,2019
+23.0,LATOUR Pierre,25.0,AG2R La Mondiale,10.0,2019
+24.0,NAVARRO Daniel,36.0,Team Katusha Alpecin,10.0,2019
+25.0,O'CONNOR Ben,23.0,Team Dimension Data,9.0,2019
+26.0,DE GENDT Thomas,32.0,Lotto Soudal,9.0,2019
+27.0,SÁEZ Héctor,25.0,Euskadi Basque Country - Murias,8.0,2019
+28.0,HOWSON Damien,27.0,Mitchelton-Scott,8.0,2019
+29.0,RODRÍGUEZ Óscar,24.0,Euskadi Basque Country - Murias,8.0,2019
+30.0,ARANBURU Alex,23.0,Caja Rural - Seguros RGA,7.0,2019
+31.0,GRMAY Tsgabu,28.0,Mitchelton-Scott,7.0,2019
+32.0,KNOX James,23.0,Deceuninck - Quick Step,7.0,2019
+33.0,ARMÉE Sander,33.0,Lotto Soudal,7.0,2019
+34.0,PADUN Mark,23.0,Bahrain Merida,7.0,2019
+35.0,BRAMBILLA Gianluca,32.0,Trek - Segafredo,6.0,2019
+36.0,PEDRERO Antonio,27.0,Movistar Team,6.0,2019
+37.0,FRAILE Omar,29.0,Astana Pro Team,6.0,2019
+38.0,STETINA Peter,32.0,Trek - Segafredo,5.0,2019
+39.0,ARMIRAIL Bruno,25.0,Groupama - FDJ,5.0,2019
+40.0,WALLAYS Jelle,30.0,Lotto Soudal,5.0,2019
+41.0,BARCELÓ Fernando,23.0,Euskadi Basque Country - Murias,5.0,2019
+42.0,EDET Nicolas,31.0,"Cofidis, Solutions Crédits",4.0,2019
+43.0,OLIVEIRA Nelson,30.0,Movistar Team,4.0,2019
+44.0,MEINTJES Louis,27.0,Team Dimension Data,4.0,2019
+45.0,IZAGIRRE Gorka,31.0,Astana Pro Team,4.0,2019
+46.0,CRADDOCK Lawson,27.0,EF Education First,4.0,2019
+47.0,BARTHE Cyril,23.0,Euskadi Basque Country - Murias,4.0,2019
+48.0,VANHOUCKE Harm,22.0,Lotto Soudal,3.0,2019
+49.0,MAJKA Rafał,30.0,BORA - hansgrohe,3.0,2019
+50.0,GROßSCHARTNER Felix,25.0,BORA - hansgrohe,3.0,2019
+51.0,MARCZYŃSKI Tomasz,35.0,Lotto Soudal,3.0,2019
+52.0,LASTRA Jonathan,26.0,Caja Rural - Seguros RGA,3.0,2019
+53.0,ROSSETTO Stéphane,32.0,"Cofidis, Solutions Crédits",3.0,2019
+54.0,TEUNS Dylan,27.0,Bahrain Merida,2.0,2019
+55.0,POWLESS Neilson,23.0,Team Jumbo-Visma,2.0,2019
+56.0,ATAPUMA Darwin,31.0,"Cofidis, Solutions Crédits",2.0,2019
+57.0,VAN DER SANDE Tosh,28.0,Lotto Soudal,2.0,2019
+58.0,MORABITO Steve,36.0,Groupama - FDJ,2.0,2019
+59.0,CONTI Valerio,26.0,UAE Team Emirates,2.0,2019
+60.0,PUCCIO Salvatore,30.0,Team INEOS,2.0,2019
+61.0,BENNETT George,29.0,Team Jumbo-Visma,1.0,2019
+62.0,ARNDT Nikias,27.0,Team Sunweb,1.0,2019
+63.0,DILLIER Silvan,29.0,AG2R La Mondiale,1.0,2019
+64.0,GODON Dorian,23.0,AG2R La Mondiale,1.0,2019
+65.0,SEIGLE Romain,24.0,Groupama - FDJ,1.0,2019
+66.0,JAUREGUI Quentin,25.0,AG2R La Mondiale,1.0,2019
+67.0,POWER Robert,24.0,Team Sunweb,1.0,2019
+68.0,RUBIO Diego,28.0,Burgos-BH,1.0,2019
+1,MARTIN Guillaume,27.0,Cofidis,99.0,2020
+2,WELLENS Tim,29.0,Lotto Soudal,34.0,2020
+3,CARAPAZ Richard,27.0,INEOS Grenadiers,30.0,2020
+4,GAUDU David,24.0,Groupama - FDJ,29.0,2020
+5,KUSS Sepp,26.0,Team Jumbo-Visma,27.0,2020
+6,ROGLIČ Primož,31.0,Team Jumbo-Visma,24.0,2020
+7,CARTHY Hugh,26.0,EF Pro Cycling,21.0,2020
+8,WOODS Michael,34.0,EF Pro Cycling,21.0,2020
+9,COSTA Rui,34.0,UAE Team Emirates,21.0,2020
+10,MARTIN Dan,34.0,Israel Start-Up Nation,20.0,2020
+11,VLASOV Aleksandr,24.0,Astana Pro Team,18.0,2020
+12,SOLER Marc,26.0,Movistar Team,18.0,2020
+13,IZAGIRRE Ion,31.0,Astana Pro Team,17.0,2020
+14,PÉRICHON Pierre-Luc,33.0,Cofidis,17.0,2020
+15,STORER Michael,23.0,Team Sunweb,17.0,2020
+16,STANNARD Robert,22.0,Mitchelton-Scott,16.0,2020
+17,MAS Enric,25.0,Movistar Team,16.0,2020
+18,OLIVEIRA Nelson,31.0,Movistar Team,13.0,2020
+19,CAVAGNA Rémi,25.0,Deceuninck - Quick Step,13.0,2020
+20,MÄDER Gino,23.0,NTT Pro Cycling,12.0,2020
+21,VALVERDE Alejandro,40.0,Movistar Team,11.0,2020
+22,OLIVEIRA Ivo,24.0,UAE Team Emirates,10.0,2020
+23,CATTANEO Mattia,30.0,Deceuninck - Quick Step,10.0,2020
+24,EG Niklas,25.0,Trek - Segafredo,10.0,2020
+25,ARMIRAIL Bruno,26.0,Groupama - FDJ,9.0,2020
+26,DE LA CRUZ David,31.0,UAE Team Emirates,8.0,2020
+27,POWER Robert,25.0,Team Sunweb,7.0,2020
+28,DONOVAN Mark,21.0,Team Sunweb,6.0,2020
+29,ARENSMAN Thymen,20.0,Team Sunweb,5.0,2020
+30,MADRAZO Ángel,32.0,Burgos-BH,5.0,2020
+31,MATÉ Luis Ángel,36.0,Cofidis,4.0,2020
+32,PETERS Nans,26.0,AG2R La Mondiale,4.0,2020
+33,BOL Jetse,31.0,Burgos-BH,4.0,2020
+34,VAN DER SANDE Tosh,29.0,Lotto Soudal,3.0,2020
+35,VAN MOER Brent,22.0,Lotto Soudal,3.0,2020
+36,BADILATTI Matteo,28.0,Israel Start-Up Nation,3.0,2020
+37,GOOSSENS Kobe,24.0,Lotto Soudal,3.0,2020
+38,SIMON Julien,35.0,Team Total Direct Energie,3.0,2020
+39,POELS Wout,33.0,Bahrain - McLaren,2.0,2020
+40,BARTA Will,24.0,CCC Team,2.0,2020
+41,SCHULTZ Nick,26.0,Mitchelton-Scott,2.0,2020
+42,GESINK Robert,34.0,Team Jumbo-Visma,2.0,2020
+43,FRAILE Omar,30.0,Astana Pro Team,2.0,2020
+44,SMIT Willie,27.0,Burgos-BH,2.0,2020
+45,VAN DEN BERG Julius,24.0,EF Pro Cycling,2.0,2020
+46,MOLENAAR Alex,21.0,Burgos-BH,2.0,2020
+47,CHAVES Esteban,30.0,Mitchelton-Scott,1.0,2020
+48,VALGREN Michael,28.0,NTT Pro Cycling,1.0,2020
+49,AMEZQUETA Julen,27.0,Caja Rural - Seguros RGA,1.0,2020
+50,AMADOR Andrey,34.0,INEOS Grenadiers,1.0,2020
+51,SÜTTERLIN Jasha,28.0,Team Sunweb,1.0,2020
+52,SERRANO Gonzalo,26.0,Caja Rural - Seguros RGA,1.0,2020
+53,LASTRA Jonathan,27.0,Caja Rural - Seguros RGA,1.0,2020
+54,ROUX Anthony,33.0,Groupama - FDJ,1.0,2020
+55,ARCAS Jorge,28.0,Movistar Team,1.0,2020
+56,BAGÜES Aritz,31.0,Caja Rural - Seguros RGA,1.0,2020
+57,WURF Cameron,37.0,INEOS Grenadiers,1.0,2020
+58,SCHWARZMANN Michael,29.0,BORA - hansgrohe,1.0,2020
+-,OSORIO Juan Felipe,25.0,Burgos-BH,-1.0,2020
+-,HIRT Jan,29.0,CCC Team,-2.0,2020
+1,STORER Michael,24.0,Team DSM,80.0,2021
+2,BARDET Romain,30.0,Team DSM,61.0,2021
+3,ROGLIČ Primož,31.0,Team Jumbo-Visma,51.0,2021
+4,CARUSO Damiano,33.0,Bahrain - Victorious,33.0,2021
+5,MAJKA Rafał,31.0,UAE Team Emirates,33.0,2021
+6,HAIG Jack,27.0,Bahrain - Victorious,23.0,2021
+7,KUSS Sepp,26.0,Team Jumbo-Visma,19.0,2021
+8,MAS Enric,26.0,Movistar Team,17.0,2021
+9,BERNAL Egan,24.0,INEOS Grenadiers,16.0,2021
+10,ARU Fabio,31.0,Team Qhubeka NextHash,16.0,2021
+11,SIVAKOV Pavel,24.0,INEOS Grenadiers,16.0,2021
+12,TAARAMÄE Rein,34.0,Intermarché - Wanty - Gobert Matériaux,14.0,2021
+13,CHAMPOUSSIN Clément,23.0,AG2R Citroën Team,12.0,2021
+14,CORT Magnus,28.0,EF Education - Nippo,11.0,2021
+15,GIBBONS Ryan,27.0,UAE Team Emirates,11.0,2021
+16,POLANC Jan,29.0,UAE Team Emirates,9.0,2021
+17,POELS Wout,33.0,Bahrain - Victorious,9.0,2021
+18,KRUIJSWIJK Steven,34.0,Team Jumbo-Visma,8.0,2021
+19,BIZKARRA Mikel,32.0,Euskaltel - Euskadi,8.0,2021
+20,HERRADA Jesús,31.0,Cofidis,7.0,2021
+21,AMEZQUETA Julen,28.0,Caja Rural - Seguros RGA,7.0,2021
+22,ARENSMAN Thymen,21.0,Team DSM,7.0,2021
+23,VINE Jay,25.0,Alpecin-Fenix,7.0,2021
+24,CABEDO Óscar,26.0,Burgos-BH,6.0,2021
+25,DOMBROWSKI Joe,30.0,UAE Team Emirates,6.0,2021
+26,SÁNCHEZ Pelayo,21.0,Burgos-BH,6.0,2021
+27,CHEREL Mikaël,35.0,AG2R Citroën Team,5.0,2021
+28,YATES Adam,29.0,INEOS Grenadiers,5.0,2021
+29,BRAMBILLA Gianluca,34.0,Trek - Segafredo,5.0,2021
+30,HAMILTON Chris,26.0,Team DSM,5.0,2021
+31,BAGIOLI Andrea,22.0,Deceuninck - Quick Step,5.0,2021
+32,DE LA CRUZ David,32.0,UAE Team Emirates,4.0,2021
+33,ZEITS Andrey,34.0,Team BikeExchange,4.0,2021
+34,TRENTIN Matteo,32.0,UAE Team Emirates,4.0,2021
+35,SOTO Antonio Jesús,26.0,Euskaltel - Euskadi,4.0,2021
+36,ITURRIA Mikel,29.0,Euskaltel - Euskadi,3.0,2021
+37,BOL Jetse,31.0,Burgos-BH,3.0,2021
+38,CALMEJANE Lilian,28.0,AG2R Citroën Team,3.0,2021
+39,CRADDOCK Lawson,29.0,EF Education - Nippo,3.0,2021
+40,SIMMONS Quinn,20.0,Trek - Segafredo,3.0,2021
+41,MATÉ Luis Ángel,37.0,Euskaltel - Euskadi,2.0,2021
+42,TUSVELD Martijn,27.0,Team DSM,2.0,2021
+43,PIDCOCK Thomas,22.0,INEOS Grenadiers,2.0,2021
+44,LE GAC Olivier,28.0,Groupama - FDJ,2.0,2021
+45,MONIQUET Sylvain,23.0,Lotto Soudal,2.0,2021
+46,MÄDER Gino,24.0,Bahrain - Victorious,1.0,2021
+47,CRAS Steff,25.0,Lotto Soudal,1.0,2021
+48,IZAGIRRE Ion,32.0,Astana - Premier Tech,1.0,2021
+49,CEPEDA Jefferson Alveiro,25.0,Caja Rural - Seguros RGA,1.0,2021
+50,PRODHOMME Nicolas,24.0,AG2R Citroën Team,1.0,2021
+51,PADUN Mark,25.0,Bahrain - Victorious,1.0,2021
+52,DEWULF Stan,23.0,AG2R Citroën Team,1.0,2021
+53,OLIVEIRA Rui,25.0,UAE Team Emirates,1.0,2021
+54,VAN GILS Maxim,21.0,Lotto Soudal,1.0,2021
+55,DÉMARE Arnaud,30.0,Groupama - FDJ,1.0,2021
+-,HIRT Jan,30.0,Intermarché - Wanty - Gobert Matériaux,-1.0,2021
+-,VAN LERBERGHE Bert,28.0,Deceuninck - Quick Step,-2.0,2021
+-,NAVARRO Daniel,38.0,Burgos-BH,-4.0,2021
+1,CARAPAZ Richard,29.0,INEOS Grenadiers,73.0,2022
+2,STANNARD Robert,23.0,Alpecin-Deceuninck,36.0,2022
+3,MAS Enric,27.0,Movistar Team,28.0,2022
+4,ARENSMAN Thymen,22.0,Team DSM,23.0,2022
+5,EVENEPOEL Remco,22.0,Quick-Step Alpha Vinyl Team,23.0,2022
+6,SOLER Marc,28.0,UAE Team Emirates,23.0,2022
+7,HIGUITA Sergio,25.0,BORA - hansgrohe,18.0,2022
+8,LÓPEZ Miguel Ángel,28.0,Astana Qazaqstan Team,17.0,2022
+9,JANSSENS Jimmy,33.0,Alpecin-Deceuninck,17.0,2022
+10,FERNÁNDEZ Rubén,31.0,Cofidis,15.0,2022
+11,MEINTJES Louis,30.0,Intermarché - Wanty - Gobert Matériaux,14.0,2022
+12,PINOT Thibaut,32.0,Groupama - FDJ,13.0,2022
+13,HERRADA Jesús,32.0,Cofidis,11.0,2022
+14,CRADDOCK Lawson,30.0,Team BikeExchange - Jayco,11.0,2022
+15,MEURISSE Xandro,30.0,Alpecin-Deceuninck,11.0,2022
+16,PADUN Mark,26.0,EF Education-EasyPost,2.0,2022
+17,ZAMBANINI Edoardo,21.0,Bahrain - Victorious,8.0,2022
+18,SÁNCHEZ Luis León,38.0,Bahrain - Victorious,7.0,2022
+19,KELDERMAN Wilco,31.0,BORA - hansgrohe,6.0,2022
+20,WRIGHT Fred,23.0,Bahrain - Victorious,6.0,2022
+21,DENNIS Rohan,32.0,Jumbo-Visma,5.0,2022
+22,MCNULTY Brandon,24.0,UAE Team Emirates,5.0,2022
+23,BOU Joan,25.0,Euskaltel - Euskadi,5.0,2022
+24,MASNADA Fausto,28.0,Quick-Step Alpha Vinyl Team,5.0,2022
+25,CARTHY Hugh,28.0,EF Education-EasyPost,4.0,2022
+26,MOLARD Rudy,32.0,Groupama - FDJ,4.0,2022
+27,GESINK Robert,36.0,Jumbo-Visma,4.0,2022
+28,OKAMIKA Ander,29.0,Burgos-BH,4.0,2022
+29,URÁN Rigoberto,35.0,EF Education-EasyPost,2.0,2022
+30,VAN DEN BERG Julius,25.0,EF Education-EasyPost,3.0,2022
+31,HINDLEY Jai,26.0,BORA - hansgrohe,3.0,2022
+32,MÄDER Gino,25.0,Bahrain - Victorious,3.0,2022
+33,VAN BAARLE Dylan,30.0,INEOS Grenadiers,3.0,2022
+34,MÜHLBERGER Gregor,28.0,Movistar Team,3.0,2022
+35,CATALDO Dario,37.0,Trek - Segafredo,3.0,2022
+36,DE GENDT Thomas,35.0,Lotto Soudal,2.0,2022
+37,AYUSO Juan,19.0,UAE Team Emirates,2.0,2022
+38,ALMEIDA João,24.0,UAE Team Emirates,2.0,2022
+39,O'CONNOR Ben,26.0,AG2R Citroën Team,2.0,2022
+40,POLANC Jan,30.0,UAE Team Emirates,2.0,2022
+41,OLIVEIRA Nelson,33.0,Movistar Team,2.0,2022
+42,GESBERT Élie,27.0,Team Arkéa Samsic,2.0,2022
+43,DÍAZ José Manuel,27.0,Burgos-BH,2.0,2022
+44,NAVARRO Daniel,39.0,Burgos-BH,2.0,2022
+45,ELISSONDE Kenny,31.0,Trek - Segafredo,2.0,2022
+46,RODRÍGUEZ Carlos,21.0,INEOS Grenadiers,1.0,2022
+47,VALVERDE Alejandro,42.0,Movistar Team,1.0,2022
+48,DE LA CRUZ David,33.0,Astana Qazaqstan Team,1.0,2022
+49,REICHENBACH Sébastien,33.0,Groupama - FDJ,1.0,2022
+50,BAKELANTS Jan,36.0,Intermarché - Wanty - Gobert Matériaux,1.0,2022
+51,NIBALI Vincenzo,37.0,Astana Qazaqstan Team,1.0,2022
+52,GUGLIELMI Simon,25.0,Team Arkéa Samsic,1.0,2022
+53,CAICEDO Jonathan Klever,29.0,EF Education-EasyPost,1.0,2022
+54,LUTSENKO Alexey,30.0,Astana Qazaqstan Team,1.0,2022
+55,BRENNER Marco,20.0,Team DSM,1.0,2022
+56,AZURMENDI Ibai,26.0,Euskaltel - Euskadi,1.0,2022
+57,IMPEY Daryl,37.0,Israel - Premier Tech,1.0,2022
+58,AZPARREN Xabier Mikel,23.0,Euskaltel - Euskadi,1.0,2022
